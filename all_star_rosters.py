@@ -21,4 +21,4 @@ allstar_key = player_name[["key_bbref", "name_last", "name_first"]]
 # join full names with filtered all star dataset
 merged_allstars = pd.merge(allstar_filtered, allstar_key, on="key_bbref", how="left")
 
-print(merged_allstars)
+merged_allstars.to_csv("allstars.csv")
