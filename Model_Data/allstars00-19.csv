@@ -1,1445 +1,905 @@
-,key_bbref,yearID,gameNum,gameID,teamID,lgID,GP,startingPos,name_last,name_first
-0,wellsda01,2000,0,NLS200007110,TOR,AL,1,1.0,wells,david
-1,rodriiv01,2000,0,NLS200007110,TEX,AL,1,2.0,rodriguez,ivan
-2,giambja01,2000,0,NLS200007110,OAK,AL,1,3.0,giambi,jason
-3,alomaro01,2000,0,NLS200007110,CLE,AL,1,4.0,alomar,roberto
-4,frymatr01,2000,0,NLS200007110,CLE,AL,1,5.0,fryman,travis
-5,jeterde01,2000,0,NLS200007110,NYA,AL,1,6.0,jeter,derek
-6,evereca01,2000,0,NLS200007110,BOS,AL,1,7.0,everett,carl
-7,willibe02,2000,0,NLS200007110,NYA,AL,1,8.0,williams,bernie
-8,dyeje01,2000,0,NLS200007110,KCA,AL,1,9.0,dye,jermaine
-9,baldwja01,2000,0,NLS200007110,CHA,AL,1,,baldwin,james
-10,batisto01,2000,0,NLS200007110,TOR,AL,1,,batista,tony
-11,bordimi01,2000,0,NLS200007110,BAL,AL,1,,bordick,mike
-12,delgaca01,2000,0,NLS200007110,TOR,AL,1,,delgado,carlos
-13,durhara01,2000,0,NLS200007110,CHA,AL,1,,durham,ray
-14,erstada01,2000,0,NLS200007110,LAA,AL,1,,erstad,darin
-15,finlech01,2000,0,NLS200007110,CLE,AL,0,,finley,chuck
-16,garcino01,2000,0,NLS200007110,BOS,AL,1,,garciaparra,nomar
-17,glaustr01,2000,0,NLS200007110,LAA,AL,1,,glaus,troy
-18,hudsoti01,2000,0,NLS200007110,OAK,AL,1,,hudson,tim
-19,isrinja01,2000,0,NLS200007110,OAK,AL,1,,isringhausen,jason
-20,jonesto02,2000,0,NLS200007110,DET,AL,1,,jones,todd
-21,lawtoma02,2000,0,NLS200007110,MIN,AL,1,,lawton,matt
-22,lowede01,2000,0,NLS200007110,BOS,AL,1,,lowe,derek
-23,martied01,2000,0,NLS200007110,SEA,AL,1,,martinez,edgar
-24,martipe02,2000,0,NLS200007110,BOS,AL,0,,martinez,pedro
-25,mcgrifr01,2000,0,NLS200007110,TBA,AL,1,,mcgriff,fred
-26,ordonma01,2000,0,NLS200007110,CHA,AL,1,,ordonez,magglio
-27,posadjo01,2000,0,NLS200007110,NYA,AL,1,,posada,jorge
-28,ramirma02,2000,0,NLS200007110,CLE,AL,0,,ramirez,manny
-29,ripkeca01,2000,0,NLS200007110,BAL,AL,0,,ripken,cal
-30,riverma01,2000,0,NLS200007110,NYA,AL,1,,rivera,mariano
-31,rodrial01,2000,0,NLS200007110,SEA,AL,0,,rodriguez,alex
-32,seleaa01,2000,0,NLS200007110,SEA,AL,1,,sele,aaron
-33,sweenmi01,2000,0,NLS200007110,KCA,AL,1,,sweeney,mike
-34,johnsra05,2000,0,NLS200007110,ARI,NL,1,1.0,johnson,randy
-35,kendaja01,2000,0,NLS200007110,PIT,NL,1,2.0,kendall,jason
-36,galaran01,2000,0,NLS200007110,ATL,NL,1,3.0,galarraga,andres
-37,kentje01,2000,0,NLS200007110,SFN,NL,1,4.0,kent,jeff
-38,jonesch06,2000,0,NLS200007110,ATL,NL,1,5.0,jones,chipper
-39,larkiba01,2000,0,NLS200007110,CIN,NL,1,6.0,larkin,barry
-40,guerrvl01,2000,0,NLS200007110,MON,NL,1,7.0,guerrero,vladimir
-41,edmonji01,2000,0,NLS200007110,SLN,NL,1,8.0,edmonds,jim
-42,sosasa01,2000,0,NLS200007110,CHN,NL,1,9.0,sosa,sammy
-43,alfoned01,2000,0,NLS200007110,NYN,NL,1,,alfonzo,edgardo
-44,bondsba01,2000,0,NLS200007110,SFN,NL,0,,bonds,barry
-45,brownke01,2000,0,NLS200007110,LAN,NL,1,,brown,kevin
-46,cirilje01,2000,0,NLS200007110,COL,NL,1,,cirillo,jeff
-47,dempsry01,2000,0,NLS200007110,FLO,NL,0,,dempster,ryan
-48,finlest01,2000,0,NLS200007110,ARI,NL,1,,finley,steve
-49,gilesbr02,2000,0,NLS200007110,PIT,NL,1,,giles,brian
-50,girarjo01,2000,0,NLS200007110,CHN,NL,0,,girardi,joe
-51,glavito02,2000,0,NLS200007110,ATL,NL,1,,glavine,tom
-52,graveda01,2000,0,NLS200007110,CIN,NL,1,,graves,danny
-53,griffke02,2000,0,NLS200007110,CIN,NL,0,,griffey,ken
-54,hammoje01,2000,0,NLS200007110,COL,NL,1,,hammonds,jeffrey
-55,heltoto01,2000,0,NLS200007110,COL,NL,1,,helton,todd
-56,hoffmtr01,2000,0,NLS200007110,SDN,NL,1,,hoffman,trevor
-57,jonesan01,2000,0,NLS200007110,ATL,NL,1,,jones,andruw
-58,kileda01,2000,0,NLS200007110,SLN,NL,1,,kile,darryl
-59,leiteal01,2000,0,NLS200007110,NYN,NL,1,,leiter,al
-60,liebemi01,2000,0,NLS200007110,PHI,NL,1,,lieberthal,mike
-61,maddugr01,2000,0,NLS200007110,ATL,NL,0,,maddux,greg
-62,mcgwima01,2000,0,NLS200007110,SLN,NL,0,,mcgwire,mark
-63,piazzmi01,2000,0,NLS200007110,NYN,NL,0,,piazza,mike
-64,renteed01,2000,0,NLS200007110,SLN,NL,1,,renteria,edgar
-65,reynosh01,2000,0,NLS200007110,HOU,NL,0,,reynolds,shane
-66,sheffga01,2000,0,NLS200007110,LAN,NL,1,,sheffield,gary
-67,vidrojo01,2000,0,NLS200007110,MON,NL,1,,vidro,jose
-68,wickmbo01,2000,0,NLS200007110,MIL,NL,1,,wickman,bob
-69,clemero02,2001,0,ALS200107100,NYA,AL,1,1.0,clemens,roger
-70,rodriiv01,2001,0,ALS200107100,TEX,AL,1,2.0,rodriguez,ivan
-71,olerujo01,2001,0,ALS200107100,SEA,AL,1,3.0,olerud,john
-72,boonebr01,2001,0,ALS200107100,SEA,AL,1,4.0,boone,bret
-73,rodrial01,2001,0,ALS200107100,TEX,AL,1,5.0,rodriguez,alex
-74,ripkeca01,2001,0,ALS200107100,BAL,AL,1,6.0,ripken,cal
-75,ramirma02,2001,0,ALS200107100,BOS,AL,1,7.0,ramirez,manny
-76,suzukic01,2001,0,ALS200107100,SEA,AL,1,8.0,suzuki,ichiro
-77,gonzaju03,2001,0,ALS200107100,CLE,AL,1,9.0,gonzalez,juan
-78,martied01,2001,0,ALS200107100,SEA,AL,1,10.0,martinez,edgar
-79,alomaro01,2001,0,ALS200107100,CLE,AL,1,,alomar,roberto
-80,camermi01,2001,0,ALS200107100,SEA,AL,1,,cameron,mike
-81,clarkto02,2001,0,ALS200107100,DET,AL,1,,clark,tony
-82,garcifr02,2001,0,ALS200107100,SEA,AL,1,,,
-83,giambja01,2001,0,ALS200107100,OAK,AL,1,,giambi,jason
-84,glaustr01,2001,0,ALS200107100,LAA,AL,1,,glaus,troy
-85,guzmacr01,2001,0,ALS200107100,MIN,AL,1,,guzman,cristian
-86,jeterde01,2001,0,ALS200107100,NYA,AL,1,,jeter,derek
-87,maysjo01,2001,0,ALS200107100,MIN,AL,1,,mays,joe
-88,miltoer01,2001,0,ALS200107100,MIN,AL,0,,milton,eric
-89,nelsoje01,2001,0,ALS200107100,SEA,AL,1,,nelson,jeff
-90,ordonma01,2001,0,ALS200107100,CHA,AL,1,,ordonez,magglio
-91,percitr01,2001,0,ALS200107100,LAA,AL,1,,percival,troy
-92,pettian01,2001,0,ALS200107100,NYA,AL,1,,pettitte,andy
-93,posadjo01,2001,0,ALS200107100,NYA,AL,1,,posada,jorge
-94,quantpa01,2001,0,ALS200107100,TOR,AL,1,,quantrill,paul
-95,riverma01,2001,0,ALS200107100,NYA,AL,0,,rivera,mariano
-96,sasakka01,2001,0,ALS200107100,SEA,AL,1,,sasaki,kazuhiro
-97,stantmi02,2001,0,ALS200107100,NYA,AL,1,,stanton,mike
-98,sweenmi01,2001,0,ALS200107100,KCA,AL,1,,sweeney,mike
-99,vaughgr01,2001,0,ALS200107100,TBA,AL,0,,vaughn,greg
-100,willibe02,2001,0,ALS200107100,NYA,AL,1,,williams,bernie
-101,johnsra05,2001,0,ALS200107100,ARI,NL,1,1.0,johnson,randy
-102,piazzmi01,2001,0,ALS200107100,NYN,NL,1,2.0,piazza,mike
-103,heltoto01,2001,0,ALS200107100,COL,NL,1,3.0,helton,todd
-104,kentje01,2001,0,ALS200107100,SFN,NL,1,4.0,kent,jeff
-105,jonesch06,2001,0,ALS200107100,ATL,NL,1,5.0,jones,chipper
-106,aurilri01,2001,0,ALS200107100,SFN,NL,1,6.0,aurilia,rich
-107,bondsba01,2001,0,ALS200107100,SFN,NL,1,7.0,bonds,barry
-108,gonzalu01,2001,0,ALS200107100,ARI,NL,1,8.0,gonzalez,luis
-109,sosasa01,2001,0,ALS200107100,CHN,NL,1,9.0,sosa,sammy
-110,walkela01,2001,0,ALS200107100,COL,NL,1,10.0,walker,larry
-111,aloumo01,2001,0,ALS200107100,HOU,NL,1,,alou,moises
-112,berkmla01,2001,0,ALS200107100,HOU,NL,1,,berkman,lance
-113,burkejo03,2001,0,ALS200107100,ATL,NL,1,,burkett,john
-114,caseyse01,2001,0,ALS200107100,CIN,NL,1,,casey,sean
-115,floydcl01,2001,0,ALS200107100,FLO,NL,1,,floyd,cliff
-116,gilesbr02,2001,0,ALS200107100,PIT,NL,1,,giles,brian
-117,guerrvl01,2001,0,ALS200107100,MON,NL,1,,guerrero,vladimir
-118,hamptmi01,2001,0,ALS200107100,COL,NL,1,,hampton,mike
-119,johnsch04,2001,0,ALS200107100,FLO,NL,1,,johnson,charles
-120,kleskry01,2001,0,ALS200107100,SDN,NL,1,,klesko,ryan
-121,liebejo01,2001,0,ALS200107100,CHN,NL,1,,lieber,jon
-122,morrima01,2001,0,ALS200107100,SLN,NL,1,,morris,matt
-123,nevinph01,2001,0,ALS200107100,SDN,NL,1,,nevin,phil
-124,parkch01,2001,0,ALS200107100,LAN,NL,1,,park,chan ho
-125,pujolal01,2001,0,ALS200107100,SLN,NL,1,,pujols,albert
-126,reedri01,2001,0,ALS200107100,NYN,NL,0,,reed,rick
-127,rolliji01,2001,0,ALS200107100,PHI,NL,1,,rollins,jimmy
-128,schilcu01,2001,0,ALS200107100,ARI,NL,0,,schilling,curt
-129,shawje01,2001,0,ALS200107100,LAN,NL,1,,shaw,jeff
-130,sheetbe01,2001,0,ALS200107100,MIL,NL,1,,sheets,ben
-131,wagnebi02,2001,0,ALS200107100,HOU,NL,1,,wagner,billy
-132,lowede01,2002,0,NLS200207090,BOS,AL,1,1.0,lowe,derek
-133,posadjo01,2002,0,NLS200207090,NYA,AL,1,2.0,posada,jorge
-134,giambja01,2002,0,NLS200207090,NYA,AL,1,3.0,giambi,jason
-135,soriaal01,2002,0,NLS200207090,NYA,AL,1,4.0,soriano,alfonso
-136,hillesh02,2002,0,NLS200207090,BOS,AL,1,5.0,hillenbrand,shea
-137,rodrial01,2002,0,NLS200207090,TEX,AL,1,6.0,rodriguez,alex
-138,ramirma02,2002,0,NLS200207090,BOS,AL,1,7.0,ramirez,manny
-139,hunteto01,2002,0,NLS200207090,MIN,AL,1,8.0,hunter,torii
-140,suzukic01,2002,0,NLS200207090,SEA,AL,1,9.0,suzuki,ichiro
-141,anderga01,2002,0,NLS200207090,LAA,AL,1,,anderson,garret
-142,batisto01,2002,0,NLS200207090,BAL,AL,1,,batista,tony
-143,buehrma01,2002,0,NLS200207090,CHA,AL,1,,buehrle,mark
-144,damonjo01,2002,0,NLS200207090,BOS,AL,1,,damon,johnny
-145,fickro01,2002,0,NLS200207090,DET,AL,1,,fick,robert
-146,garcifr02,2002,0,NLS200207090,SEA,AL,1,,,
-147,garcino01,2002,0,NLS200207090,BOS,AL,1,,garciaparra,nomar
-148,guarded01,2002,0,NLS200207090,MIN,AL,1,,guardado,eddie
-149,hallaro01,2002,0,NLS200207090,TOR,AL,1,,halladay,roy
-150,jeterde01,2002,0,NLS200207090,NYA,AL,1,,jeter,derek
-151,konerpa01,2002,0,NLS200207090,CHA,AL,1,,konerko,paul
-152,martipe02,2002,0,NLS200207090,BOS,AL,0,,martinez,pedro
-153,pierzaj01,2002,0,NLS200207090,MIN,AL,1,,,
-154,riverma01,2002,0,NLS200207090,NYA,AL,1,,rivera,mariano
-155,sasakka01,2002,0,NLS200207090,SEA,AL,1,,sasaki,kazuhiro
-156,sweenmi01,2002,0,NLS200207090,KCA,AL,1,,sweeney,mike
-157,tejadmi01,2002,0,NLS200207090,OAK,AL,1,,tejada,miguel
-158,urbinug01,2002,0,NLS200207090,BOS,AL,1,,urbina,ugueth
-159,venturo01,2002,0,NLS200207090,NYA,AL,1,,ventura,robin
-160,vizquom01,2002,0,NLS200207090,CLE,AL,1,,vizquel,omar
-161,winnra01,2002,0,NLS200207090,TBA,AL,1,,winn,randy
-162,zitoba01,2002,0,NLS200207090,OAK,AL,1,,zito,barry
-163,schilcu01,2002,0,NLS200207090,ARI,NL,1,1.0,schilling,curt
-164,piazzmi01,2002,0,NLS200207090,NYN,NL,1,2.0,piazza,mike
-165,heltoto01,2002,0,NLS200207090,COL,NL,1,3.0,helton,todd
-166,vidrojo01,2002,0,NLS200207090,MON,NL,1,4.0,vidro,jose
-167,rolensc01,2002,0,NLS200207090,PHI,NL,1,5.0,rolen,scott
-168,rolliji01,2002,0,NLS200207090,PHI,NL,1,6.0,rollins,jimmy
-169,bondsba01,2002,0,NLS200207090,SFN,NL,1,7.0,bonds,barry
-170,guerrvl01,2002,0,NLS200207090,MON,NL,1,8.0,guerrero,vladimir
-171,sosasa01,2002,0,NLS200207090,CHN,NL,1,9.0,sosa,sammy
-172,berkmla01,2002,0,NLS200207090,HOU,NL,1,,berkman,lance
-173,castilu01,2002,0,NLS200207090,FLO,NL,1,,castillo,luis
-174,dunnad01,2002,0,NLS200207090,CIN,NL,1,,dunn,adam
-175,gagneer01,2002,0,NLS200207090,LAN,NL,1,,gagne,eric
-176,glavito02,2002,0,NLS200207090,ATL,NL,0,,glavine,tom
-177,gonzalu01,2002,0,NLS200207090,ARI,NL,1,,gonzalez,luis
-178,greensh01,2002,0,NLS200207090,LAN,NL,1,,green,shawn
-179,hernajo01,2002,0,NLS200207090,MIL,NL,1,,hernández,josé
-180,hoffmtr01,2002,0,NLS200207090,SDN,NL,1,,hoffman,trevor
-181,johnsra05,2002,0,NLS200207090,ARI,NL,0,,johnson,randy
-182,jonesan01,2002,0,NLS200207090,ATL,NL,1,,jones,andruw
-183,kimby01,2002,0,NLS200207090,ARI,NL,1,,kim,byung-hyun
-184,lowelmi01,2002,0,NLS200207090,FLO,NL,1,,lowell,mike
-185,milleda02,2002,0,NLS200207090,ARI,NL,1,,miller,damian
-186,morrima01,2002,0,NLS200207090,SLN,NL,0,,morris,matt
-187,nenro01,2002,0,NLS200207090,SFN,NL,1,,nen,robb
-188,padilvi01,2002,0,NLS200207090,PHI,NL,1,,padilla,vicente
-189,perezod01,2002,0,NLS200207090,LAN,NL,1,,perez,odalis
-190,remlimi01,2002,0,NLS200207090,ATL,NL,1,,remlinger,mike
-191,santibe01,2002,0,NLS200207090,SFN,NL,1,,santiago,benito
-192,sexsori01,2002,0,NLS200207090,MIL,NL,1,,sexson,richie
-193,smoltjo01,2002,0,NLS200207090,ATL,NL,1,,smoltz,john
-194,spiveju01,2002,0,NLS200207090,ARI,NL,1,,spivey,junior
-195,willimi03,2002,0,NLS200207090,PIT,NL,1,,williams,mike
-196,loaizes01,2003,0,ALS200307150,CHA,AL,1,1.0,loaiza,esteban
-197,posadjo01,2003,0,ALS200307150,NYA,AL,1,2.0,posada,jorge
-198,delgaca01,2003,0,ALS200307150,TOR,AL,1,3.0,delgado,carlos
-199,soriaal01,2003,0,ALS200307150,NYA,AL,1,4.0,soriano,alfonso
-200,glaustr01,2003,0,ALS200307150,LAA,AL,1,5.0,glaus,troy
-201,rodrial01,2003,0,ALS200307150,TEX,AL,1,6.0,rodriguez,alex
-202,anderga01,2003,0,ALS200307150,LAA,AL,1,7.0,anderson,garret
-203,matsuhi01,2003,0,ALS200307150,NYA,AL,1,8.0,matsui,hideki
-204,suzukic01,2003,0,ALS200307150,SEA,AL,1,9.0,suzuki,ichiro
-205,martied01,2003,0,ALS200307150,SEA,AL,1,10.0,martinez,edgar
-206,blaloha01,2003,0,ALS200307150,TEX,AL,1,,blalock,hank
-207,boonebr01,2003,0,ALS200307150,SEA,AL,1,,boone,bret
-208,cartela02,2003,0,ALS200307150,TBA,AL,0,,carter,lance
-209,clemero02,2003,0,ALS200307150,NYA,AL,1,,clemens,roger
-210,donnebr01,2003,0,ALS200307150,LAA,AL,1,,donnelly,brendan
-211,evereca01,2003,0,ALS200307150,CHA,AL,1,,everett,carl
-212,foulkke01,2003,0,ALS200307150,OAK,AL,1,,foulke,keith
-213,garcino01,2003,0,ALS200307150,BOS,AL,1,,garciaparra,nomar
-214,giambja01,2003,0,ALS200307150,NYA,AL,1,,giambi,jason
-215,guarded01,2003,0,ALS200307150,MIN,AL,1,,guardado,eddie
-216,hallaro01,2003,0,ALS200307150,TOR,AL,0,,halladay,roy
-217,hasegsh01,2003,0,ALS200307150,SEA,AL,1,,hasegawa,shigetoshi
-218,hernara02,2003,0,ALS200307150,OAK,AL,1,,hernandez,ramon
-219,macdomi01,2003,0,ALS200307150,KCA,AL,0,,macdougal,mike
-220,morame01,2003,0,ALS200307150,BAL,AL,1,,mora,melvin
-221,moyerja01,2003,0,ALS200307150,SEA,AL,1,,moyer,jamie
-222,muldema01,2003,0,ALS200307150,OAK,AL,1,,mulder,mark
-223,ordonma01,2003,0,ALS200307150,CHA,AL,1,,ordonez,magglio
-224,ramirma02,2003,0,ALS200307150,BOS,AL,0,,ramirez,manny
-225,sabatcc01,2003,0,ALS200307150,CLE,AL,0,,,
-226,sweenmi01,2003,0,ALS200307150,KCA,AL,0,,sweeney,mike
-227,varitja01,2003,0,ALS200307150,BOS,AL,0,,varitek,jason
-228,wellsve01,2003,0,ALS200307150,TOR,AL,1,,wells,vernon
-229,youngdm01,2003,0,ALS200307150,DET,AL,0,,young,dmitri
-230,zitoba01,2003,0,ALS200307150,OAK,AL,0,,zito,barry
-231,schmija01,2003,0,ALS200307150,SFN,NL,1,1.0,schmidt,jason
-232,lopezja01,2003,0,ALS200307150,ATL,NL,1,2.0,lopez,javy
-233,heltoto01,2003,0,ALS200307150,COL,NL,1,3.0,helton,todd
-234,vidrojo01,2003,0,ALS200307150,MON,NL,1,4.0,vidro,jose
-235,rolensc01,2003,0,ALS200307150,SLN,NL,1,5.0,rolen,scott
-236,renteed01,2003,0,ALS200307150,SLN,NL,1,6.0,renteria,edgar
-237,pujolal01,2003,0,ALS200307150,SLN,NL,1,7.0,pujols,albert
-238,edmonji01,2003,0,ALS200307150,SLN,NL,1,8.0,edmonds,jim
-239,sheffga01,2003,0,ALS200307150,ATL,NL,1,9.0,sheffield,gary
-240,bondsba01,2003,0,ALS200307150,SFN,NL,1,10.0,bonds,barry
-241,benitar01,2003,0,ALS200307150,NYN,NL,0,,benitez,armando
-242,booneaa01,2003,0,ALS200307150,CIN,NL,1,,boone,aaron
-243,brownke01,2003,0,ALS200307150,LAN,NL,0,,brown,kevin
-244,castilu01,2003,0,ALS200307150,FLO,NL,1,,castillo,luis
-245,chacosh01,2003,0,ALS200307150,COL,NL,0,,chacon,shawn
-246,furcara01,2003,0,ALS200307150,ATL,NL,1,,,
-247,gagneer01,2003,0,ALS200307150,LAN,NL,1,,gagne,eric
-248,gilesma01,2003,0,ALS200307150,ATL,NL,0,,giles,marcus
-249,gonzalu01,2003,0,ALS200307150,ARI,NL,1,,gonzalez,luis
-250,jenkige01,2003,0,ALS200307150,MIL,NL,0,,jenkins,geoff
-251,jonesan01,2003,0,ALS200307150,ATL,NL,1,,jones,andruw
-252,loducpa01,2003,0,ALS200307150,LAN,NL,1,,lo duca,paul
-253,lowelmi01,2003,0,ALS200307150,FLO,NL,1,,lowell,mike
-254,ortizru01,2003,0,ALS200307150,ATL,NL,1,,ortiz,russ
-255,priorma01,2003,0,ALS200307150,CHN,NL,0,,prior,mark
-256,sexsori01,2003,0,ALS200307150,MIL,NL,1,,sexson,richie
-257,smoltjo01,2003,0,ALS200307150,ATL,NL,0,,smoltz,john
-258,wagnebi02,2003,0,ALS200307150,HOU,NL,1,,wagner,billy
-259,whitero02,2003,0,ALS200307150,SDN,NL,1,,white,rondell
-260,willido03,2003,0,ALS200307150,FLO,NL,0,,willis,dontrelle
-261,willimi03,2003,0,ALS200307150,PIT,NL,0,,williams,mike
-262,williwo02,2003,0,ALS200307150,SLN,NL,1,,williams,woody
-263,wilsopr01,2003,0,ALS200307150,COL,NL,1,,wilson,preston
-264,wolfra02,2003,0,ALS200307150,PHI,NL,1,,wolf,randy
-265,woodke02,2003,0,ALS200307150,CHN,NL,1,,wood,kerry
-266,muldema01,2004,0,NLS200407130,OAK,AL,1,1.0,mulder,mark
-267,rodriiv01,2004,0,NLS200407130,DET,AL,1,2.0,rodriguez,ivan
-268,giambja01,2004,0,NLS200407130,NYA,AL,1,3.0,giambi,jason
-269,soriaal01,2004,0,NLS200407130,TEX,AL,1,4.0,soriano,alfonso
-270,rodrial01,2004,0,NLS200407130,NYA,AL,1,5.0,rodriguez,alex
-271,jeterde01,2004,0,NLS200407130,NYA,AL,1,6.0,jeter,derek
-272,ramirma02,2004,0,NLS200407130,BOS,AL,1,7.0,ramirez,manny
-273,suzukic01,2004,0,NLS200407130,SEA,AL,1,8.0,suzuki,ichiro
-274,guerrvl01,2004,0,NLS200407130,LAA,AL,1,9.0,guerrero,vladimir
-275,belliro01,2004,0,NLS200407130,CLE,AL,1,,belliard,ronnie
-276,blaloha01,2004,0,NLS200407130,TEX,AL,1,,blalock,hank
-277,cordefr01,2004,0,NLS200407130,TEX,AL,0,,cordero,francisco
-278,crawfca02,2004,0,NLS200407130,TBA,AL,1,,crawford,carl
-279,gordoto01,2004,0,NLS200407130,NYA,AL,1,,gordon,tom
-280,guillca01,2004,0,NLS200407130,DET,AL,0,,guillen,carlos
-281,harveke01,2004,0,NLS200407130,KCA,AL,1,,harvey,ken
-282,hudsoti01,2004,0,NLS200407130,OAK,AL,0,,hudson,tim
-283,lawtoma02,2004,0,NLS200407130,CLE,AL,1,,lawton,matt
-284,lillyte01,2004,0,NLS200407130,TOR,AL,1,,lilly,ted
-285,loaizes01,2004,0,NLS200407130,CHA,AL,1,,loaiza,esteban
-286,martivi01,2004,0,NLS200407130,CLE,AL,1,,martinez,victor
-287,matsuhi01,2004,0,NLS200407130,NYA,AL,1,,matsui,hideki
-288,nathajo01,2004,0,NLS200407130,MIN,AL,1,,nathan,joe
-289,ortizda01,2004,0,NLS200407130,BOS,AL,1,,ortiz,david
-290,riverma01,2004,0,NLS200407130,NYA,AL,1,,rivera,mariano
-291,rodrifr03,2004,0,NLS200407130,LAA,AL,1,,rodríguez,francisco
-292,rogerke01,2004,0,NLS200407130,TEX,AL,0,,rogers,kenny
-293,sabatcc01,2004,0,NLS200407130,CLE,AL,1,,,
-294,schilcu01,2004,0,NLS200407130,BOS,AL,0,,schilling,curt
-295,sheffga01,2004,0,NLS200407130,NYA,AL,1,,sheffield,gary
-296,tejadmi01,2004,0,NLS200407130,BAL,AL,1,,tejada,miguel
-297,vazquja01,2004,0,NLS200407130,NYA,AL,1,,vazquez,javier
-298,westbja01,2004,0,NLS200407130,CLE,AL,0,,westbrook,jake
-299,youngmi02,2004,0,NLS200407130,TEX,AL,1,,young,michael
-300,clemero02,2004,0,NLS200407130,HOU,NL,1,1.0,clemens,roger
-301,piazzmi01,2004,0,NLS200407130,NYN,NL,1,2.0,piazza,mike
-302,pujolal01,2004,0,NLS200407130,SLN,NL,1,3.0,pujols,albert
-303,kentje01,2004,0,NLS200407130,HOU,NL,1,4.0,kent,jeff
-304,rolensc01,2004,0,NLS200407130,SLN,NL,1,5.0,rolen,scott
-305,renteed01,2004,0,NLS200407130,SLN,NL,1,6.0,renteria,edgar
-306,bondsba01,2004,0,NLS200407130,SFN,NL,1,7.0,bonds,barry
-307,berkmla01,2004,0,NLS200407130,HOU,NL,1,8.0,berkman,lance
-308,sosasa01,2004,0,NLS200407130,CHN,NL,1,9.0,sosa,sammy
-309,abreubo01,2004,0,NLS200407130,PHI,NL,1,,abreu,bobby
-310,aloumo01,2004,0,NLS200407130,CHN,NL,1,,alou,moises
-311,beltrca01,2004,0,NLS200407130,HOU,NL,1,,beltrán,carlos
-312,benitar01,2004,0,NLS200407130,FLO,NL,0,,benitez,armando
-313,cabremi01,2004,0,NLS200407130,FLO,NL,1,,cabrera,miguel
-314,caseyse01,2004,0,NLS200407130,CIN,NL,0,,casey,sean
-315,estrajo01,2004,0,NLS200407130,ATL,NL,1,,estrada,johnny
-316,gagneer01,2004,0,NLS200407130,LAN,NL,1,,gagne,eric
-317,glavito02,2004,0,NLS200407130,NYN,NL,1,,glavine,tom
-318,graveda01,2004,0,NLS200407130,CIN,NL,0,,graves,danny
-319,griffke02,2004,0,NLS200407130,CIN,NL,0,,griffey,ken
-320,heltoto01,2004,0,NLS200407130,COL,NL,1,,helton,todd
-321,hernali01,2004,0,NLS200407130,MON,NL,0,,hernández,liván
-322,johnsra05,2004,0,NLS200407130,ARI,NL,1,,johnson,randy
-323,kolbda01,2004,0,NLS200407130,MIL,NL,1,,kolb,danny
-324,larkiba01,2004,0,NLS200407130,CIN,NL,1,,larkin,barry
-325,loducpa01,2004,0,NLS200407130,LAN,NL,1,,lo duca,paul
-326,loretma01,2004,0,NLS200407130,SDN,NL,1,,loretta,mark
-327,lowelmi01,2004,0,NLS200407130,FLO,NL,1,,lowell,mike
-328,pavanca01,2004,0,NLS200407130,FLO,NL,1,,pavano,carl
-329,schmija01,2004,0,NLS200407130,SFN,NL,0,,schmidt,jason
-330,sheetbe01,2004,0,NLS200407130,MIL,NL,1,,sheets,ben
-331,thomeji01,2004,0,NLS200407130,PHI,NL,1,,thome,jim
-332,wilsoja02,2004,0,NLS200407130,PIT,NL,1,,wilson,jack
-333,zambrca01,2004,0,NLS200407130,CHN,NL,1,,zambrano,carlos
-334,buehrma01,2005,0,ALS200507120,CHA,AL,1,1.0,buehrle,mark
-335,varitja01,2005,0,ALS200507120,BOS,AL,1,2.0,varitek,jason
-336,teixema01,2005,0,ALS200507120,TEX,AL,1,3.0,teixeira,mark
-337,roberbr01,2005,0,ALS200507120,BAL,AL,1,4.0,roberts,brian
-338,rodrial01,2005,0,ALS200507120,NYA,AL,1,5.0,rodriguez,alex
-339,tejadmi01,2005,0,ALS200507120,BAL,AL,1,6.0,tejada,miguel
-340,ramirma02,2005,0,ALS200507120,BOS,AL,1,7.0,ramirez,manny
-341,damonjo01,2005,0,ALS200507120,BOS,AL,1,8.0,damon,johnny
-342,guerrvl01,2005,0,ALS200507120,LAA,AL,1,9.0,guerrero,vladimir
-343,ortizda01,2005,0,ALS200507120,BOS,AL,1,10.0,ortiz,david
-344,anderga01,2005,0,ALS200507120,LAA,AL,1,,anderson,garret
-345,baezda01,2005,0,ALS200507120,TBA,AL,0,,báez,danys
-346,clemema01,2005,0,ALS200507120,BOS,AL,1,,clement,matt
-347,colonba01,2005,0,ALS200507120,LAA,AL,1,,colon,bartolo
-348,duchsju01,2005,0,ALS200507120,OAK,AL,0,,duchscherer,justin
-349,garlajo01,2005,0,ALS200507120,CHA,AL,1,,garland,jon
-350,hallaro01,2005,0,ALS200507120,TOR,AL,0,,halladay,roy
-351,hillesh02,2005,0,ALS200507120,TOR,AL,1,,hillenbrand,shea
-352,konerpa01,2005,0,ALS200507120,CHA,AL,1,,konerko,paul
-353,morame01,2005,0,ALS200507120,BAL,AL,1,,mora,melvin
-354,nathajo01,2005,0,ALS200507120,MIN,AL,1,,nathan,joe
-355,podsesc01,2005,0,ALS200507120,CHA,AL,1,,podsednik,scott
-356,riverma01,2005,0,ALS200507120,NYA,AL,1,,rivera,mariano
-357,rodriiv01,2005,0,ALS200507120,DET,AL,1,,rodriguez,ivan
-358,rogerke01,2005,0,ALS200507120,TEX,AL,1,,rogers,kenny
-359,ryanbj01,2005,0,ALS200507120,BAL,AL,1,,,
-360,santajo01,2005,0,ALS200507120,MIN,AL,1,,,
-361,sheffga01,2005,0,ALS200507120,NYA,AL,1,,sheffield,gary
-362,soriaal01,2005,0,ALS200507120,TEX,AL,1,,soriano,alfonso
-363,suzukic01,2005,0,ALS200507120,SEA,AL,1,,suzuki,ichiro
-364,sweenmi01,2005,0,ALS200507120,KCA,AL,1,,sweeney,mike
-365,wickmbo01,2005,0,ALS200507120,CLE,AL,1,,wickman,bob
-366,youngmi02,2005,0,ALS200507120,TEX,AL,1,,young,michael
-367,carpech01,2005,0,ALS200507120,SLN,NL,1,1.0,carpenter,chris
-368,piazzmi01,2005,0,ALS200507120,NYN,NL,1,2.0,piazza,mike
-369,leede02,2005,0,ALS200507120,CHN,NL,1,3.0,lee,derrek
-370,kentje01,2005,0,ALS200507120,LAN,NL,1,4.0,kent,jeff
-371,ramirar01,2005,0,ALS200507120,CHN,NL,1,5.0,ramirez,aramis
-372,eckstda01,2005,0,ALS200507120,SLN,NL,1,6.0,eckstein,david
-373,beltrca01,2005,0,ALS200507120,NYN,NL,1,7.0,beltrán,carlos
-374,edmonji01,2005,0,ALS200507120,SLN,NL,1,8.0,edmonds,jim
-375,abreubo01,2005,0,ALS200507120,PHI,NL,1,9.0,abreu,bobby
-376,pujolal01,2005,0,ALS200507120,SLN,NL,1,10.0,pujols,albert
-377,aloumo01,2005,0,ALS200507120,SFN,NL,1,,alou,moises
-378,bayja01,2005,0,ALS200507120,PIT,NL,0,,bay,jason
-379,cabremi01,2005,0,ALS200507120,FLO,NL,1,,cabrera,miguel
-380,castilu01,2005,0,ALS200507120,FLO,NL,1,,castillo,luis
-381,clemero02,2005,0,ALS200507120,HOU,NL,1,,clemens,roger
-382,cordech01,2005,0,ALS200507120,WAS,NL,1,,cordero,chad
-383,ensbemo01,2005,0,ALS200507120,HOU,NL,1,,ensberg,morgan
-384,fuentbr01,2005,0,ALS200507120,COL,NL,0,,fuentes,brian
-385,gonzalu01,2005,0,ALS200507120,ARI,NL,1,,gonzalez,luis
-386,hernali01,2005,0,ALS200507120,WAS,NL,1,,hernández,liván
-387,isrinja01,2005,0,ALS200507120,SLN,NL,0,,isringhausen,jason
-388,izturce01,2005,0,ALS200507120,LAN,NL,0,,izturis,cesar
-389,jonesan01,2005,0,ALS200507120,ATL,NL,1,,jones,andruw
-390,leeca01,2005,0,ALS200507120,MIL,NL,1,,lee,carlos
-391,lidgebr01,2005,0,ALS200507120,HOU,NL,1,,lidge,brad
-392,loducpa01,2005,0,ALS200507120,FLO,NL,1,,lo duca,paul
-393,lopezfe01,2005,0,ALS200507120,CIN,NL,1,,lopez,felipe
-394,martipe02,2005,0,ALS200507120,NYN,NL,0,,martinez,pedro
-395,oswalro01,2005,0,ALS200507120,HOU,NL,1,,oswalt,roy
-396,peavyja01,2005,0,ALS200507120,SDN,NL,1,,peavy,jake
-397,rolensc01,2005,0,ALS200507120,SLN,NL,0,,rolen,scott
-398,rolliji01,2005,0,ALS200507120,PHI,NL,1,,rollins,jimmy
-399,smoltjo01,2005,0,ALS200507120,ATL,NL,1,,smoltz,john
-400,wagnebi02,2005,0,ALS200507120,PHI,NL,0,,wagner,billy
-401,willido03,2005,0,ALS200507120,FLO,NL,1,,willis,dontrelle
-402,rogerke01,2006,0,NLS200607110,DET,AL,1,1.0,rogers,kenny
-403,rodriiv01,2006,0,NLS200607110,DET,AL,1,2.0,rodriguez,ivan
-404,ortizda01,2006,0,NLS200607110,BOS,AL,1,3.0,ortiz,david
-405,loretma01,2006,0,NLS200607110,BOS,AL,1,4.0,loretta,mark
-406,rodrial01,2006,0,NLS200607110,NYA,AL,1,5.0,rodriguez,alex
-407,jeterde01,2006,0,NLS200607110,NYA,AL,1,6.0,jeter,derek
-408,guerrvl01,2006,0,NLS200607110,LAA,AL,1,7.0,guerrero,vladimir
-409,wellsve01,2006,0,NLS200607110,TOR,AL,1,8.0,wells,vernon
-410,suzukic01,2006,0,NLS200607110,SEA,AL,1,9.0,suzuki,ichiro
-411,buehrma01,2006,0,NLS200607110,CHA,AL,0,,buehrle,mark
-412,canoro01,2006,0,NLS200607110,NYA,AL,0,,canó,robinson
-413,contrjo01,2006,0,NLS200607110,CHA,AL,0,,contreras,josé
-414,dyeje01,2006,0,NLS200607110,CHA,AL,1,,dye,jermaine
-415,glaustr01,2006,0,NLS200607110,TOR,AL,1,,glaus,troy
-416,hallaro01,2006,0,NLS200607110,TOR,AL,1,,halladay,roy
-417,jenksbo01,2006,0,NLS200607110,CHA,AL,0,,jenks,bobby
-418,kazmisc01,2006,0,NLS200607110,TBA,AL,1,,kazmir,scott
-419,konerpa01,2006,0,NLS200607110,CHA,AL,1,,konerko,paul
-420,liriafr01,2006,0,NLS200607110,MIN,AL,0,,liriano,francisco
-421,lopezjo01,2006,0,NLS200607110,SEA,AL,1,,lopez,jose
-422,matthga02,2006,0,NLS200607110,TEX,AL,1,,matthews,gary
-423,mauerjo01,2006,0,NLS200607110,MIN,AL,1,,mauer,joe
-424,ordonma01,2006,0,NLS200607110,DET,AL,1,,ordonez,magglio
-425,papeljo01,2006,0,NLS200607110,BOS,AL,0,,papelbon,jonathan
-426,pierzaj01,2006,0,NLS200607110,CHA,AL,0,,,
-427,ramirma02,2006,0,NLS200607110,BOS,AL,0,,ramirez,manny
-428,redmama01,2006,0,NLS200607110,KCA,AL,0,,redman,mark
-429,riosal01,2006,0,NLS200607110,TOR,AL,0,,rios,alex
-430,riverma01,2006,0,NLS200607110,NYA,AL,1,,rivera,mariano
-431,ryanbj01,2006,0,NLS200607110,TOR,AL,1,,,
-432,santajo01,2006,0,NLS200607110,MIN,AL,1,,,
-433,sizemgr01,2006,0,NLS200607110,CLE,AL,1,,sizemore,grady
-434,tejadmi01,2006,0,NLS200607110,BAL,AL,1,,tejada,miguel
-435,thomeji01,2006,0,NLS200607110,CHA,AL,1,,thome,jim
-436,youngmi02,2006,0,NLS200607110,TEX,AL,1,,young,michael
-437,zitoba01,2006,0,NLS200607110,OAK,AL,1,,zito,barry
-438,pennybr01,2006,0,NLS200607110,LAN,NL,1,1.0,penny,brad
-439,loducpa01,2006,0,NLS200607110,NYN,NL,1,2.0,lo duca,paul
-440,pujolal01,2006,0,NLS200607110,SLN,NL,1,3.0,pujols,albert
-441,utleych01,2006,0,NLS200607110,PHI,NL,1,4.0,utley,chase
-442,wrighda03,2006,0,NLS200607110,NYN,NL,1,5.0,wright,david
-443,renteed01,2006,0,NLS200607110,ATL,NL,1,6.0,renteria,edgar
-444,soriaal01,2006,0,NLS200607110,WAS,NL,1,7.0,soriano,alfonso
-445,beltrca01,2006,0,NLS200607110,NYN,NL,1,8.0,beltrán,carlos
-446,bayja01,2006,0,NLS200607110,PIT,NL,1,9.0,bay,jason
-447,arroybr01,2006,0,NLS200607110,CIN,NL,1,,arroyo,bronson
-448,berkmla01,2006,0,NLS200607110,HOU,NL,1,,berkman,lance
-449,cabremi01,2006,0,NLS200607110,FLO,NL,1,,cabrera,miguel
-450,capuach01,2006,0,NLS200607110,MIL,NL,0,,capuano,chris
-451,carpech01,2006,0,NLS200607110,SLN,NL,0,,carpenter,chris
-452,eckstda01,2006,0,NLS200607110,SLN,NL,1,,eckstein,david
-453,fuentbr01,2006,0,NLS200607110,COL,NL,1,,fuentes,brian
-454,garcino01,2006,0,NLS200607110,LAN,NL,0,,garciaparra,nomar
-455,glavito02,2006,0,NLS200607110,NYN,NL,0,,glavine,tom
-456,gordoto01,2006,0,NLS200607110,PHI,NL,1,,gordon,tom
-457,hoffmtr01,2006,0,NLS200607110,SDN,NL,1,,hoffman,trevor
-458,hollima01,2006,0,NLS200607110,COL,NL,1,,holliday,matt
-459,howarry01,2006,0,NLS200607110,PHI,NL,1,,howard,ryan
-460,jonesan01,2006,0,NLS200607110,ATL,NL,0,,jones,andruw
-461,leeca01,2006,0,NLS200607110,MIL,NL,1,,lee,carlos
-462,martipe02,2006,0,NLS200607110,NYN,NL,0,,martinez,pedro
-463,mccanbr01,2006,0,NLS200607110,ATL,NL,1,,mccann,brian
-464,oswalro01,2006,0,NLS200607110,HOU,NL,1,,oswalt,roy
-465,reyesjo01,2006,0,NLS200607110,NYN,NL,0,,reyes,josé
-466,rolensc01,2006,0,NLS200607110,SLN,NL,0,,rolen,scott
-467,sanchfr01,2006,0,NLS200607110,PIT,NL,1,,sanchez,freddy
-468,schmija01,2006,0,NLS200607110,SFN,NL,0,,schmidt,jason
-469,turnbde01,2006,0,NLS200607110,MIL,NL,1,,turnbow,derrick
-470,ugglada01,2006,0,NLS200607110,FLO,NL,0,,uggla,dan
-471,webbbr01,2006,0,NLS200607110,ARI,NL,1,,webb,brandon
-472,zambrca01,2006,0,NLS200607110,CHN,NL,0,,zambrano,carlos
-473,harenda01,2007,0,NLS200707100,OAK,AL,1,1.0,haren,dan
-474,rodriiv01,2007,0,NLS200707100,DET,AL,1,2.0,rodriguez,ivan
-475,ortizda01,2007,0,NLS200707100,BOS,AL,1,3.0,ortiz,david
-476,polanpl01,2007,0,NLS200707100,DET,AL,1,4.0,polanco,placido
-477,rodrial01,2007,0,NLS200707100,NYA,AL,1,5.0,rodriguez,alex
-478,jeterde01,2007,0,NLS200707100,NYA,AL,1,6.0,jeter,derek
-479,ordonma01,2007,0,NLS200707100,DET,AL,1,7.0,ordonez,magglio
-480,suzukic01,2007,0,NLS200707100,SEA,AL,1,8.0,suzuki,ichiro
-481,guerrvl01,2007,0,NLS200707100,LAA,AL,1,9.0,guerrero,vladimir
-482,beckejo02,2007,0,NLS200707100,BOS,AL,1,,beckett,josh
-483,crawfca02,2007,0,NLS200707100,TBA,AL,1,,crawford,carl
-484,guillca01,2007,0,NLS200707100,DET,AL,1,,guillen,carlos
-485,hunteto01,2007,0,NLS200707100,MIN,AL,1,,hunter,torii
-486,jenksbo01,2007,0,NLS200707100,CHA,AL,0,,jenks,bobby
-487,lackejo01,2007,0,NLS200707100,LAA,AL,0,,lackey,john
-488,lowelmi01,2007,0,NLS200707100,BOS,AL,1,,lowell,mike
-489,martivi01,2007,0,NLS200707100,CLE,AL,1,,martinez,victor
-490,mechegi01,2007,0,NLS200707100,KCA,AL,0,,meche,gil
-491,morneju01,2007,0,NLS200707100,MIN,AL,1,,morneau,justin
-492,okajihi01,2007,0,NLS200707100,BOS,AL,0,,okajima,hideki
-493,papeljo01,2007,0,NLS200707100,BOS,AL,1,,papelbon,jonathan
-494,posadjo01,2007,0,NLS200707100,NYA,AL,1,,posada,jorge
-495,putzjj01,2007,0,NLS200707100,SEA,AL,1,,putz,j. j.
-496,ramirma02,2007,0,NLS200707100,BOS,AL,1,,ramirez,manny
-497,riosal01,2007,0,NLS200707100,TOR,AL,1,,rios,alex
-498,roberbr01,2007,0,NLS200707100,BAL,AL,1,,roberts,brian
-499,rodrifr03,2007,0,NLS200707100,LAA,AL,1,,rodríguez,francisco
-500,sabatcc01,2007,0,NLS200707100,CLE,AL,1,,,
-501,santajo01,2007,0,NLS200707100,MIN,AL,1,,,
-502,sizemgr01,2007,0,NLS200707100,CLE,AL,1,,sizemore,grady
-503,verlaju01,2007,0,NLS200707100,DET,AL,1,,verlander,justin
-504,youngmi02,2007,0,NLS200707100,TEX,AL,0,,young,michael
-505,peavyja01,2007,0,NLS200707100,SDN,NL,1,1.0,peavy,jake
-506,martiru01,2007,0,NLS200707100,LAN,NL,1,2.0,martin,russell
-507,fieldpr01,2007,0,NLS200707100,MIL,NL,1,3.0,fielder,prince
-508,utleych01,2007,0,NLS200707100,PHI,NL,1,4.0,utley,chase
-509,wrighda03,2007,0,NLS200707100,NYN,NL,1,5.0,wright,david
-510,reyesjo01,2007,0,NLS200707100,NYN,NL,1,6.0,reyes,josé
-511,bondsba01,2007,0,NLS200707100,SFN,NL,1,7.0,bonds,barry
-512,beltrca01,2007,0,NLS200707100,NYN,NL,1,8.0,beltrán,carlos
-513,griffke02,2007,0,NLS200707100,CIN,NL,1,9.0,griffey,ken
-514,cabremi01,2007,0,NLS200707100,FLO,NL,1,,cabrera,miguel
-515,cordefr01,2007,0,NLS200707100,MIL,NL,1,,cordero,francisco
-516,fuentbr01,2007,0,NLS200707100,COL,NL,0,,fuentes,brian
-517,hamelco01,2007,0,NLS200707100,PHI,NL,1,,hamels,cole
-518,hardyjj01,2007,0,NLS200707100,MIL,NL,1,,hardy,j. j.
-519,hoffmtr01,2007,0,NLS200707100,SDN,NL,1,,hoffman,trevor
-520,hollima01,2007,0,NLS200707100,COL,NL,1,,holliday,matt
-521,hudsoor01,2007,0,NLS200707100,ARI,NL,1,,hudson,orlando
-522,leeca01,2007,0,NLS200707100,HOU,NL,1,,lee,carlos
-523,leede02,2007,0,NLS200707100,CHN,NL,1,,lee,derrek
-524,mccanbr01,2007,0,NLS200707100,ATL,NL,1,,mccann,brian
-525,oswalro01,2007,0,NLS200707100,HOU,NL,0,,oswalt,roy
-526,pennybr01,2007,0,NLS200707100,LAN,NL,1,,penny,brad
-527,pujolal01,2007,0,NLS200707100,SLN,NL,0,,pujols,albert
-528,rowanaa01,2007,0,NLS200707100,PHI,NL,1,,rowand,aaron
-529,saitota01,2007,0,NLS200707100,LAN,NL,1,,saito,takashi
-530,sanchfr01,2007,0,NLS200707100,PIT,NL,1,,sanchez,freddy
-531,sheetbe01,2007,0,NLS200707100,MIL,NL,1,,sheets,ben
-532,smoltjo01,2007,0,NLS200707100,ATL,NL,0,,smoltz,john
-533,soriaal01,2007,0,NLS200707100,CHN,NL,1,,soriano,alfonso
-534,valvejo01,2007,0,NLS200707100,ARI,NL,0,,valverde,jose
-535,wagnebi02,2007,0,NLS200707100,NYN,NL,1,,wagner,billy
-536,webbbr01,2007,0,NLS200707100,ARI,NL,0,,webb,brandon
-537,youngch03,2007,0,NLS200707100,SDN,NL,1,,young,chris
-538,youngdm01,2007,0,NLS200707100,WAS,NL,1,,young,dmitri
-539,leecl02,2008,0,ALS200807150,CLE,AL,1,1.0,lee,cliff
-540,mauerjo01,2008,0,ALS200807150,MIN,AL,1,2.0,mauer,joe
-541,youklke01,2008,0,ALS200807150,BOS,AL,1,3.0,youkilis,kevin
-542,pedrodu01,2008,0,ALS200807150,BOS,AL,1,4.0,pedroia,dustin
-543,rodrial01,2008,0,ALS200807150,NYA,AL,1,5.0,rodriguez,alex
-544,jeterde01,2008,0,ALS200807150,NYA,AL,1,6.0,jeter,derek
-545,ramirma02,2008,0,ALS200807150,BOS,AL,1,7.0,ramirez,manny
-546,hamiljo03,2008,0,ALS200807150,TEX,AL,1,8.0,hamilton,josh
-547,suzukic01,2008,0,ALS200807150,SEA,AL,1,9.0,suzuki,ichiro
-548,bradlmi01,2008,0,ALS200807150,TEX,AL,1,10.0,bradley,milton
-549,credejo01,2008,0,ALS200807150,CHA,AL,1,,crede,joe
-550,drewjd01,2008,0,ALS200807150,BOS,AL,1,,,
-551,duchsju01,2008,0,ALS200807150,OAK,AL,1,,duchscherer,justin
-552,guillca01,2008,0,ALS200807150,DET,AL,1,,guillen,carlos
-553,hallaro01,2008,0,ALS200807150,TOR,AL,1,,halladay,roy
-554,kazmisc01,2008,0,ALS200807150,TBA,AL,1,,kazmir,scott
-555,kinslia01,2008,0,ALS200807150,TEX,AL,1,,kinsler,ian
-556,longoev01,2008,0,ALS200807150,TBA,AL,1,,longoria,evan
-557,morneju01,2008,0,ALS200807150,MIN,AL,1,,morneau,justin
-558,nathajo01,2008,0,ALS200807150,MIN,AL,1,,nathan,joe
-559,navardi01,2008,0,ALS200807150,TBA,AL,1,,navarro,dioner
-560,ortizda01,2008,0,ALS200807150,BOS,AL,0,,ortiz,david
-561,papeljo01,2008,0,ALS200807150,BOS,AL,1,,papelbon,jonathan
-562,quentca01,2008,0,ALS200807150,CHA,AL,1,,quentin,carlos
-563,riverma01,2008,0,ALS200807150,NYA,AL,1,,rivera,mariano
-564,rodrifr03,2008,0,ALS200807150,LAA,AL,1,,rodríguez,francisco
-565,santaer01,2008,0,ALS200807150,LAA,AL,1,,santana,ervin
-566,saundjo01,2008,0,ALS200807150,LAA,AL,1,,saunders,joe
-567,sherrge01,2008,0,ALS200807150,BAL,AL,1,,sherrill,george
-568,sizemgr01,2008,0,ALS200807150,CLE,AL,1,,sizemore,grady
-569,soriajo01,2008,0,ALS200807150,KCA,AL,1,,soria,joakim
-570,varitja01,2008,0,ALS200807150,BOS,AL,1,,varitek,jason
-571,youngmi02,2008,0,ALS200807150,TEX,AL,1,,young,michael
-572,sheetbe01,2008,0,ALS200807150,MIL,NL,1,1.0,sheets,ben
-573,sotoge01,2008,0,ALS200807150,CHN,NL,1,2.0,soto,geovany
-574,berkmla01,2008,0,ALS200807150,HOU,NL,1,3.0,berkman,lance
-575,utleych01,2008,0,ALS200807150,PHI,NL,1,4.0,utley,chase
-576,jonesch06,2008,0,ALS200807150,ATL,NL,1,5.0,jones,chipper
-577,ramirha01,2008,0,ALS200807150,FLO,NL,1,6.0,ramirez,hanley
-578,braunry02,2008,0,ALS200807150,MIL,NL,1,7.0,braun,ryan
-579,fukudko01,2008,0,ALS200807150,CHN,NL,1,8.0,fukudome,kosuke
-580,hollima01,2008,0,ALS200807150,COL,NL,1,9.0,holliday,matt
-581,pujolal01,2008,0,ALS200807150,SLN,NL,1,10.0,pujols,albert
-582,cookaa01,2008,0,ALS200807150,COL,NL,1,,cook,aaron
-583,dempsry01,2008,0,ALS200807150,CHN,NL,1,,dempster,ryan
-584,gonzaad01,2008,0,ALS200807150,SDN,NL,1,,gonzález,adrián
-585,guzmacr01,2008,0,ALS200807150,WAS,NL,1,,guzman,cristian
-586,harenda01,2008,0,ALS200807150,ARI,NL,1,,haren,dan
-587,hartco01,2008,0,ALS200807150,MIL,NL,1,,hart,corey
-588,lidgebr01,2008,0,ALS200807150,PHI,NL,1,,lidge,brad
-589,linceti01,2008,0,ALS200807150,SFN,NL,0,,lincecum,tim
-590,ludwiry01,2008,0,ALS200807150,SLN,NL,1,,ludwick,ryan
-591,marmoca01,2008,0,ALS200807150,CHN,NL,1,,marmol,carlos
-592,martiru01,2008,0,ALS200807150,LAN,NL,1,,martin,russell
-593,mccanbr01,2008,0,ALS200807150,ATL,NL,1,,mccann,brian
-594,mclouna01,2008,0,ALS200807150,PIT,NL,1,,mclouth,nate
-595,ramirar01,2008,0,ALS200807150,CHN,NL,1,,ramirez,aramis
-596,soriaal01,2008,0,ALS200807150,CHN,NL,0,,soriano,alfonso
-597,tejadmi01,2008,0,ALS200807150,HOU,NL,1,,tejada,miguel
-598,ugglada01,2008,0,ALS200807150,FLO,NL,1,,uggla,dan
-599,volqued01,2008,0,ALS200807150,CIN,NL,1,,volquez,edinson
-600,wagnebi02,2008,0,ALS200807150,NYN,NL,1,,wagner,billy
-601,webbbr01,2008,0,ALS200807150,ARI,NL,1,,webb,brandon
-602,wilsobr01,2008,0,ALS200807150,SFN,NL,1,,wilson,brian
-603,woodke02,2008,0,ALS200807150,CHN,NL,0,,wood,kerry
-604,wrighda03,2008,0,ALS200807150,NYN,NL,1,,wright,david
-605,zambrca01,2008,0,ALS200807150,CHN,NL,1,,zambrano,carlos
-606,hallaro01,2009,0,NLS200907140,TOR,AL,1,1.0,halladay,roy
-607,mauerjo01,2009,0,NLS200907140,MIN,AL,1,2.0,mauer,joe
-608,teixema01,2009,0,NLS200907140,NYA,AL,1,3.0,teixeira,mark
-609,hillaa01,2009,0,NLS200907140,TOR,AL,1,4.0,hill,aaron
-610,youngmi02,2009,0,NLS200907140,TEX,AL,1,5.0,young,michael
-611,jeterde01,2009,0,NLS200907140,NYA,AL,1,6.0,jeter,derek
-612,bayja01,2009,0,NLS200907140,BOS,AL,1,7.0,bay,jason
-613,hamiljo03,2009,0,NLS200907140,TEX,AL,1,8.0,hamilton,josh
-614,suzukic01,2009,0,NLS200907140,SEA,AL,1,9.0,suzuki,ichiro
-615,bailean01,2009,0,NLS200907140,OAK,AL,0,,bailey,andrew
-616,bartlja01,2009,0,NLS200907140,TBA,AL,1,,bartlett,jason
-617,beckejo02,2009,0,NLS200907140,BOS,AL,0,,beckett,josh
-618,buehrma01,2009,0,NLS200907140,CHA,AL,1,,buehrle,mark
-619,crawfca02,2009,0,NLS200907140,TBA,AL,1,,crawford,carl
-620,cruzne02,2009,0,NLS200907140,TEX,AL,0,,cruz,nelson
-621,fuentbr01,2009,0,NLS200907140,LAA,AL,0,,fuentes,brian
-622,grandcu01,2009,0,NLS200907140,DET,AL,1,,granderson,curtis
-623,greinza01,2009,0,NLS200907140,KCA,AL,1,,greinke,zack
-624,hernafe02,2009,0,NLS200907140,SEA,AL,1,,hernández,félix
-625,hunteto01,2009,0,NLS200907140,LAA,AL,0,,hunter,torii
-626,ingebr01,2009,0,NLS200907140,DET,AL,1,,inge,brandon
-627,jacksed01,2009,0,NLS200907140,DET,AL,1,,jackson,edwin
-628,jonesad01,2009,0,NLS200907140,BAL,AL,1,,jones,adam
-629,longoev01,2009,0,NLS200907140,TBA,AL,0,,longoria,evan
-630,martivi01,2009,0,NLS200907140,CLE,AL,1,,martinez,victor
-631,morneju01,2009,0,NLS200907140,MIN,AL,1,,morneau,justin
-632,nathajo01,2009,0,NLS200907140,MIN,AL,1,,nathan,joe
-633,papeljo01,2009,0,NLS200907140,BOS,AL,1,,papelbon,jonathan
-634,pedrodu01,2009,0,NLS200907140,BOS,AL,0,,pedroia,dustin
-635,penaca01,2009,0,NLS200907140,TBA,AL,0,,pena,carlos
-636,riverma01,2009,0,NLS200907140,NYA,AL,1,,rivera,mariano
-637,verlaju01,2009,0,NLS200907140,DET,AL,0,,verlander,justin
-638,wakefti01,2009,0,NLS200907140,BOS,AL,0,,wakefield,tim
-639,youklke01,2009,0,NLS200907140,BOS,AL,1,,youkilis,kevin
-640,zobribe01,2009,0,NLS200907140,TBA,AL,1,,zobrist,ben
-641,linceti01,2009,0,NLS200907140,SFN,NL,1,1.0,lincecum,tim
-642,molinya01,2009,0,NLS200907140,SLN,NL,1,2.0,molina,yadier
-643,pujolal01,2009,0,NLS200907140,SLN,NL,1,3.0,pujols,albert
-644,utleych01,2009,0,NLS200907140,PHI,NL,1,4.0,utley,chase
-645,wrighda03,2009,0,NLS200907140,NYN,NL,1,5.0,wright,david
-646,ramirha01,2009,0,NLS200907140,FLO,NL,1,6.0,ramirez,hanley
-647,ibanera01,2009,0,NLS200907140,PHI,NL,1,7.0,ibanez,raul
-648,victosh01,2009,0,NLS200907140,PHI,NL,1,8.0,victorino,shane
-649,braunry02,2009,0,NLS200907140,MIL,NL,1,9.0,braun,ryan
-650,bellhe01,2009,0,NLS200907140,SDN,NL,1,,bell,heath
-651,beltrca01,2009,0,NLS200907140,NYN,NL,0,,beltrán,carlos
-652,billich01,2009,0,NLS200907140,LAN,NL,1,,billingsley,chad
-653,broxtjo01,2009,0,NLS200907140,LAN,NL,0,,broxton,jonathan
-654,cainma01,2009,0,NLS200907140,SFN,NL,0,,cain,matt
-655,cordefr01,2009,0,NLS200907140,CIN,NL,1,,cordero,francisco
-656,dukeza01,2009,0,NLS200907140,PIT,NL,0,,duke,zach
-657,fieldpr01,2009,0,NLS200907140,MIL,NL,1,,fielder,prince
-658,frankry01,2009,0,NLS200907140,SLN,NL,1,,franklin,ryan
-659,gonzaad01,2009,0,NLS200907140,SDN,NL,1,,gonzález,adrián
-660,harenda01,2009,0,NLS200907140,ARI,NL,1,,haren,dan
-661,hawpebr01,2009,0,NLS200907140,COL,NL,1,,hawpe,brad
-662,hoffmtr01,2009,0,NLS200907140,MIL,NL,1,,hoffman,trevor
-663,howarry01,2009,0,NLS200907140,PHI,NL,1,,howard,ryan
-664,hudsoor01,2009,0,NLS200907140,LAN,NL,1,,hudson,orlando
-665,johnsjo09,2009,0,NLS200907140,FLO,NL,0,,johnson,josh
-666,lillyte01,2009,0,NLS200907140,CHN,NL,0,,lilly,ted
-667,marquja01,2009,0,NLS200907140,COL,NL,0,,marquis,jason
-668,mccanbr01,2009,0,NLS200907140,ATL,NL,1,,mccann,brian
-669,pencehu01,2009,0,NLS200907140,HOU,NL,0,,pence,hunter
-670,rodrifr03,2009,0,NLS200907140,NYN,NL,1,,rodríguez,francisco
-671,sanchfr01,2009,0,NLS200907140,PIT,NL,0,,sanchez,freddy
-672,santajo01,2009,0,NLS200907140,NYN,NL,0,,,
-673,tejadmi01,2009,0,NLS200907140,HOU,NL,1,,tejada,miguel
-674,uptonju01,2009,0,NLS200907140,ARI,NL,1,,upton,justin
-675,werthja01,2009,0,NLS200907140,PHI,NL,1,,werth,jayson
-676,zimmery01,2009,0,NLS200907140,WAS,NL,1,,zimmerman,ryan
-677,priceda01,2010,0,ALS201007130,TBA,AL,1,1.0,price,david
-678,mauerjo01,2010,0,ALS201007130,MIN,AL,1,2.0,mauer,joe
-679,cabremi01,2010,0,ALS201007130,DET,AL,1,3.0,cabrera,miguel
-680,canoro01,2010,0,ALS201007130,NYA,AL,1,4.0,canó,robinson
-681,longoev01,2010,0,ALS201007130,TBA,AL,1,5.0,longoria,evan
-682,jeterde01,2010,0,ALS201007130,NYA,AL,1,6.0,jeter,derek
-683,crawfca02,2010,0,ALS201007130,TBA,AL,1,7.0,crawford,carl
-684,hamiljo03,2010,0,ALS201007130,TEX,AL,1,8.0,hamilton,josh
-685,suzukic01,2010,0,ALS201007130,SEA,AL,1,9.0,suzuki,ichiro
-686,guerrvl01,2010,0,ALS201007130,TEX,AL,1,10.0,guerrero,vladimir
-687,andruel01,2010,0,ALS201007130,TEX,AL,1,,andrus,elvis
-688,bailean01,2010,0,ALS201007130,OAK,AL,1,,bailey,andrew
-689,bautijo02,2010,0,ALS201007130,TOR,AL,1,,bautista,josé
-690,beltrad01,2010,0,ALS201007130,BOS,AL,1,,beltré,adrián
-691,buchhcl01,2010,0,ALS201007130,BOS,AL,0,,buchholz,clay
-692,buckjo01,2010,0,ALS201007130,TOR,AL,1,,buck,john
-693,cahiltr01,2010,0,ALS201007130,OAK,AL,0,,cahill,trevor
-694,carmofa01,2010,0,ALS201007130,CLE,AL,0,,hernandez,roberto
-695,felizne01,2010,0,ALS201007130,TEX,AL,0,,feliz,neftalí
-696,hugheph01,2010,0,ALS201007130,NYA,AL,1,,hughes,phil
-697,hunteto01,2010,0,ALS201007130,LAA,AL,1,,hunter,torii
-698,kinslia01,2010,0,ALS201007130,TEX,AL,1,,kinsler,ian
-699,konerpa01,2010,0,ALS201007130,CHA,AL,1,,konerko,paul
-700,leecl02,2010,0,ALS201007130,TEX,AL,1,,lee,cliff
-701,lestejo01,2010,0,ALS201007130,BOS,AL,1,,lester,jon
-702,martivi01,2010,0,ALS201007130,BOS,AL,0,,martinez,victor
-703,morneju01,2010,0,ALS201007130,MIN,AL,0,,morneau,justin
-704,ortizda01,2010,0,ALS201007130,BOS,AL,1,,ortiz,david
-705,pedrodu01,2010,0,ALS201007130,BOS,AL,0,,pedroia,dustin
-706,pettian01,2010,0,ALS201007130,NYA,AL,1,,pettitte,andy
-707,riverma01,2010,0,ALS201007130,NYA,AL,0,,rivera,mariano
-708,rodrial01,2010,0,ALS201007130,NYA,AL,0,,rodriguez,alex
-709,sabatcc01,2010,0,ALS201007130,NYA,AL,0,,,
-710,soriajo01,2010,0,ALS201007130,KCA,AL,0,,soria,joakim
-711,soriara01,2010,0,ALS201007130,TBA,AL,1,,soriano,rafael
-712,swishni01,2010,0,ALS201007130,NYA,AL,1,,swisher,nick
-713,thornma01,2010,0,ALS201007130,CHA,AL,1,,thornton,matt
-714,valvejo01,2010,0,ALS201007130,DET,AL,1,,valverde,jose
-715,verlaju01,2010,0,ALS201007130,DET,AL,1,,verlander,justin
-716,weaveje02,2010,0,ALS201007130,LAA,AL,0,,weaver,jered
-717,wellsve01,2010,0,ALS201007130,TOR,AL,1,,wells,vernon
-718,wiggity01,2010,0,ALS201007130,BAL,AL,1,,wigginton,ty
-719,jimenub01,2010,0,ALS201007130,COL,NL,1,1.0,jiménez,ubaldo
-720,molinya01,2010,0,ALS201007130,SLN,NL,1,2.0,molina,yadier
-721,pujolal01,2010,0,ALS201007130,SLN,NL,1,3.0,pujols,albert
-722,pradoma01,2010,0,ALS201007130,ATL,NL,1,4.0,prado,martín
-723,wrighda03,2010,0,ALS201007130,NYN,NL,1,5.0,wright,david
-724,ramirha01,2010,0,ALS201007130,FLO,NL,1,6.0,ramirez,hanley
-725,braunry02,2010,0,ALS201007130,MIL,NL,1,7.0,braun,ryan
-726,ethiean01,2010,0,ALS201007130,LAN,NL,1,8.0,ethier,andre
-727,hartco01,2010,0,ALS201007130,MIL,NL,1,9.0,hart,corey
-728,howarry01,2010,0,ALS201007130,PHI,NL,1,10.0,howard,ryan
-729,bellhe01,2010,0,ALS201007130,SDN,NL,1,,bell,heath
-730,bournmi01,2010,0,ALS201007130,HOU,NL,1,,bourn,michael
-731,broxtjo01,2010,0,ALS201007130,LAN,NL,1,,broxton,jonathan
-732,byrdma01,2010,0,ALS201007130,CHN,NL,1,,byrd,marlon
-733,cappsma01,2010,0,ALS201007130,WAS,NL,1,,capps,matt
-734,carpech01,2010,0,ALS201007130,SLN,NL,0,,carpenter,chris
-735,furcara01,2010,0,ALS201007130,LAN,NL,1,,,
-736,gallayo01,2010,0,ALS201007130,MIL,NL,0,,gallardo,yovani
-737,gonzaad01,2010,0,ALS201007130,SDN,NL,1,,gonzález,adrián
-738,hallaro01,2010,0,ALS201007130,PHI,NL,1,,halladay,roy
-739,heywaja01,2010,0,ALS201007130,ATL,NL,0,,heyward,jason
-740,hollima01,2010,0,ALS201007130,SLN,NL,1,,holliday,matt
-741,hudsoti01,2010,0,ALS201007130,ATL,NL,0,,hudson,tim
-742,infanom01,2010,0,ALS201007130,ATL,NL,0,,infante,omar
-743,johnsjo09,2010,0,ALS201007130,FLO,NL,1,,johnson,josh
-744,kuoho01,2010,0,ALS201007130,LAN,NL,1,,kuo,hung-chih
-745,linceti01,2010,0,ALS201007130,SFN,NL,0,,lincecum,tim
-746,mccanbr01,2010,0,ALS201007130,ATL,NL,1,,mccann,brian
-747,meekev01,2010,0,ALS201007130,PIT,NL,0,,meek,evan
-748,phillbr01,2010,0,ALS201007130,CIN,NL,1,,phillips,brandon
-749,reyesjo01,2010,0,ALS201007130,NYN,NL,0,,reyes,josé
-750,rhodear01,2010,0,ALS201007130,CIN,NL,0,,rhodes,arthur
-751,rolensc01,2010,0,ALS201007130,CIN,NL,1,,rolen,scott
-752,tulowtr01,2010,0,ALS201007130,COL,NL,0,,tulowitzki,troy
-753,utleych01,2010,0,ALS201007130,PHI,NL,0,,utley,chase
-754,vottojo01,2010,0,ALS201007130,CIN,NL,1,,votto,joey
-755,wainwad01,2010,0,ALS201007130,SLN,NL,1,,wainwright,adam
-756,wilsobr01,2010,0,ALS201007130,SFN,NL,1,,wilson,brian
-757,youngch04,2010,0,ALS201007130,ARI,NL,1,,young,chris
-758,weaveje02,2011,0,NLS201107120,LAA,AL,1,1.0,weaver,jered
-759,avilaal01,2011,0,NLS201107120,DET,AL,1,2.0,avila,alex
-760,gonzaad01,2011,0,NLS201107120,BOS,AL,1,3.0,gonzález,adrián
-761,canoro01,2011,0,NLS201107120,NYA,AL,1,4.0,canó,robinson
-762,beltrad01,2011,0,NLS201107120,TEX,AL,1,5.0,beltré,adrián
-763,cabreas01,2011,0,NLS201107120,CLE,AL,1,6.0,cabrera,asdrúbal
-764,hamiljo03,2011,0,NLS201107120,TEX,AL,1,7.0,hamilton,josh
-765,grandcu01,2011,0,NLS201107120,NYA,AL,1,8.0,granderson,curtis
-766,bautijo02,2011,0,NLS201107120,TOR,AL,1,9.0,bautista,josé
-767,ortizda01,2011,0,NLS201107120,BOS,AL,1,10.0,ortiz,david
-768,beckejo02,2011,0,NLS201107120,BOS,AL,0,,beckett,josh
-769,cabremi01,2011,0,NLS201107120,DET,AL,1,,cabrera,miguel
-770,crowaa01,2011,0,NLS201107120,KCA,AL,0,,crow,aaron
-771,cuddymi01,2011,0,NLS201107120,MIN,AL,1,,cuddyer,michael
-772,ellsbja01,2011,0,NLS201107120,BOS,AL,1,,ellsbury,jacoby
-773,gonzagi01,2011,0,NLS201107120,OAK,AL,1,,gonzalez,gio
-774,hernafe02,2011,0,NLS201107120,SEA,AL,0,,hernández,félix
-775,jeterde01,2011,0,NLS201107120,NYA,AL,0,,jeter,derek
-776,joycema01,2011,0,NLS201107120,TBA,AL,1,,joyce,matt
-777,kendrho01,2011,0,NLS201107120,LAA,AL,1,,kendrick,howie
-778,konerpa01,2011,0,NLS201107120,CHA,AL,1,,konerko,paul
-779,leagubr01,2011,0,NLS201107120,SEA,AL,1,,league,brandon
-780,lestejo01,2011,0,NLS201107120,BOS,AL,0,,lester,jon
-781,martiru01,2011,0,NLS201107120,NYA,AL,0,,martin,russell
-782,ogandal01,2011,0,NLS201107120,TEX,AL,1,,ogando,alexi
-783,peraljh01,2011,0,NLS201107120,DET,AL,1,,peralta,jhonny
-784,perezch01,2011,0,NLS201107120,CLE,AL,1,,perez,chris
-785,pinedmi01,2011,0,NLS201107120,SEA,AL,1,,pineda,michael
-786,priceda01,2011,0,NLS201107120,TBA,AL,0,,price,david
-787,quentca01,2011,0,NLS201107120,CHA,AL,1,,quentin,carlos
-788,riverma01,2011,0,NLS201107120,NYA,AL,0,,rivera,mariano
-789,roberda08,2011,0,NLS201107120,NYA,AL,1,,robertson,david
-790,rodrial01,2011,0,NLS201107120,NYA,AL,0,,rodriguez,alex
-791,romerri01,2011,0,NLS201107120,TOR,AL,0,,romero,ricky
-792,sabatcc01,2011,0,NLS201107120,NYA,AL,0,,,
-793,shielja02,2011,0,NLS201107120,TBA,AL,0,,shields,james
-794,valvejo01,2011,0,NLS201107120,DET,AL,0,,valverde,jose
-795,verlaju01,2011,0,NLS201107120,DET,AL,0,,verlander,justin
-796,waldejo01,2011,0,NLS201107120,LAA,AL,1,,walden,jordan
-797,wietema01,2011,0,NLS201107120,BAL,AL,1,,wieters,matt
-798,wilsocj01,2011,0,NLS201107120,TEX,AL,1,,wilson,c. j.
-799,youklke01,2011,0,NLS201107120,BOS,AL,1,,youkilis,kevin
-800,youngmi02,2011,0,NLS201107120,TEX,AL,1,,young,michael
-801,hallaro01,2011,0,NLS201107120,PHI,NL,1,1.0,halladay,roy
-802,mccanbr01,2011,0,NLS201107120,ATL,NL,1,2.0,mccann,brian
-803,fieldpr01,2011,0,NLS201107120,MIL,NL,1,3.0,fielder,prince
-804,weeksri01,2011,0,NLS201107120,MIL,NL,1,4.0,weeks,rickie
-805,rolensc01,2011,0,NLS201107120,CIN,NL,1,5.0,rolen,scott
-806,tulowtr01,2011,0,NLS201107120,COL,NL,1,6.0,tulowitzki,troy
-807,hollima01,2011,0,NLS201107120,SLN,NL,1,7.0,holliday,matt
-808,kempma01,2011,0,NLS201107120,LAN,NL,1,8.0,kemp,matt
-809,berkmla01,2011,0,NLS201107120,SLN,NL,1,9.0,berkman,lance
-810,beltrca01,2011,0,NLS201107120,NYN,NL,1,10.0,beltrán,carlos
-811,bellhe01,2011,0,NLS201107120,SDN,NL,1,,bell,heath
-812,bruceja01,2011,0,NLS201107120,CIN,NL,1,,bruce,jay
-813,cainma01,2011,0,NLS201107120,SFN,NL,0,,cain,matt
-814,castrst01,2011,0,NLS201107120,CHN,NL,1,,castro,starlin
-815,clippty01,2011,0,NLS201107120,WAS,NL,1,,clippard,tyler
-816,correke01,2011,0,NLS201107120,PIT,NL,0,,correia,kevin
-817,ethiean01,2011,0,NLS201107120,LAN,NL,1,,ethier,andre
-818,hamelco01,2011,0,NLS201107120,PHI,NL,0,,hamels,cole
-819,hanrajo01,2011,0,NLS201107120,PIT,NL,1,,hanrahan,joel
-820,jonesch06,2011,0,NLS201107120,ATL,NL,0,,jones,chipper
-821,jurrjja01,2011,0,NLS201107120,ATL,NL,1,,jurrjens,jair
-822,kershcl01,2011,0,NLS201107120,LAN,NL,1,,kershaw,clayton
-823,kimbrcr01,2011,0,NLS201107120,ATL,NL,1,,kimbrel,craig
-824,leecl02,2011,0,NLS201107120,PHI,NL,1,,lee,cliff
-825,linceti01,2011,0,NLS201107120,SFN,NL,0,,lincecum,tim
-826,mccutan01,2011,0,NLS201107120,PIT,NL,1,,mccutchen,andrew
-827,molinya01,2011,0,NLS201107120,SLN,NL,1,,molina,yadier
-828,montemi01,2011,0,NLS201107120,ARI,NL,1,,montero,miguel
-829,pencehu01,2011,0,NLS201107120,HOU,NL,1,,pence,hunter
-830,phillbr01,2011,0,NLS201107120,CIN,NL,1,,phillips,brandon
-831,polanpl01,2011,0,NLS201107120,PHI,NL,0,,polanco,placido
-832,reyesjo01,2011,0,NLS201107120,NYN,NL,0,,reyes,josé
-833,sanchga01,2011,0,NLS201107120,FLO,NL,1,,sanchez,gaby
-834,sandopa01,2011,0,NLS201107120,SFN,NL,1,,sandoval,pablo
-835,uptonju01,2011,0,NLS201107120,ARI,NL,1,,upton,justin
-836,ventejo01,2011,0,NLS201107120,ATL,NL,1,,venters,jonny
-837,victosh01,2011,0,NLS201107120,PHI,NL,0,,victorino,shane
-838,vogelry01,2011,0,NLS201107120,SFN,NL,0,,vogelsong,ryan
-839,vottojo01,2011,0,NLS201107120,CIN,NL,1,,votto,joey
-840,wilsobr01,2011,0,NLS201107120,SFN,NL,1,,wilson,brian
-841,verlaju01,2012,0,ALS201207100,DET,AL,1,1.0,verlander,justin
-842,napolmi01,2012,0,ALS201207100,TEX,AL,1,2.0,napoli,mike
-843,fieldpr01,2012,0,ALS201207100,DET,AL,1,3.0,fielder,prince
-844,canoro01,2012,0,ALS201207100,NYA,AL,1,4.0,canó,robinson
-845,beltrad01,2012,0,ALS201207100,TEX,AL,1,5.0,beltré,adrián
-846,jeterde01,2012,0,ALS201207100,NYA,AL,1,6.0,jeter,derek
-847,hamiljo03,2012,0,ALS201207100,TEX,AL,1,7.0,hamilton,josh
-848,grandcu01,2012,0,ALS201207100,NYA,AL,1,8.0,granderson,curtis
-849,bautijo02,2012,0,ALS201207100,TOR,AL,1,9.0,bautista,josé
-850,ortizda01,2012,0,ALS201207100,BOS,AL,1,10.0,ortiz,david
-851,andruel01,2012,0,ALS201207100,TEX,AL,1,,andrus,elvis
-852,butlebi03,2012,0,ALS201207100,KCA,AL,1,,butler,billy
-853,cabreas01,2012,0,ALS201207100,CLE,AL,1,,cabrera,asdrúbal
-854,cabremi01,2012,0,ALS201207100,DET,AL,1,,cabrera,miguel
-855,cookry01,2012,0,ALS201207100,OAK,AL,1,,cook,ryan
-856,darviyu01,2012,0,ALS201207100,TEX,AL,0,,darvish,yu
-857,dunnad01,2012,0,ALS201207100,CHA,AL,0,,dunn,adam
-858,freesda01,2012,0,ALS201207100,SLN,AL,1,,freese,david
-859,harrima01,2012,0,ALS201207100,TEX,AL,1,,harrison,matt
-860,hernafe02,2012,0,ALS201207100,SEA,AL,0,,hernández,félix
-861,johnsji04,2012,0,ALS201207100,BAL,AL,1,,johnson,jim
-862,jonesad01,2012,0,ALS201207100,BAL,AL,1,,jones,adam
-863,kinslia01,2012,0,ALS201207100,TEX,AL,1,,kinsler,ian
-864,konerpa01,2012,0,ALS201207100,CHA,AL,1,,konerko,paul
-865,mauerjo01,2012,0,ALS201207100,MIN,AL,1,,mauer,joe
-866,nathajo01,2012,0,ALS201207100,TEX,AL,1,,nathan,joe
-867,peavyja01,2012,0,ALS201207100,CHA,AL,0,,peavy,jake
-868,perezch01,2012,0,ALS201207100,CLE,AL,0,,perez,chris
-869,priceda01,2012,0,ALS201207100,TBA,AL,1,,price,david
-870,rodnefe01,2012,0,ALS201207100,TBA,AL,1,,rodney,fernando
-871,sabatcc01,2012,0,ALS201207100,NYA,AL,0,,,
-872,salech01,2012,0,ALS201207100,CHA,AL,1,,sale,chris
-873,troutmi01,2012,0,ALS201207100,LAA,AL,1,,trout,mike
-874,trumbma01,2012,0,ALS201207100,LAA,AL,1,,trumbo,mark
-875,weaveje02,2012,0,ALS201207100,LAA,AL,1,,weaver,jered
-876,wietema01,2012,0,ALS201207100,BAL,AL,1,,wieters,matt
-877,wilsocj01,2012,0,ALS201207100,LAA,AL,0,,wilson,c. j.
-878,cainma01,2012,0,ALS201207100,SFN,NL,1,1.0,cain,matt
-879,poseybu01,2012,0,ALS201207100,SFN,NL,1,2.0,posey,buster
-880,vottojo01,2012,0,ALS201207100,CIN,NL,1,3.0,votto,joey
-881,ugglada01,2012,0,ALS201207100,ATL,NL,1,4.0,uggla,dan
-882,sandopa01,2012,0,ALS201207100,SFN,NL,1,5.0,sandoval,pablo
-883,furcara01,2012,0,ALS201207100,SLN,NL,1,6.0,,
-884,braunry02,2012,0,ALS201207100,MIL,NL,1,7.0,braun,ryan
-885,cabreme01,2012,0,ALS201207100,SFN,NL,1,8.0,cabrera,melky
-886,beltrca01,2012,0,ALS201207100,SLN,NL,1,9.0,beltrán,carlos
-887,gonzaca01,2012,0,ALS201207100,COL,NL,1,10.0,gonzález,carlos
-888,altuvjo01,2012,0,ALS201207100,HOU,NL,1,,altuve,jose
-889,bournmi01,2012,0,ALS201207100,ATL,NL,1,,bourn,michael
-890,bruceja01,2012,0,ALS201207100,CIN,NL,1,,bruce,jay
-891,castrst01,2012,0,ALS201207100,CHN,NL,1,,castro,starlin
-892,chapmar01,2012,0,ALS201207100,CIN,NL,1,,chapman,aroldis
-893,desmoia01,2012,0,ALS201207100,WAS,NL,0,,desmond,ian
-894,dickera01,2012,0,ALS201207100,NYN,NL,1,,,
-895,freesda01,2012,0,ALS201207100,SLN,NL,1,,freese,david
-896,gonzagi01,2012,0,ALS201207100,WAS,NL,1,,gonzalez,gio
-897,hamelco01,2012,0,ALS201207100,PHI,NL,1,,hamels,cole
-898,hanrajo01,2012,0,ALS201207100,PIT,NL,1,,hanrahan,joel
-899,harpebr03,2012,0,ALS201207100,WAS,NL,1,,harper,bryce
-900,hollima01,2012,0,ALS201207100,SLN,NL,1,,holliday,matt
-901,jonesch06,2012,0,ALS201207100,ATL,NL,1,,jones,chipper
-902,kempma01,2012,0,ALS201207100,LAN,NL,0,,kemp,matt
-903,kershcl01,2012,0,ALS201207100,LAN,NL,1,,kershaw,clayton
-904,kimbrcr01,2012,0,ALS201207100,ATL,NL,1,,kimbrel,craig
-905,lahaibr01,2012,0,ALS201207100,CHN,NL,1,,lahair,bryan
-906,lynnla01,2012,0,ALS201207100,SLN,NL,0,,lynn,lance
-907,mccutan01,2012,0,ALS201207100,PIT,NL,1,,mccutchen,andrew
-908,mileywa01,2012,0,ALS201207100,ARI,NL,1,,miley,wade
-909,molinya01,2012,0,ALS201207100,SLN,NL,0,,molina,yadier
-910,papeljo01,2012,0,ALS201207100,PHI,NL,1,,papelbon,jonathan
-911,ruizca01,2012,0,ALS201207100,PHI,NL,1,,ruiz,carlos
-912,stantmi03,2012,0,ALS201207100,MIA,NL,0,,stanton,giancarlo
-913,strasst01,2012,0,ALS201207100,WAS,NL,1,,strasburg,stephen
-914,streehu01,2012,0,ALS201207100,SDN,NL,0,,street,huston
-915,wrighda03,2012,0,ALS201207100,NYN,NL,1,,wright,david
-916,scherma01,2013,0,NLS201307160,DET,AL,1,1.0,scherzer,max
-917,mauerjo01,2013,0,NLS201307160,MIN,AL,1,2.0,mauer,joe
-918,davisch02,2013,0,NLS201307160,BAL,AL,1,3.0,davis,chris
-919,canoro01,2013,0,NLS201307160,NYA,AL,1,4.0,canó,robinson
-920,cabremi01,2013,0,NLS201307160,DET,AL,1,5.0,cabrera,miguel
-921,hardyjj01,2013,0,NLS201307160,BAL,AL,1,6.0,hardy,j. j.
-922,troutmi01,2013,0,NLS201307160,LAA,AL,1,7.0,trout,mike
-923,jonesad01,2013,0,NLS201307160,BAL,AL,1,8.0,jones,adam
-924,bautijo02,2013,0,NLS201307160,TOR,AL,1,9.0,bautista,josé
-925,ortizda01,2013,0,NLS201307160,BOS,AL,1,10.0,ortiz,david
-926,balfogr01,2013,0,NLS201307160,OAK,AL,1,,balfour,grant
-927,buchhcl01,2013,0,NLS201307160,BOS,AL,0,,buchholz,clay
-928,castrja01,2013,0,NLS201307160,HOU,AL,0,,castro,jason
-929,cecilbr01,2013,0,NLS201307160,TOR,AL,1,,cecil,brett
-930,colonba01,2013,0,NLS201307160,OAK,AL,0,,colon,bartolo
-931,crainje01,2013,0,NLS201307160,CHA,AL,0,,crain,jesse
-932,cruzne02,2013,0,NLS201307160,TEX,AL,1,,cruz,nelson
-933,darviyu01,2013,0,NLS201307160,TEX,AL,0,,darvish,yu
-934,delabst01,2013,0,NLS201307160,TOR,AL,1,,delabar,steve
-935,encared01,2013,0,NLS201307160,TOR,AL,1,,encarnación,edwin
-936,fieldpr01,2013,0,NLS201307160,DET,AL,1,,fielder,prince
-937,gordoal01,2013,0,NLS201307160,KCA,AL,1,,gordon,alex
-938,hernafe02,2013,0,NLS201307160,SEA,AL,1,,hernández,félix
-939,hollagr01,2013,0,NLS201307160,KCA,AL,1,,holland,greg
-940,hunteto01,2013,0,NLS201307160,DET,AL,1,,hunter,torii
-941,iwakuhi01,2013,0,NLS201307160,SEA,AL,0,,iwakuma,hisashi
-942,kipnija01,2013,0,NLS201307160,CLE,AL,1,,kipnis,jason
-943,machama01,2013,0,NLS201307160,BAL,AL,1,,machado,manny
-944,masteju01,2013,0,NLS201307160,CLE,AL,0,,masterson,justin
-945,moorema02,2013,0,NLS201307160,TBA,AL,1,,moore,matt
-946,nathajo01,2013,0,NLS201307160,TEX,AL,1,,nathan,joe
-947,pedrodu01,2013,0,NLS201307160,BOS,AL,1,,pedroia,dustin
-948,peraljh01,2013,0,NLS201307160,DET,AL,1,,peralta,jhonny
-949,perezsa02,2013,0,NLS201307160,KCA,AL,1,,perez,salvador
-950,perkigl01,2013,0,NLS201307160,MIN,AL,0,,perkins,glen
-951,riverma01,2013,0,NLS201307160,NYA,AL,1,,rivera,mariano
-952,salech01,2013,0,NLS201307160,CHA,AL,1,,sale,chris
-953,tillmch01,2013,0,NLS201307160,BAL,AL,0,,tillman,chris
-954,verlaju01,2013,0,NLS201307160,DET,AL,0,,verlander,justin
-955,zobribe01,2013,0,NLS201307160,TBA,AL,0,,zobrist,ben
-956,harvema01,2013,0,NLS201307160,NYN,NL,1,1.0,harvey,matt
-957,molinya01,2013,0,NLS201307160,SLN,NL,1,2.0,molina,yadier
-958,vottojo01,2013,0,NLS201307160,CIN,NL,1,3.0,votto,joey
-959,phillbr01,2013,0,NLS201307160,CIN,NL,1,4.0,phillips,brandon
-960,wrighda03,2013,0,NLS201307160,NYN,NL,1,5.0,wright,david
-961,tulowtr01,2013,0,NLS201307160,COL,NL,1,6.0,tulowitzki,troy
-962,gonzaca01,2013,0,NLS201307160,COL,NL,1,7.0,gonzález,carlos
-963,harpebr03,2013,0,NLS201307160,WAS,NL,1,8.0,harper,bryce
-964,beltrca01,2013,0,NLS201307160,SLN,NL,1,9.0,beltrán,carlos
-965,cuddymi01,2013,0,NLS201307160,COL,NL,1,10.0,cuddyer,michael
-966,alvarpe01,2013,0,NLS201307160,PIT,NL,1,,álvarez,pedro
-967,browndo01,2013,0,NLS201307160,PHI,NL,1,,brown,domonic
-968,bumgama01,2013,0,NLS201307160,SFN,NL,0,,bumgarner,madison
-969,cabreev01,2013,0,NLS201307160,SDN,NL,0,,cabrera,everth
-970,carpema01,2013,0,NLS201307160,SLN,NL,1,,carpenter,matt
-971,chapmar01,2013,0,NLS201307160,CIN,NL,1,,chapman,aroldis
-972,corbipa01,2013,0,NLS201307160,ARI,NL,1,,corbin,patrick
-973,craigal01,2013,0,NLS201307160,SLN,NL,1,,craig,allen
-974,fernajo02,2013,0,NLS201307160,MIA,NL,1,,fernández,josé
-975,freemfr01,2013,0,NLS201307160,ATL,NL,0,,freeman,freddie
-976,goldspa01,2013,0,NLS201307160,ARI,NL,1,,goldschmidt,paul
-977,gomezca01,2013,0,NLS201307160,MIL,NL,1,,gómez,carlos
-978,grillja01,2013,0,NLS201307160,PIT,NL,1,,grilli,jason
-979,kershcl01,2013,0,NLS201307160,LAN,NL,1,,kershaw,clayton
-980,kimbrcr01,2013,0,NLS201307160,ATL,NL,1,,kimbrel,craig
-981,leecl02,2013,0,NLS201307160,PHI,NL,1,,lee,cliff
-982,lockeje01,2013,0,NLS201307160,PIT,NL,0,,locke,jeff
-983,mccanbr01,2013,0,NLS201307160,ATL,NL,0,,mccann,brian
-984,mccutan01,2013,0,NLS201307160,PIT,NL,1,,mccutchen,andrew
-985,melanma01,2013,0,NLS201307160,PIT,NL,0,,melancon,mark
-986,poseybu01,2013,0,NLS201307160,SFN,NL,1,,posey,buster
-987,romose01,2013,0,NLS201307160,SFN,NL,0,,romo,sergio
-988,scutama01,2013,0,NLS201307160,SFN,NL,0,,scutaro,marco
-989,segurje01,2013,0,NLS201307160,MIL,NL,1,,segura,jean
-990,wainwad01,2013,0,NLS201307160,SLN,NL,0,,wainwright,adam
-991,woodtr01,2013,0,NLS201307160,CHN,NL,0,,wood,travis
-992,zimmejo02,2013,0,NLS201307160,WAS,NL,0,,zimmermann,jordan
-993,hernafe02,2014,0,ALS201407150,SEA,AL,1,1.0,hernández,félix
-994,perezsa02,2014,0,ALS201407150,KCA,AL,1,2.0,perez,salvador
-995,cabremi01,2014,0,ALS201407150,DET,AL,1,3.0,cabrera,miguel
-996,canoro01,2014,0,ALS201407150,SEA,AL,1,4.0,canó,robinson
-997,donaljo02,2014,0,ALS201407150,OAK,AL,1,5.0,donaldson,josh
-998,jeterde01,2014,0,ALS201407150,NYA,AL,1,6.0,jeter,derek
-999,troutmi01,2014,0,ALS201407150,LAA,AL,1,7.0,trout,mike
-1000,jonesad01,2014,0,ALS201407150,BAL,AL,1,8.0,jones,adam
-1001,bautijo02,2014,0,ALS201407150,TOR,AL,1,9.0,bautista,josé
-1002,cruzne02,2014,0,ALS201407150,BAL,AL,1,10.0,cruz,nelson
-1003,abreujo02,2014,0,ALS201407150,CHA,AL,1,,abreu,josé
-1004,altuvjo01,2014,0,ALS201407150,HOU,AL,1,,altuve,jose
-1005,aybarer01,2014,0,ALS201407150,LAA,AL,1,,aybar,erick
-1006,beltrad01,2014,0,ALS201407150,TEX,AL,1,,beltré,adrián
-1007,betande01,2014,0,ALS201407150,NYA,AL,0,,betances,dellin
-1008,brantmi02,2014,0,ALS201407150,CLE,AL,1,,brantley,michael
-1009,buehrma01,2014,0,ALS201407150,TOR,AL,0,,buehrle,mark
-1010,cespeyo01,2014,0,ALS201407150,OAK,AL,1,,céspedes,yoenis
-1011,darviyu01,2014,0,ALS201407150,TEX,AL,1,,darvish,yu
-1012,doolise01,2014,0,ALS201407150,OAK,AL,1,,doolittle,sean
-1013,encared01,2014,0,ALS201407150,TOR,AL,0,,encarnación,edwin
-1014,gordoal01,2014,0,ALS201407150,KCA,AL,0,,gordon,alex
-1015,hollagr01,2014,0,ALS201407150,KCA,AL,1,,holland,greg
-1016,kazmisc01,2014,0,ALS201407150,OAK,AL,1,,kazmir,scott
-1017,kinslia01,2014,0,ALS201407150,DET,AL,1,,kinsler,ian
-1018,lestejo01,2014,0,ALS201407150,BOS,AL,1,,lester,jon
-1019,martivi01,2014,0,ALS201407150,DET,AL,0,,martinez,victor
-1020,mossbr01,2014,0,ALS201407150,OAK,AL,1,,moss,brandon
-1021,norride01,2014,0,ALS201407150,OAK,AL,1,,norris,derek
-1022,perkigl01,2014,0,ALS201407150,MIN,AL,1,,perkins,glen
-1023,priceda01,2014,0,ALS201407150,TBA,AL,0,,price,david
-1024,ramiral03,2014,0,ALS201407150,CHA,AL,1,,ramírez,alexei
-1025,rodnefe01,2014,0,ALS201407150,SEA,AL,1,,rodney,fernando
-1026,salech01,2014,0,ALS201407150,CHA,AL,1,,sale,chris
-1027,scherma01,2014,0,ALS201407150,DET,AL,1,,scherzer,max
-1028,seageky01,2014,0,ALS201407150,SEA,AL,1,,seager,kyle
-1029,suzukku01,2014,0,ALS201407150,MIN,AL,1,,suzuki,kurt
-1030,tanakma01,2014,0,ALS201407150,NYA,AL,0,,tanaka,masahiro
-1031,ueharko01,2014,0,ALS201407150,BOS,AL,1,,uehara,koji
-1032,wietema01,2014,0,ALS201407150,BAL,AL,0,,wieters,matt
-1033,wainwad01,2014,0,ALS201407150,SLN,NL,1,1.0,wainwright,adam
-1034,lucrojo01,2014,0,ALS201407150,MIL,NL,1,2.0,lucroy,jonathan
-1035,goldspa01,2014,0,ALS201407150,ARI,NL,1,3.0,goldschmidt,paul
-1036,utleych01,2014,0,ALS201407150,PHI,NL,1,4.0,utley,chase
-1037,ramirar01,2014,0,ALS201407150,MIL,NL,1,5.0,ramirez,aramis
-1038,tulowtr01,2014,0,ALS201407150,COL,NL,1,6.0,tulowitzki,troy
-1039,gomezca01,2014,0,ALS201407150,MIL,NL,1,7.0,gómez,carlos
-1040,mccutan01,2014,0,ALS201407150,PIT,NL,1,8.0,mccutchen,andrew
-1041,puigya01,2014,0,ALS201407150,LAN,NL,1,9.0,puig,yasiel
-1042,stantmi03,2014,0,ALS201407150,MIA,NL,1,10.0,stanton,giancarlo
-1043,alvarhe01,2014,0,ALS201407150,MIA,NL,0,,alvarez,henderson
-1044,blackch02,2014,0,ALS201407150,COL,NL,1,,blackmon,charlie
-1045,bumgama01,2014,0,ALS201407150,SFN,NL,0,,bumgarner,madison
-1046,carpema01,2014,0,ALS201407150,SLN,NL,0,,carpenter,matt
-1047,castrst01,2014,0,ALS201407150,CHN,NL,1,,castro,starlin
-1048,chapmar01,2014,0,ALS201407150,CIN,NL,1,,chapman,aroldis
-1049,clippty01,2014,0,ALS201407150,WAS,NL,1,,clippard,tyler
-1050,cuetojo01,2014,0,ALS201407150,CIN,NL,0,,cueto,johnny
-1051,frazito01,2014,0,ALS201407150,CIN,NL,1,,frazier,todd
-1052,freemfr01,2014,0,ALS201407150,ATL,NL,1,,freeman,freddie
-1053,gordode01,2014,0,ALS201407150,LAN,NL,1,,strange-gordon,dee
-1054,greinza01,2014,0,ALS201407150,LAN,NL,1,,greinke,zack
-1055,harrijo05,2014,0,ALS201407150,PIT,NL,1,,harrison,josh
-1056,hudsoti01,2014,0,ALS201407150,SFN,NL,0,,hudson,tim
-1057,kershcl01,2014,0,ALS201407150,LAN,NL,1,,kershaw,clayton
-1058,kimbrcr01,2014,0,ALS201407150,ATL,NL,1,,kimbrel,craig
-1059,mesorde01,2014,0,ALS201407150,CIN,NL,1,,mesoraco,devin
-1060,molinya01,2014,0,ALS201407150,SLN,NL,0,,molina,yadier
-1061,montemi01,2014,0,ALS201407150,ARI,NL,1,,montero,miguel
-1062,murphda08,2014,0,ALS201407150,NYN,NL,1,,murphy,daniel
-1063,neshepa01,2014,0,ALS201407150,SLN,NL,1,,neshek,pat
-1064,pencehu01,2014,0,ALS201407150,SFN,NL,1,,pence,hunter
-1065,rizzoan01,2014,0,ALS201407150,CHN,NL,1,,rizzo,anthony
-1066,rodrifr03,2014,0,ALS201407150,MIL,NL,1,,rodríguez,francisco
-1067,rossty01,2014,0,ALS201407150,SDN,NL,0,,ross,tyson
-1068,samarje01,2014,0,ALS201407150,CHN,NL,0,,samardzija,jeff
-1069,simonal01,2014,0,ALS201407150,CIN,NL,1,,simon,alfredo
-1070,streehu01,2014,0,ALS201407150,SDN,NL,0,,street,huston
-1071,teherju01,2014,0,ALS201407150,ATL,NL,0,,teheran,julio
-1072,watsoto01,2014,0,ALS201407150,PIT,NL,1,,watson,tony
-1073,zimmejo02,2014,0,ALS201407150,WAS,NL,0,,zimmermann,jordan
-1074,keuchda01,2015,0,NLS201507140,HOU,AL,1,1.0,keuchel,dallas
-1075,perezsa02,2015,0,NLS201507140,KCA,AL,1,2.0,perez,salvador
-1076,pujolal01,2015,0,NLS201507140,LAA,AL,1,3.0,pujols,albert
-1077,altuvjo01,2015,0,NLS201507140,HOU,AL,1,4.0,altuve,jose
-1078,donaljo02,2015,0,NLS201507140,TOR,AL,1,5.0,donaldson,josh
-1079,escobal02,2015,0,NLS201507140,KCA,AL,1,6.0,escobar,alcides
-1080,jonesad01,2015,0,NLS201507140,BAL,AL,1,7.0,jones,adam
-1081,troutmi01,2015,0,NLS201507140,LAA,AL,1,8.0,trout,mike
-1082,cainlo01,2015,0,NLS201507140,KCA,AL,1,9.0,cain,lorenzo
-1083,cruzne02,2015,0,NLS201507140,SEA,AL,1,10.0,cruz,nelson
-1084,archech01,2015,0,NLS201507140,TBA,AL,1,,archer,chris
-1085,bautijo02,2015,0,NLS201507140,TOR,AL,0,,bautista,josé
-1086,betande01,2015,0,NLS201507140,NYA,AL,1,,betances,dellin
-1087,boxbebr01,2015,0,NLS201507140,TBA,AL,0,,boxberger,brad
-1088,brittza01,2015,0,NLS201507140,BAL,AL,1,,britton,zack
-1089,cabremi01,2015,0,NLS201507140,DET,AL,0,,cabrera,miguel
-1090,daviswa01,2015,0,NLS201507140,KCA,AL,1,,davis,wade
-1091,doziebr01,2015,0,NLS201507140,MIN,AL,1,,dozier,brian
-1092,fieldpr01,2015,0,NLS201507140,TEX,AL,1,,fielder,prince
-1093,gardnbr01,2015,0,NLS201507140,NYA,AL,1,,gardner,brett
-1094,gordoal01,2015,0,NLS201507140,KCA,AL,0,,gordon,alex
-1095,grayso01,2015,0,NLS201507140,OAK,AL,0,,gray,sonny
-1096,hernafe02,2015,0,NLS201507140,SEA,AL,1,,hernández,félix
-1097,herreke01,2015,0,NLS201507140,KCA,AL,0,,herrera,kelvin
-1098,holtbr01,2015,0,NLS201507140,BOS,AL,1,,holt,brock
-1099,iglesjo01,2015,0,NLS201507140,DET,AL,1,,iglesias,josé
-1100,kipnija01,2015,0,NLS201507140,CLE,AL,1,,kipnis,jason
-1101,machama01,2015,0,NLS201507140,BAL,AL,1,,machado,manny
-1102,martijd02,2015,0,NLS201507140,DET,AL,1,,martinez,j. d.
-1103,martiru01,2015,0,NLS201507140,TOR,AL,1,,martin,russell
-1104,moustmi01,2015,0,NLS201507140,KCA,AL,1,,moustakas,mike
-1105,odayda01,2015,0,NLS201507140,BAL,AL,0,,o'day,darren
-1106,perkigl01,2015,0,NLS201507140,MIN,AL,1,,perkins,glen
-1107,priceda01,2015,0,NLS201507140,DET,AL,1,,price,david
-1108,salech01,2015,0,NLS201507140,CHA,AL,0,,sale,chris
-1109,santihe01,2015,0,NLS201507140,LAA,AL,0,,santiago,héctor
-1110,teixema01,2015,0,NLS201507140,NYA,AL,1,,teixeira,mark
-1111,vogtst01,2015,0,NLS201507140,OAK,AL,1,,vogt,stephen
-1112,greinza01,2015,0,NLS201507140,LAN,NL,1,1.0,greinke,zack
-1113,poseybu01,2015,0,NLS201507140,SFN,NL,1,2.0,posey,buster
-1114,goldspa01,2015,0,NLS201507140,ARI,NL,1,3.0,goldschmidt,paul
-1115,lemahdj01,2015,0,NLS201507140,COL,NL,1,4.0,lemahieu,dj
-1116,frazito01,2015,0,NLS201507140,CIN,NL,1,5.0,frazier,todd
-1117,peraljh01,2015,0,NLS201507140,SLN,NL,1,6.0,peralta,jhonny
-1118,pederjo01,2015,0,NLS201507140,LAN,NL,1,7.0,pederson,joc
-1119,mccutan01,2015,0,NLS201507140,PIT,NL,1,8.0,mccutchen,andrew
-1120,harpebr03,2015,0,NLS201507140,WAS,NL,1,9.0,harper,bryce
-1121,rizzoan01,2015,0,NLS201507140,CHN,NL,1,10.0,rizzo,anthony
-1122,arenano01,2015,0,NLS201507140,COL,NL,1,,arenado,nolan
-1123,braunry02,2015,0,NLS201507140,MIL,NL,1,,braun,ryan
-1124,bryankr01,2015,0,NLS201507140,CHN,NL,1,,bryant,kris
-1125,bumgama01,2015,0,NLS201507140,SFN,NL,1,,bumgarner,madison
-1126,burneaj01,2015,0,NLS201507140,PIT,NL,0,,,
-1127,chapmar01,2015,0,NLS201507140,CIN,NL,1,,chapman,aroldis
-1128,colege01,2015,0,NLS201507140,PIT,NL,1,,cole,gerrit
-1129,crawfbr01,2015,0,NLS201507140,SFN,NL,1,,crawford,brandon
-1130,degroja01,2015,0,NLS201507140,NYN,NL,1,,degrom,jacob
-1131,gonzaad01,2015,0,NLS201507140,LAN,NL,1,,gonzález,adrián
-1132,gordode01,2015,0,NLS201507140,MIA,NL,0,,strange-gordon,dee
-1133,grandya01,2015,0,NLS201507140,LAN,NL,1,,grandal,yasmani
-1134,hollima01,2015,0,NLS201507140,SLN,NL,0,,holliday,matt
-1135,kershcl01,2015,0,NLS201507140,LAN,NL,1,,kershaw,clayton
-1136,martica04,2015,0,NLS201507140,SLN,NL,0,,martinez,carlos
-1137,melanma01,2015,0,NLS201507140,PIT,NL,1,,melancon,mark
-1138,millesh01,2015,0,NLS201507140,ATL,NL,0,,miller,shelby
-1139,molinya01,2015,0,NLS201507140,SLN,NL,1,,molina,yadier
-1140,panikjo01,2015,0,NLS201507140,SFN,NL,1,,panik,joe
-1141,papeljo01,2015,0,NLS201507140,PHI,NL,0,,papelbon,jonathan
-1142,polloaj01,2015,0,NLS201507140,ARI,NL,1,,pollock,aj
-1143,rodrifr03,2015,0,NLS201507140,MIL,NL,1,,rodríguez,francisco
-1144,rosentr01,2015,0,NLS201507140,SLN,NL,0,,rosenthal,trevor
-1145,scherma01,2015,0,NLS201507140,WAS,NL,0,,scherzer,max
-1146,stantmi03,2015,0,NLS201507140,MIA,NL,0,,stanton,giancarlo
-1147,tulowtr01,2015,0,NLS201507140,COL,NL,1,,tulowitzki,troy
-1148,uptonju01,2015,0,NLS201507140,SDN,NL,1,,upton,justin
-1149,wachami01,2015,0,NLS201507140,SLN,NL,0,,wacha,michael
-1150,salech01,2016,0,ALS201607120,CHA,AL,1,1.0,sale,chris
-1151,perezsa02,2016,0,ALS201607120,KCA,AL,1,2.0,perez,salvador
-1152,hosmeer01,2016,0,ALS201607120,KCA,AL,1,3.0,hosmer,eric
-1153,altuvjo01,2016,0,ALS201607120,HOU,AL,1,4.0,altuve,jose
-1154,machama01,2016,0,ALS201607120,BAL,AL,1,5.0,machado,manny
-1155,bogaexa01,2016,0,ALS201607120,BOS,AL,1,6.0,bogaerts,xander
-1156,bradlja02,2016,0,ALS201607120,BOS,AL,1,7.0,bradley,jackie
-1157,troutmi01,2016,0,ALS201607120,LAA,AL,1,8.0,trout,mike
-1158,bettsmo01,2016,0,ALS201607120,BOS,AL,1,9.0,betts,mookie
-1159,ortizda01,2016,0,ALS201607120,BOS,AL,1,10.0,ortiz,david
-1160,beltrca01,2016,0,ALS201607120,NYA,AL,1,,beltrán,carlos
-1161,betande01,2016,0,ALS201607120,NYA,AL,1,,betances,dellin
-1162,brachbr01,2016,0,ALS201607120,BAL,AL,0,,brach,brad
-1163,brittza01,2016,0,ALS201607120,BAL,AL,1,,britton,zack
-1164,cabremi01,2016,0,ALS201607120,DET,AL,1,,cabrera,miguel
-1165,canoro01,2016,0,ALS201607120,SEA,AL,1,,canó,robinson
-1166,colomal01,2016,0,ALS201607120,TBA,AL,0,,colomé,alex
-1167,daviswa01,2016,0,ALS201607120,KCA,AL,0,,davis,wade
-1168,desmoia01,2016,0,ALS201607120,TEX,AL,1,,desmond,ian
-1169,donaljo02,2016,0,ALS201607120,TOR,AL,1,,donaldson,josh
-1170,encared01,2016,0,ALS201607120,TOR,AL,1,,encarnación,edwin
-1171,estrama01,2016,0,ALS201607120,TOR,AL,0,,estrada,marco
-1172,hamelco01,2016,0,ALS201607120,TEX,AL,1,,hamels,cole
-1173,harriwi02,2016,0,ALS201607120,HOU,AL,1,,harris,willie
-1174,herreke01,2016,0,ALS201607120,KCA,AL,1,,herrera,kelvin
-1175,kimbrcr01,2016,0,ALS201607120,BOS,AL,0,,kimbrel,craig
-1176,klubeco01,2016,0,ALS201607120,CLE,AL,1,,kluber,corey
-1177,lindofr01,2016,0,ALS201607120,CLE,AL,1,,lindor,francisco
-1178,millean01,2016,0,ALS201607120,NYA,AL,1,,miller,andrew
-1179,nunezed02,2016,0,ALS201607120,MIN,AL,1,,núñez,eduardo
-1180,quintjo01,2016,0,ALS201607120,CHA,AL,1,,quintana,josé
-1181,salazda01,2016,0,ALS201607120,CLE,AL,0,,salazar,danny
-1182,sanchaa01,2016,0,ALS201607120,TOR,AL,1,,sanchez,aaron
-1183,saundmi01,2016,0,ALS201607120,TOR,AL,1,,saunders,michael
-1184,trumbma01,2016,0,ALS201607120,BAL,AL,1,,trumbo,mark
-1185,vogtst01,2016,0,ALS201607120,OAK,AL,0,,vogt,stephen
-1186,wietema01,2016,0,ALS201607120,BAL,AL,1,,wieters,matt
-1187,wrighst01,2016,0,ALS201607120,BOS,AL,0,,wright,steven
-1188,cuetojo01,2016,0,ALS201607120,SFN,NL,1,1.0,cueto,johnny
-1189,poseybu01,2016,0,ALS201607120,SFN,NL,1,2.0,posey,buster
-1190,rizzoan01,2016,0,ALS201607120,CHN,NL,1,3.0,rizzo,anthony
-1191,zobribe01,2016,0,ALS201607120,CHN,NL,1,4.0,zobrist,ben
-1192,bryankr01,2016,0,ALS201607120,CHN,NL,1,5.0,bryant,kris
-1193,russead02,2016,0,ALS201607120,CHN,NL,1,6.0,russell,addison
-1194,gonzaca01,2016,0,ALS201607120,COL,NL,1,7.0,gonzález,carlos
-1195,ozunama01,2016,0,ALS201607120,MIA,NL,1,8.0,ozuna,marcell
-1196,harpebr03,2016,0,ALS201607120,WAS,NL,1,9.0,harper,bryce
-1197,myerswi01,2016,0,ALS201607120,SDN,NL,1,10.0,myers,wil
-1198,arenano01,2016,0,ALS201607120,COL,NL,1,,arenado,nolan
-1199,arrieja01,2016,0,ALS201607120,CHN,NL,0,,arrieta,jake
-1200,beltbr01,2016,0,ALS201607120,SFN,NL,1,,belt,brandon
-1201,bruceja01,2016,0,ALS201607120,CIN,NL,1,,bruce,jay
-1202,bumgama01,2016,0,ALS201607120,SFN,NL,0,,bumgarner,madison
-1203,carpema01,2016,0,ALS201607120,SLN,NL,0,,carpenter,matt
-1204,cespeyo01,2016,0,ALS201607120,NYN,NL,0,,céspedes,yoenis
-1205,colonba01,2016,0,ALS201607120,NYN,NL,0,,colon,bartolo
-1206,diazal02,2016,0,ALS201607120,SLN,NL,1,,díaz,aledmys
-1207,duvalad01,2016,0,ALS201607120,CIN,NL,1,,duvall,adam
-1208,familje01,2016,0,ALS201607120,NYN,NL,0,,familia,jeurys
-1209,fernajo02,2016,0,ALS201607120,MIA,NL,1,,fernández,josé
-1210,fowlede01,2016,0,ALS201607120,CHN,NL,0,,fowler,dexter
-1211,goldspa01,2016,0,ALS201607120,ARI,NL,1,,goldschmidt,paul
-1212,herreod01,2016,0,ALS201607120,PHI,NL,1,,herrera,odúbel
-1213,janseke01,2016,0,ALS201607120,LAN,NL,1,,jansen,kenley
-1214,kershcl01,2016,0,ALS201607120,LAN,NL,0,,kershaw,clayton
-1215,lestejo01,2016,0,ALS201607120,CHN,NL,1,,lester,jon
-1216,lucrojo01,2016,0,ALS201607120,MIL,NL,1,,lucroy,jonathan
-1217,martest01,2016,0,ALS201607120,PIT,NL,1,,marte,starling
-1218,melanma01,2016,0,ALS201607120,PIT,NL,1,,melancon,mark
-1219,murphda08,2016,0,ALS201607120,WAS,NL,1,,murphy,daniel
-1220,pomerdr01,2016,0,ALS201607120,SDN,NL,1,,pomeranz,drew
-1221,ramosaj01,2016,0,ALS201607120,MIA,NL,0,,ramos,aj
-1222,ramoswi01,2016,0,ALS201607120,WAS,NL,1,,ramos,wilson
-1223,rodnefe01,2016,0,ALS201607120,MIA,NL,1,,rodney,fernando
-1224,scherma01,2016,0,ALS201607120,WAS,NL,1,,scherzer,max
-1225,seageco01,2016,0,ALS201607120,LAN,NL,1,,seager,corey
-1226,strasst01,2016,0,ALS201607120,WAS,NL,0,,strasburg,stephen
-1227,syndeno01,2016,0,ALS201607120,NYN,NL,0,,syndergaard,noah
-1228,teherju01,2016,0,ALS201607120,ATL,NL,1,,teheran,julio
-1229,salech01,2017,0,NLS201707110,BOS,AL,1,1.0,sale,chris
-1230,perezsa02,2017,0,NLS201707110,KCA,AL,1,2.0,perez,salvador
-1231,smoakju01,2017,0,NLS201707110,TOR,AL,1,3.0,smoak,justin
-1232,altuvjo01,2017,0,NLS201707110,HOU,AL,1,4.0,altuve,jose
-1233,ramirjo01,2017,0,NLS201707110,CLE,AL,1,5.0,ramírez,josé
-1234,correca01,2017,0,NLS201707110,HOU,AL,1,6.0,correa,carlos
-1235,springe01,2017,0,NLS201707110,HOU,AL,1,7.0,springer,george
-1236,bettsmo01,2017,0,NLS201707110,BOS,AL,1,8.0,betts,mookie
-1237,judgeaa01,2017,0,NLS201707110,NYA,AL,1,9.0,judge,aaron
-1238,dickeco01,2017,0,NLS201707110,TBA,AL,1,10.0,dickerson,corey
-1239,alonsyo01,2017,0,NLS201707110,OAK,AL,1,,alonso,yonder
-1240,archech01,2017,0,NLS201707110,TBA,AL,0,,archer,chris
-1241,betande01,2017,0,NLS201707110,NYA,AL,1,,betances,dellin
-1242,brantmi02,2017,0,NLS201707110,CLE,AL,1,,brantley,michael
-1243,canoro01,2017,0,NLS201707110,SEA,AL,1,,canó,robinson
-1244,castrst01,2017,0,NLS201707110,NYA,AL,0,,castro,starlin
-1245,cruzne02,2017,0,NLS201707110,SEA,AL,1,,cruz,nelson
-1246,darviyu01,2017,0,NLS201707110,TEX,AL,0,,darvish,yu
-1247,devench02,2017,0,NLS201707110,HOU,AL,1,,devenski,chris
-1248,fulmemi01,2017,0,NLS201707110,DET,AL,0,,fulmer,michael
-1249,garciav01,2017,0,NLS201707110,CHA,AL,1,,garcía,avisaíl
-1250,keuchda01,2017,0,NLS201707110,HOU,AL,0,,keuchel,dallas
-1251,kimbrcr01,2017,0,NLS201707110,BOS,AL,1,,kimbrel,craig
-1252,kintzbr01,2017,0,NLS201707110,MIN,AL,1,,kintzler,brandon
-1253,klubeco01,2017,0,NLS201707110,CLE,AL,0,,kluber,corey
-1254,lindofr01,2017,0,NLS201707110,CLE,AL,1,,lindor,francisco
-1255,mcculla02,2017,0,NLS201707110,HOU,AL,0,,mccullers,lance
-1256,millean01,2017,0,NLS201707110,CLE,AL,1,,miller,andrew
-1257,moustmi01,2017,0,NLS201707110,KCA,AL,1,,moustakas,mike
-1258,osunaro01,2017,0,NLS201707110,TOR,AL,1,,osuna,roberto
-1259,sanchga02,2017,0,NLS201707110,NYA,AL,1,,sánchez,gary
-1260,sanomi01,2017,0,NLS201707110,MIN,AL,1,,sanó,miguel
-1261,santaer01,2017,0,NLS201707110,MIN,AL,1,,santana,ervin
-1262,schoojo01,2017,0,NLS201707110,BAL,AL,1,,schoop,jonathan
-1263,severlu01,2017,0,NLS201707110,NYA,AL,0,,severino,luis
-1264,troutmi01,2017,0,NLS201707110,LAA,AL,0,,trout,mike
-1265,uptonju01,2017,0,NLS201707110,DET,AL,1,,upton,justin
-1266,vargaja01,2017,0,NLS201707110,KCA,AL,1,,vargas,jason
-1267,scherma01,2017,0,NLS201707110,WAS,NL,1,1.0,scherzer,max
-1268,poseybu01,2017,0,NLS201707110,SFN,NL,1,2.0,posey,buster
-1269,zimmery01,2017,0,NLS201707110,WAS,NL,1,3.0,zimmerman,ryan
-1270,murphda08,2017,0,NLS201707110,WAS,NL,1,4.0,murphy,daniel
-1271,arenano01,2017,0,NLS201707110,COL,NL,1,5.0,arenado,nolan
-1272,cozarza01,2017,0,NLS201707110,CIN,NL,1,6.0,cozart,zack
-1273,ozunama01,2017,0,NLS201707110,MIA,NL,1,7.0,ozuna,marcell
-1274,blackch02,2017,0,NLS201707110,COL,NL,1,8.0,blackmon,charlie
-1275,harpebr03,2017,0,NLS201707110,WAS,NL,1,9.0,harper,bryce
-1276,stantmi03,2017,0,NLS201707110,MIA,NL,1,10.0,stanton,giancarlo
-1277,bellico01,2017,0,NLS201707110,LAN,NL,1,,bellinger,cody
-1278,confomi01,2017,0,NLS201707110,NYN,NL,1,,conforto,michael
-1279,daviswa01,2017,0,NLS201707110,CHN,NL,1,,davis,wade
-1280,goldspa01,2017,0,NLS201707110,ARI,NL,1,,goldschmidt,paul
-1281,greinza01,2017,0,NLS201707110,ARI,NL,1,,greinke,zack
-1282,handbr01,2017,0,NLS201707110,SDN,NL,1,,hand,brad
-1283,harrijo05,2017,0,NLS201707110,PIT,NL,1,,harrison,josh
-1284,hollagr01,2017,0,NLS201707110,COL,NL,1,,holland,greg
-1285,inciaen01,2017,0,NLS201707110,ATL,NL,1,,inciarte,ender
-1286,janseke01,2017,0,NLS201707110,LAN,NL,1,,jansen,kenley
-1287,kershcl01,2017,0,NLS201707110,LAN,NL,0,,kershaw,clayton
-1288,knebeco01,2017,0,NLS201707110,MIL,NL,0,,knebel,corey
-1289,lambja01,2017,0,NLS201707110,ARI,NL,1,,lamb,jake
-1290,lemahdj01,2017,0,NLS201707110,COL,NL,0,,lemahieu,dj
-1291,martica04,2017,0,NLS201707110,SLN,NL,1,,martinez,carlos
-1292,molinya01,2017,0,NLS201707110,SLN,NL,1,,molina,yadier
-1293,neshepa01,2017,0,NLS201707110,PHI,NL,1,,neshek,pat
-1294,rayro02,2017,0,NLS201707110,ARI,NL,0,,ray,robbie
-1295,seageco01,2017,0,NLS201707110,LAN,NL,1,,seager,corey
-1296,strasst01,2017,0,NLS201707110,WAS,NL,0,,strasburg,stephen
-1297,turneju01,2017,0,NLS201707110,LAN,NL,1,,turner,justin
-1298,vottojo01,2017,0,NLS201707110,CIN,NL,1,,votto,joey
-1299,woodal02,2017,0,NLS201707110,LAN,NL,1,,wood,alex
-1300,salech01,2018,0,NLS201807170,BOS,AL,1,1.0,sale,chris
-1301,perezsa02,2018,0,NLS201807170,KCA,AL,1,2.0,perez,salvador
-1302,abreujo02,2018,0,NLS201807170,CHA,AL,1,3.0,abreu,josé
-1303,altuvjo01,2018,0,NLS201807170,HOU,AL,1,4.0,altuve,jose
-1304,ramirjo01,2018,0,NLS201807170,CLE,AL,1,5.0,ramírez,josé
-1305,machama01,2018,0,NLS201807170,BAL,AL,1,6.0,machado,manny
-1306,judgeaa01,2018,0,NLS201807170,NYA,AL,1,7.0,judge,aaron
-1307,troutmi01,2018,0,NLS201807170,LAA,AL,1,8.0,trout,mike
-1308,bettsmo01,2018,0,NLS201807170,BOS,AL,1,9.0,betts,mookie
-1309,martijd02,2018,0,NLS201807170,BOS,AL,1,10.0,martinez,j. d.
-1310,bauertr01,2018,0,NLS201807170,CLE,AL,0,,bauer,trevor
-1311,berrijo01,2018,0,NLS201807170,MIN,AL,1,,berríos,josé
-1312,brantmi02,2018,0,NLS201807170,CLE,AL,1,,brantley,michael
-1313,bregmal01,2018,0,NLS201807170,HOU,AL,1,,bregman,alex
-1314,chapmar01,2018,0,NLS201807170,NYA,AL,0,,chapman,aroldis
-1315,choosh01,2018,0,NLS201807170,TEX,AL,1,,choo,shin-soo
-1316,colege01,2018,0,NLS201807170,HOU,AL,0,,cole,gerrit
-1317,cruzne02,2018,0,NLS201807170,SEA,AL,1,,cruz,nelson
-1318,diazed04,2018,0,NLS201807170,SEA,AL,1,,díaz,edwin
-1319,gomesya01,2018,0,NLS201807170,CLE,AL,1,,gomes,yan
-1320,hanigmi01,2018,0,NLS201807170,SEA,AL,1,,haniger,mitch
-1321,happja01,2018,0,NLS201807170,TOR,AL,1,,happ,j. a.
-1322,jimenjo02,2018,0,NLS201807170,DET,AL,1,,jiménez,joe
-1323,kimbrcr01,2018,0,NLS201807170,BOS,AL,0,,kimbrel,craig
-1324,klubeco01,2018,0,NLS201807170,CLE,AL,0,,kluber,corey
-1325,lindofr01,2018,0,NLS201807170,CLE,AL,1,,lindor,francisco
-1326,lowrije01,2018,0,NLS201807170,OAK,AL,1,,lowrie,jed
-1327,morelmi01,2018,0,NLS201807170,BOS,AL,1,,moreland,mitch
-1328,mortoch02,2018,0,NLS201807170,HOU,AL,1,,morton,charlie
-1329,ramoswi01,2018,0,NLS201807170,TBA,AL,0,,ramos,wilson
-1330,segurje01,2018,0,NLS201807170,SEA,AL,1,,segura,jean
-1331,severlu01,2018,0,NLS201807170,NYA,AL,1,,severino,luis
-1332,snellbl01,2018,0,NLS201807170,TBA,AL,1,,snell,blake
-1333,springe01,2018,0,NLS201807170,HOU,AL,1,,springer,george
-1334,torregl01,2018,0,NLS201807170,NYA,AL,0,,torres,gleyber
-1335,treinbl01,2018,0,NLS201807170,OAK,AL,1,,treinen,blake
-1336,verlaju01,2018,0,NLS201807170,HOU,AL,0,,verlander,justin
-1337,scherma01,2018,0,NLS201807170,WAS,NL,1,1.0,scherzer,max
-1338,contrwi01,2018,0,NLS201807170,CHN,NL,1,2.0,contreras,willson
-1339,freemfr01,2018,0,NLS201807170,ATL,NL,1,3.0,freeman,freddie
-1340,baezja01,2018,0,NLS201807170,CHN,NL,1,4.0,báez,javier
-1341,arenano01,2018,0,NLS201807170,COL,NL,1,5.0,arenado,nolan
-1342,crawfbr01,2018,0,NLS201807170,SFN,NL,1,6.0,crawford,brandon
-1343,kempma01,2018,0,NLS201807170,LAN,NL,1,7.0,kemp,matt
-1344,harpebr03,2018,0,NLS201807170,WAS,NL,1,8.0,harper,bryce
-1345,markani01,2018,0,NLS201807170,ATL,NL,1,9.0,markakis,nick
-1346,goldspa01,2018,0,NLS201807170,ARI,NL,1,10.0,goldschmidt,paul
-1347,aguilje01,2018,0,NLS201807170,MIL,NL,1,,aguilar,jesús
-1348,albieoz01,2018,0,NLS201807170,ATL,NL,1,,albies,ozzie
-1349,blackch02,2018,0,NLS201807170,COL,NL,1,,blackmon,charlie
-1350,cainlo01,2018,0,NLS201807170,MIL,NL,1,,cain,lorenzo
-1351,corbipa01,2018,0,NLS201807170,ARI,NL,0,,corbin,patrick
-1352,degroja01,2018,0,NLS201807170,NYN,NL,1,,degrom,jacob
-1353,doolise01,2018,0,NLS201807170,WAS,NL,0,,doolittle,sean
-1354,foltymi01,2018,0,NLS201807170,ATL,NL,1,,foltynewicz,mike
-1355,gennesc01,2018,0,NLS201807170,CIN,NL,1,,gennett,scooter
-1356,haderjo01,2018,0,NLS201807170,MIL,NL,1,,hader,josh
-1357,handbr01,2018,0,NLS201807170,SDN,NL,1,,hand,brad
-1358,janseke01,2018,0,NLS201807170,LAN,NL,0,,jansen,kenley
-1359,jeffrje01,2018,0,NLS201807170,MIL,NL,1,,jeffress,jeremy
-1360,lestejo01,2018,0,NLS201807170,CHN,NL,0,,lester,jon
-1361,mikolmi01,2018,0,NLS201807170,SLN,NL,0,,mikolas,miles
-1362,molinya01,2018,0,NLS201807170,SLN,NL,1,,molina,yadier
-1363,nolaaa01,2018,0,NLS201807170,PHI,NL,1,,nola,aaron
-1364,poseybu01,2018,0,NLS201807170,SFN,NL,0,,posey,buster
-1365,realmjt01,2018,0,NLS201807170,MIA,NL,1,,realmuto,j. t.
-1366,riverfe01,2018,0,NLS201807170,PIT,NL,1,,vázquez,felipe
-1367,storytr01,2018,0,NLS201807170,COL,NL,1,,story,trevor
-1368,stripro01,2018,0,NLS201807170,LAN,NL,1,,stripling,ross
-1369,suareeu01,2018,0,NLS201807170,CIN,NL,1,,suárez,eugenio
-1370,vottojo01,2018,0,NLS201807170,CIN,NL,1,,votto,joey
-1371,yelicch01,2018,0,NLS201807170,MIL,NL,1,,yelich,christian
-1372,verlaju01,2019,0,ALS201907090,HOU,AL,1,1.0,verlander,justin
-1373,sanchga02,2019,0,ALS201907090,NYA,AL,1,2.0,sánchez,gary
-1374,santaca01,2019,0,ALS201907090,CLE,AL,1,3.0,santana,carlos
-1375,lemahdj01,2019,0,ALS201907090,NYA,AL,1,4.0,lemahieu,dj
-1376,bregmal01,2019,0,ALS201907090,HOU,AL,1,5.0,bregman,alex
-1377,polanjo01,2019,0,ALS201907090,MIN,AL,1,6.0,polanco,jorge
-1378,brantmi02,2019,0,ALS201907090,HOU,AL,1,7.0,brantley,michael
-1379,troutmi01,2019,0,ALS201907090,LAA,AL,1,8.0,trout,mike
-1380,springe01,2019,0,ALS201907090,HOU,AL,1,9.0,springer,george
-1381,martijd02,2019,0,ALS201907090,BOS,AL,1,10.0,martinez,j. d.
-1382,abreujo02,2019,0,ALS201907090,CHA,AL,1,,abreu,josé
-1383,berrijo01,2019,0,ALS201907090,MIN,AL,1,,berríos,josé
-1384,bettsmo01,2019,0,ALS201907090,BOS,AL,1,,betts,mookie
-1385,biebesh01,2019,0,ALS201907090,CLE,AL,1,,bieber,shane
-1386,bogaexa01,2019,0,ALS201907090,BOS,AL,1,,bogaerts,xander
-1387,chapmar01,2019,0,ALS201907090,NYA,AL,1,,chapman,aroldis
-1388,chapmma01,2019,0,ALS201907090,OAK,AL,1,,chapman,matt
-1389,colege01,2019,0,ALS201907090,HOU,AL,0,,cole,gerrit
-1390,gallojo01,2019,0,ALS201907090,TEX,AL,1,,gallo,joey
-1391,giolilu01,2019,0,ALS201907090,CHA,AL,1,,giolito,lucas
-1392,greensh02,2019,0,ALS201907090,DET,AL,1,,greene,shane
-1393,handbr01,2019,0,ALS201907090,CLE,AL,1,,hand,brad
-1394,hendrli01,2019,0,ALS201907090,OAK,AL,1,,hendriks,liam
-1395,lasteto01,2019,0,ALS201907090,LAA,AL,0,,la stella,tommy
-1396,lindofr01,2019,0,ALS201907090,CLE,AL,1,,lindor,francisco
-1397,lowebr01,2019,0,ALS201907090,TBA,AL,0,,lowe,brandon
-1398,mccanja02,2019,0,ALS201907090,CHA,AL,1,,mccann,james
-1399,meadoau01,2019,0,ALS201907090,TBA,AL,1,,meadows,austin
-1400,meansjo01,2019,0,ALS201907090,BAL,AL,0,,means,john
-1401,merriwh01,2019,0,ALS201907090,KCA,AL,1,,merrifield,whit
-1402,mortoch02,2019,0,ALS201907090,TBA,AL,0,,morton,charlie
-1403,odorija01,2019,0,ALS201907090,MIN,AL,0,,odorizzi,jake
-1404,pencehu01,2019,0,ALS201907090,TEX,AL,0,,pence,hunter
-1405,pressry01,2019,0,ALS201907090,HOU,AL,0,,pressly,ryan
-1406,tanakma01,2019,0,ALS201907090,NYA,AL,1,,tanaka,masahiro
-1407,torregl01,2019,0,ALS201907090,NYA,AL,1,,torres,gleyber
-1408,vogelda01,2019,0,ALS201907090,SEA,AL,1,,vogelbach,dan
-1409,ryuhy01,2019,0,ALS201907090,LAN,NL,1,1.0,ryu,hyun jin
-1410,contrwi01,2019,0,ALS201907090,CHN,NL,1,2.0,contreras,willson
-1411,freemfr01,2019,0,ALS201907090,ATL,NL,1,3.0,freeman,freddie
-1412,marteke01,2019,0,ALS201907090,ARI,NL,1,4.0,marte,ketel
-1413,arenano01,2019,0,ALS201907090,COL,NL,1,5.0,arenado,nolan
-1414,baezja01,2019,0,ALS201907090,CHN,NL,1,6.0,báez,javier
-1415,yelicch01,2019,0,ALS201907090,MIL,NL,1,7.0,yelich,christian
-1416,acunaro01,2019,0,ALS201907090,ATL,NL,1,8.0,acuña,ronald
-1417,bellico01,2019,0,ALS201907090,LAN,NL,1,9.0,bellinger,cody
-1418,belljo02,2019,0,ALS201907090,PIT,NL,1,10.0,bell,josh
-1419,alcansa01,2019,0,ALS201907090,MIA,NL,1,,alcantara,sandy
-1420,alonspe01,2019,0,ALS201907090,NYN,NL,1,,alonso,pete
-1421,blackch02,2019,0,ALS201907090,COL,NL,1,,blackmon,charlie
-1422,bryankr01,2019,0,ALS201907090,CHN,NL,1,,bryant,kris
-1423,buehlwa01,2019,0,ALS201907090,LAN,NL,1,,buehler,walker
-1424,castilu02,2019,0,ALS201907090,CIN,NL,1,,castillo,luis
-1425,dahlda01,2019,0,ALS201907090,COL,NL,1,,dahl,david
-1426,degroja01,2019,0,ALS201907090,NYN,NL,1,,degrom,jacob
-1427,dejonpa01,2019,0,ALS201907090,SLN,NL,1,,dejong,paul
-1428,grandya01,2019,0,ALS201907090,MIL,NL,1,,grandal,yasmani
-1429,grayso01,2019,0,ALS201907090,CIN,NL,0,,gray,sonny
-1430,haderjo01,2019,0,ALS201907090,MIL,NL,0,,hader,josh
-1431,kershcl01,2019,0,ALS201907090,LAN,NL,1,,kershaw,clayton
-1432,mcneije01,2019,0,ALS201907090,NYN,NL,1,,mcneil,jeff
-1433,moustmi01,2019,0,ALS201907090,MIL,NL,1,,moustakas,mike
-1434,muncyma01,2019,0,ALS201907090,LAN,NL,1,,muncy,max
-1435,realmjt01,2019,0,ALS201907090,PHI,NL,1,,realmuto,j. t.
-1436,rendoan01,2019,0,ALS201907090,WAS,NL,0,,rendon,anthony
-1437,riverfe01,2019,0,ALS201907090,PIT,NL,0,,vázquez,felipe
-1438,scherma01,2019,0,ALS201907090,WAS,NL,0,,scherzer,max
-1439,smithwi04,2019,0,ALS201907090,SFN,NL,1,,smith,will
-1440,sorokmi01,2019,0,ALS201907090,ATL,NL,1,,soroka,michael
-1441,storytr01,2019,0,ALS201907090,COL,NL,1,,story,trevor
-1442,woodrbr01,2019,0,ALS201907090,MIL,NL,1,,woodruff,brandon
-1443,yateski01,2019,0,ALS201907090,SDN,NL,0,,yates,kirby
+,key_bbref,yearID,gameNum,gameID,teamID,lgID,GP,startingPos,name_last,name_first,Name,keyname
+1,rodriiv01,2000,0,NLS200007110,TEX,AL,1,2,rodriguez,ivan,ivan rodriguez,ivan rodriguez2000
+2,giambja01,2000,0,NLS200007110,OAK,AL,1,3,giambi,jason,jason giambi,jason giambi2000
+3,alomaro01,2000,0,NLS200007110,CLE,AL,1,4,alomar,roberto,roberto alomar,roberto alomar2000
+4,frymatr01,2000,0,NLS200007110,CLE,AL,1,5,fryman,travis,travis fryman,travis fryman2000
+5,jeterde01,2000,0,NLS200007110,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2000
+6,evereca01,2000,0,NLS200007110,BOS,AL,1,7,everett,carl,carl everett,carl everett2000
+7,willibe02,2000,0,NLS200007110,NYA,AL,1,8,williams,bernie,bernie williams,bernie williams2000
+8,dyeje01,2000,0,NLS200007110,KCA,AL,1,9,dye,jermaine,jermaine dye,jermaine dye2000
+10,batisto01,2000,0,NLS200007110,TOR,AL,1,,batista,tony,tony batista,tony batista2000
+11,bordimi01,2000,0,NLS200007110,BAL,AL,1,,bordick,mike,mike bordick,mike bordick2000
+12,delgaca01,2000,0,NLS200007110,TOR,AL,1,,delgado,carlos,carlos delgado,carlos delgado2000
+13,durhara01,2000,0,NLS200007110,CHA,AL,1,,durham,ray,ray durham,ray durham2000
+14,erstada01,2000,0,NLS200007110,LAA,AL,1,,erstad,darin,darin erstad,darin erstad2000
+16,garcino01,2000,0,NLS200007110,BOS,AL,1,,garciaparra,nomar,nomar garciaparra,nomar garciaparra2000
+17,glaustr01,2000,0,NLS200007110,LAA,AL,1,,glaus,troy,troy glaus,troy glaus2000
+21,lawtoma02,2000,0,NLS200007110,MIN,AL,1,,lawton,matt,matt lawton,matt lawton2000
+23,martied01,2000,0,NLS200007110,SEA,AL,1,,martinez,edgar,edgar martinez,edgar martinez2000
+25,mcgrifr01,2000,0,NLS200007110,TBA,AL,1,,mcgriff,fred,fred mcgriff,fred mcgriff2000
+26,ordonma01,2000,0,NLS200007110,CHA,AL,1,,ordonez,magglio,magglio ordonez,magglio ordonez2000
+27,posadjo01,2000,0,NLS200007110,NYA,AL,1,,posada,jorge,jorge posada,jorge posada2000
+28,ramirma02,2000,0,NLS200007110,CLE,AL,0,,ramirez,manny,manny ramirez,manny ramirez2000
+29,ripkeca01,2000,0,NLS200007110,BAL,AL,0,,ripken,cal,cal ripken,cal ripken2000
+31,rodrial01,2000,0,NLS200007110,SEA,AL,0,,rodriguez,alex,alex rodriguez,alex rodriguez2000
+33,sweenmi01,2000,0,NLS200007110,KCA,AL,1,,sweeney,mike,mike sweeney,mike sweeney2000
+35,kendaja01,2000,0,NLS200007110,PIT,NL,1,2,kendall,jason,jason kendall,jason kendall2000
+36,galaran01,2000,0,NLS200007110,ATL,NL,1,3,galarraga,andres,andres galarraga,andres galarraga2000
+37,kentje01,2000,0,NLS200007110,SFN,NL,1,4,kent,jeff,jeff kent,jeff kent2000
+38,jonesch06,2000,0,NLS200007110,ATL,NL,1,5,jones,chipper,chipper jones,chipper jones2000
+39,larkiba01,2000,0,NLS200007110,CIN,NL,1,6,larkin,barry,barry larkin,barry larkin2000
+40,guerrvl01,2000,0,NLS200007110,MON,NL,1,7,guerrero,vladimir,vladimir guerrero,vladimir guerrero2000
+41,edmonji01,2000,0,NLS200007110,SLN,NL,1,8,edmonds,jim,jim edmonds,jim edmonds2000
+42,sosasa01,2000,0,NLS200007110,CHN,NL,1,9,sosa,sammy,sammy sosa,sammy sosa2000
+43,alfoned01,2000,0,NLS200007110,NYN,NL,1,,alfonzo,edgardo,edgardo alfonzo,edgardo alfonzo2000
+44,bondsba01,2000,0,NLS200007110,SFN,NL,0,,bonds,barry,barry bonds,barry bonds2000
+46,cirilje01,2000,0,NLS200007110,COL,NL,1,,cirillo,jeff,jeff cirillo,jeff cirillo2000
+48,finlest01,2000,0,NLS200007110,ARI,NL,1,,finley,steve,steve finley,steve finley2000
+49,gilesbr02,2000,0,NLS200007110,PIT,NL,1,,giles,brian,brian giles,brian giles2000
+50,girarjo01,2000,0,NLS200007110,CHN,NL,0,,girardi,joe,joe girardi,joe girardi2000
+53,griffke02,2000,0,NLS200007110,CIN,NL,0,,griffey,ken,ken griffey,ken griffey2000
+54,hammoje01,2000,0,NLS200007110,COL,NL,1,,hammonds,jeffrey,jeffrey hammonds,jeffrey hammonds2000
+55,heltoto01,2000,0,NLS200007110,COL,NL,1,,helton,todd,todd helton,todd helton2000
+57,jonesan01,2000,0,NLS200007110,ATL,NL,1,,jones,andruw,andruw jones,andruw jones2000
+60,liebemi01,2000,0,NLS200007110,PHI,NL,1,,lieberthal,mike,mike lieberthal,mike lieberthal2000
+62,mcgwima01,2000,0,NLS200007110,SLN,NL,0,,mcgwire,mark,mark mcgwire,mark mcgwire2000
+63,piazzmi01,2000,0,NLS200007110,NYN,NL,0,,piazza,mike,mike piazza,mike piazza2000
+64,renteed01,2000,0,NLS200007110,SLN,NL,1,,renteria,edgar,edgar renteria,edgar renteria2000
+66,sheffga01,2000,0,NLS200007110,LAN,NL,1,,sheffield,gary,gary sheffield,gary sheffield2000
+67,vidrojo01,2000,0,NLS200007110,MON,NL,1,,vidro,jose,jose vidro,jose vidro2000
+70,rodriiv01,2001,0,ALS200107100,TEX,AL,1,2,rodriguez,ivan,ivan rodriguez,ivan rodriguez2001
+71,olerujo01,2001,0,ALS200107100,SEA,AL,1,3,olerud,john,john olerud,john olerud2001
+72,boonebr01,2001,0,ALS200107100,SEA,AL,1,4,boone,bret,bret boone,bret boone2001
+73,rodrial01,2001,0,ALS200107100,TEX,AL,1,5,rodriguez,alex,alex rodriguez,alex rodriguez2001
+74,ripkeca01,2001,0,ALS200107100,BAL,AL,1,6,ripken,cal,cal ripken,cal ripken2001
+75,ramirma02,2001,0,ALS200107100,BOS,AL,1,7,ramirez,manny,manny ramirez,manny ramirez2001
+76,suzukic01,2001,0,ALS200107100,SEA,AL,1,8,suzuki,ichiro,ichiro suzuki,ichiro suzuki2001
+77,gonzaju03,2001,0,ALS200107100,CLE,AL,1,9,gonzalez,juan,juan gonzalez,juan gonzalez2001
+78,martied01,2001,0,ALS200107100,SEA,AL,1,10,martinez,edgar,edgar martinez,edgar martinez2001
+79,alomaro01,2001,0,ALS200107100,CLE,AL,1,,alomar,roberto,roberto alomar,roberto alomar2001
+80,camermi01,2001,0,ALS200107100,SEA,AL,1,,cameron,mike,mike cameron,mike cameron2001
+81,clarkto02,2001,0,ALS200107100,DET,AL,1,,clark,tony,tony clark,tony clark2001
+82,garcifr02,2001,0,ALS200107100,SEA,AL,1,,,,,2001
+83,giambja01,2001,0,ALS200107100,OAK,AL,1,,giambi,jason,jason giambi,jason giambi2001
+84,glaustr01,2001,0,ALS200107100,LAA,AL,1,,glaus,troy,troy glaus,troy glaus2001
+85,guzmacr01,2001,0,ALS200107100,MIN,AL,1,,guzman,cristian,cristian guzman,cristian guzman2001
+86,jeterde01,2001,0,ALS200107100,NYA,AL,1,,jeter,derek,derek jeter,derek jeter2001
+90,ordonma01,2001,0,ALS200107100,CHA,AL,1,,ordonez,magglio,magglio ordonez,magglio ordonez2001
+93,posadjo01,2001,0,ALS200107100,NYA,AL,1,,posada,jorge,jorge posada,jorge posada2001
+98,sweenmi01,2001,0,ALS200107100,KCA,AL,1,,sweeney,mike,mike sweeney,mike sweeney2001
+99,vaughgr01,2001,0,ALS200107100,TBA,AL,0,,vaughn,greg,greg vaughn,greg vaughn2001
+100,willibe02,2001,0,ALS200107100,NYA,AL,1,,williams,bernie,bernie williams,bernie williams2001
+102,piazzmi01,2001,0,ALS200107100,NYN,NL,1,2,piazza,mike,mike piazza,mike piazza2001
+103,heltoto01,2001,0,ALS200107100,COL,NL,1,3,helton,todd,todd helton,todd helton2001
+104,kentje01,2001,0,ALS200107100,SFN,NL,1,4,kent,jeff,jeff kent,jeff kent2001
+105,jonesch06,2001,0,ALS200107100,ATL,NL,1,5,jones,chipper,chipper jones,chipper jones2001
+106,aurilri01,2001,0,ALS200107100,SFN,NL,1,6,aurilia,rich,rich aurilia,rich aurilia2001
+107,bondsba01,2001,0,ALS200107100,SFN,NL,1,7,bonds,barry,barry bonds,barry bonds2001
+108,gonzalu01,2001,0,ALS200107100,ARI,NL,1,8,gonzalez,luis,luis gonzalez,luis gonzalez2001
+109,sosasa01,2001,0,ALS200107100,CHN,NL,1,9,sosa,sammy,sammy sosa,sammy sosa2001
+110,walkela01,2001,0,ALS200107100,COL,NL,1,10,walker,larry,larry walker,larry walker2001
+111,aloumo01,2001,0,ALS200107100,HOU,NL,1,,alou,moises,moises alou,moises alou2001
+112,berkmla01,2001,0,ALS200107100,HOU,NL,1,,berkman,lance,lance berkman,lance berkman2001
+114,caseyse01,2001,0,ALS200107100,CIN,NL,1,,casey,sean,sean casey,sean casey2001
+115,floydcl01,2001,0,ALS200107100,FLO,NL,1,,floyd,cliff,cliff floyd,cliff floyd2001
+116,gilesbr02,2001,0,ALS200107100,PIT,NL,1,,giles,brian,brian giles,brian giles2001
+117,guerrvl01,2001,0,ALS200107100,MON,NL,1,,guerrero,vladimir,vladimir guerrero,vladimir guerrero2001
+119,johnsch04,2001,0,ALS200107100,FLO,NL,1,,johnson,charles,charles johnson,charles johnson2001
+120,kleskry01,2001,0,ALS200107100,SDN,NL,1,,klesko,ryan,ryan klesko,ryan klesko2001
+123,nevinph01,2001,0,ALS200107100,SDN,NL,1,,nevin,phil,phil nevin,phil nevin2001
+125,pujolal01,2001,0,ALS200107100,SLN,NL,1,,pujols,albert,albert pujols,albert pujols2001
+127,rolliji01,2001,0,ALS200107100,PHI,NL,1,,rollins,jimmy,jimmy rollins,jimmy rollins2001
+133,posadjo01,2002,0,NLS200207090,NYA,AL,1,2,posada,jorge,jorge posada,jorge posada2002
+134,giambja01,2002,0,NLS200207090,NYA,AL,1,3,giambi,jason,jason giambi,jason giambi2002
+135,soriaal01,2002,0,NLS200207090,NYA,AL,1,4,soriano,alfonso,alfonso soriano,alfonso soriano2002
+136,hillesh02,2002,0,NLS200207090,BOS,AL,1,5,hillenbrand,shea,shea hillenbrand,shea hillenbrand2002
+137,rodrial01,2002,0,NLS200207090,TEX,AL,1,6,rodriguez,alex,alex rodriguez,alex rodriguez2002
+138,ramirma02,2002,0,NLS200207090,BOS,AL,1,7,ramirez,manny,manny ramirez,manny ramirez2002
+139,hunteto01,2002,0,NLS200207090,MIN,AL,1,8,hunter,torii,torii hunter,torii hunter2002
+140,suzukic01,2002,0,NLS200207090,SEA,AL,1,9,suzuki,ichiro,ichiro suzuki,ichiro suzuki2002
+141,anderga01,2002,0,NLS200207090,LAA,AL,1,,anderson,garret,garret anderson,garret anderson2002
+142,batisto01,2002,0,NLS200207090,BAL,AL,1,,batista,tony,tony batista,tony batista2002
+144,damonjo01,2002,0,NLS200207090,BOS,AL,1,,damon,johnny,johnny damon,johnny damon2002
+145,fickro01,2002,0,NLS200207090,DET,AL,1,,fick,robert,robert fick,robert fick2002
+146,garcifr02,2002,0,NLS200207090,SEA,AL,1,,,,,2002
+147,garcino01,2002,0,NLS200207090,BOS,AL,1,,garciaparra,nomar,nomar garciaparra,nomar garciaparra2002
+150,jeterde01,2002,0,NLS200207090,NYA,AL,1,,jeter,derek,derek jeter,derek jeter2002
+151,konerpa01,2002,0,NLS200207090,CHA,AL,1,,konerko,paul,paul konerko,paul konerko2002
+153,pierzaj01,2002,0,NLS200207090,MIN,AL,1,,,,,2002
+156,sweenmi01,2002,0,NLS200207090,KCA,AL,1,,sweeney,mike,mike sweeney,mike sweeney2002
+157,tejadmi01,2002,0,NLS200207090,OAK,AL,1,,tejada,miguel,miguel tejada,miguel tejada2002
+159,venturo01,2002,0,NLS200207090,NYA,AL,1,,ventura,robin,robin ventura,robin ventura2002
+160,vizquom01,2002,0,NLS200207090,CLE,AL,1,,vizquel,omar,omar vizquel,omar vizquel2002
+161,winnra01,2002,0,NLS200207090,TBA,AL,1,,winn,randy,randy winn,randy winn2002
+164,piazzmi01,2002,0,NLS200207090,NYN,NL,1,2,piazza,mike,mike piazza,mike piazza2002
+165,heltoto01,2002,0,NLS200207090,COL,NL,1,3,helton,todd,todd helton,todd helton2002
+166,vidrojo01,2002,0,NLS200207090,MON,NL,1,4,vidro,jose,jose vidro,jose vidro2002
+167,rolensc01,2002,0,NLS200207090,PHI,NL,1,5,rolen,scott,scott rolen,scott rolen2002
+168,rolliji01,2002,0,NLS200207090,PHI,NL,1,6,rollins,jimmy,jimmy rollins,jimmy rollins2002
+169,bondsba01,2002,0,NLS200207090,SFN,NL,1,7,bonds,barry,barry bonds,barry bonds2002
+170,guerrvl01,2002,0,NLS200207090,MON,NL,1,8,guerrero,vladimir,vladimir guerrero,vladimir guerrero2002
+171,sosasa01,2002,0,NLS200207090,CHN,NL,1,9,sosa,sammy,sammy sosa,sammy sosa2002
+172,berkmla01,2002,0,NLS200207090,HOU,NL,1,,berkman,lance,lance berkman,lance berkman2002
+173,castilu01,2002,0,NLS200207090,FLO,NL,1,,castillo,luis,luis castillo,luis castillo2002
+174,dunnad01,2002,0,NLS200207090,CIN,NL,1,,dunn,adam,adam dunn,adam dunn2002
+177,gonzalu01,2002,0,NLS200207090,ARI,NL,1,,gonzalez,luis,luis gonzalez,luis gonzalez2002
+178,greensh01,2002,0,NLS200207090,LAN,NL,1,,green,shawn,shawn green,shawn green2002
+179,hernajo01,2002,0,NLS200207090,MIL,NL,1,,hernandez,jose,jose hernandez,jose hernandez2002
+182,jonesan01,2002,0,NLS200207090,ATL,NL,1,,jones,andruw,andruw jones,andruw jones2002
+184,lowelmi01,2002,0,NLS200207090,FLO,NL,1,,lowell,mike,mike lowell,mike lowell2002
+185,milleda02,2002,0,NLS200207090,ARI,NL,1,,miller,damian,damian miller,damian miller2002
+191,santibe01,2002,0,NLS200207090,SFN,NL,1,,santiago,benito,benito santiago,benito santiago2002
+192,sexsori01,2002,0,NLS200207090,MIL,NL,1,,sexson,richie,richie sexson,richie sexson2002
+194,spiveju01,2002,0,NLS200207090,ARI,NL,1,,spivey,junior,junior spivey,junior spivey2002
+197,posadjo01,2003,0,ALS200307150,NYA,AL,1,2,posada,jorge,jorge posada,jorge posada2003
+198,delgaca01,2003,0,ALS200307150,TOR,AL,1,3,delgado,carlos,carlos delgado,carlos delgado2003
+199,soriaal01,2003,0,ALS200307150,NYA,AL,1,4,soriano,alfonso,alfonso soriano,alfonso soriano2003
+200,glaustr01,2003,0,ALS200307150,LAA,AL,1,5,glaus,troy,troy glaus,troy glaus2003
+201,rodrial01,2003,0,ALS200307150,TEX,AL,1,6,rodriguez,alex,alex rodriguez,alex rodriguez2003
+202,anderga01,2003,0,ALS200307150,LAA,AL,1,7,anderson,garret,garret anderson,garret anderson2003
+203,matsuhi01,2003,0,ALS200307150,NYA,AL,1,8,matsui,hideki,hideki matsui,hideki matsui2003
+204,suzukic01,2003,0,ALS200307150,SEA,AL,1,9,suzuki,ichiro,ichiro suzuki,ichiro suzuki2003
+205,martied01,2003,0,ALS200307150,SEA,AL,1,10,martinez,edgar,edgar martinez,edgar martinez2003
+206,blaloha01,2003,0,ALS200307150,TEX,AL,1,,blalock,hank,hank blalock,hank blalock2003
+207,boonebr01,2003,0,ALS200307150,SEA,AL,1,,boone,bret,bret boone,bret boone2003
+211,evereca01,2003,0,ALS200307150,CHA,AL,1,,everett,carl,carl everett,carl everett2003
+213,garcino01,2003,0,ALS200307150,BOS,AL,1,,garciaparra,nomar,nomar garciaparra,nomar garciaparra2003
+214,giambja01,2003,0,ALS200307150,NYA,AL,1,,giambi,jason,jason giambi,jason giambi2003
+218,hernara02,2003,0,ALS200307150,OAK,AL,1,,hernandez,ramon,ramon hernandez,ramon hernandez2003
+220,morame01,2003,0,ALS200307150,BAL,AL,1,,mora,melvin,melvin mora,melvin mora2003
+223,ordonma01,2003,0,ALS200307150,CHA,AL,1,,ordonez,magglio,magglio ordonez,magglio ordonez2003
+224,ramirma02,2003,0,ALS200307150,BOS,AL,0,,ramirez,manny,manny ramirez,manny ramirez2003
+225,sabatcc01,2003,0,ALS200307150,CLE,AL,0,,,,,2003
+226,sweenmi01,2003,0,ALS200307150,KCA,AL,0,,sweeney,mike,mike sweeney,mike sweeney2003
+227,varitja01,2003,0,ALS200307150,BOS,AL,0,,varitek,jason,jason varitek,jason varitek2003
+228,wellsve01,2003,0,ALS200307150,TOR,AL,1,,wells,vernon,vernon wells,vernon wells2003
+229,youngdm01,2003,0,ALS200307150,DET,AL,0,,young,dmitri,dmitri young,dmitri young2003
+232,lopezja01,2003,0,ALS200307150,ATL,NL,1,2,lopez,javy,javy lopez,javy lopez2003
+233,heltoto01,2003,0,ALS200307150,COL,NL,1,3,helton,todd,todd helton,todd helton2003
+234,vidrojo01,2003,0,ALS200307150,MON,NL,1,4,vidro,jose,jose vidro,jose vidro2003
+235,rolensc01,2003,0,ALS200307150,SLN,NL,1,5,rolen,scott,scott rolen,scott rolen2003
+236,renteed01,2003,0,ALS200307150,SLN,NL,1,6,renteria,edgar,edgar renteria,edgar renteria2003
+237,pujolal01,2003,0,ALS200307150,SLN,NL,1,7,pujols,albert,albert pujols,albert pujols2003
+238,edmonji01,2003,0,ALS200307150,SLN,NL,1,8,edmonds,jim,jim edmonds,jim edmonds2003
+239,sheffga01,2003,0,ALS200307150,ATL,NL,1,9,sheffield,gary,gary sheffield,gary sheffield2003
+240,bondsba01,2003,0,ALS200307150,SFN,NL,1,10,bonds,barry,barry bonds,barry bonds2003
+242,booneaa01,2003,0,ALS200307150,CIN,NL,1,,boone,aaron,aaron boone,aaron boone2003
+244,castilu01,2003,0,ALS200307150,FLO,NL,1,,castillo,luis,luis castillo,luis castillo2003
+246,furcara01,2003,0,ALS200307150,ATL,NL,1,,,,,2003
+248,gilesma01,2003,0,ALS200307150,ATL,NL,0,,giles,marcus,marcus giles,marcus giles2003
+249,gonzalu01,2003,0,ALS200307150,ARI,NL,1,,gonzalez,luis,luis gonzalez,luis gonzalez2003
+250,jenkige01,2003,0,ALS200307150,MIL,NL,0,,jenkins,geoff,geoff jenkins,geoff jenkins2003
+251,jonesan01,2003,0,ALS200307150,ATL,NL,1,,jones,andruw,andruw jones,andruw jones2003
+252,loducpa01,2003,0,ALS200307150,LAN,NL,1,,lo duca,paul,paul lo duca,paul lo duca2003
+253,lowelmi01,2003,0,ALS200307150,FLO,NL,1,,lowell,mike,mike lowell,mike lowell2003
+256,sexsori01,2003,0,ALS200307150,MIL,NL,1,,sexson,richie,richie sexson,richie sexson2003
+259,whitero02,2003,0,ALS200307150,SDN,NL,1,,white,rondell,rondell white,rondell white2003
+263,wilsopr01,2003,0,ALS200307150,COL,NL,1,,wilson,preston,preston wilson,preston wilson2003
+267,rodriiv01,2004,0,NLS200407130,DET,AL,1,2,rodriguez,ivan,ivan rodriguez,ivan rodriguez2004
+268,giambja01,2004,0,NLS200407130,NYA,AL,1,3,giambi,jason,jason giambi,jason giambi2004
+269,soriaal01,2004,0,NLS200407130,TEX,AL,1,4,soriano,alfonso,alfonso soriano,alfonso soriano2004
+270,rodrial01,2004,0,NLS200407130,NYA,AL,1,5,rodriguez,alex,alex rodriguez,alex rodriguez2004
+271,jeterde01,2004,0,NLS200407130,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2004
+272,ramirma02,2004,0,NLS200407130,BOS,AL,1,7,ramirez,manny,manny ramirez,manny ramirez2004
+273,suzukic01,2004,0,NLS200407130,SEA,AL,1,8,suzuki,ichiro,ichiro suzuki,ichiro suzuki2004
+274,guerrvl01,2004,0,NLS200407130,LAA,AL,1,9,guerrero,vladimir,vladimir guerrero,vladimir guerrero2004
+275,belliro01,2004,0,NLS200407130,CLE,AL,1,,belliard,ronnie,ronnie belliard,ronnie belliard2004
+276,blaloha01,2004,0,NLS200407130,TEX,AL,1,,blalock,hank,hank blalock,hank blalock2004
+278,crawfca02,2004,0,NLS200407130,TBA,AL,1,,crawford,carl,carl crawford,carl crawford2004
+280,guillca01,2004,0,NLS200407130,DET,AL,0,,guillen,carlos,carlos guillen,carlos guillen2004
+281,harveke01,2004,0,NLS200407130,KCA,AL,1,,harvey,ken,ken harvey,ken harvey2004
+283,lawtoma02,2004,0,NLS200407130,CLE,AL,1,,lawton,matt,matt lawton,matt lawton2004
+286,martivi01,2004,0,NLS200407130,CLE,AL,1,,martinez,victor,victor martinez,victor martinez2004
+287,matsuhi01,2004,0,NLS200407130,NYA,AL,1,,matsui,hideki,hideki matsui,hideki matsui2004
+289,ortizda01,2004,0,NLS200407130,BOS,AL,1,,ortiz,david,david ortiz,david ortiz2004
+293,sabatcc01,2004,0,NLS200407130,CLE,AL,1,,,,,2004
+295,sheffga01,2004,0,NLS200407130,NYA,AL,1,,sheffield,gary,gary sheffield,gary sheffield2004
+296,tejadmi01,2004,0,NLS200407130,BAL,AL,1,,tejada,miguel,miguel tejada,miguel tejada2004
+299,youngmi02,2004,0,NLS200407130,TEX,AL,1,,young,michael,michael young,michael young2004
+301,piazzmi01,2004,0,NLS200407130,NYN,NL,1,2,piazza,mike,mike piazza,mike piazza2004
+302,pujolal01,2004,0,NLS200407130,SLN,NL,1,3,pujols,albert,albert pujols,albert pujols2004
+303,kentje01,2004,0,NLS200407130,HOU,NL,1,4,kent,jeff,jeff kent,jeff kent2004
+304,rolensc01,2004,0,NLS200407130,SLN,NL,1,5,rolen,scott,scott rolen,scott rolen2004
+305,renteed01,2004,0,NLS200407130,SLN,NL,1,6,renteria,edgar,edgar renteria,edgar renteria2004
+306,bondsba01,2004,0,NLS200407130,SFN,NL,1,7,bonds,barry,barry bonds,barry bonds2004
+307,berkmla01,2004,0,NLS200407130,HOU,NL,1,8,berkman,lance,lance berkman,lance berkman2004
+308,sosasa01,2004,0,NLS200407130,CHN,NL,1,9,sosa,sammy,sammy sosa,sammy sosa2004
+309,abreubo01,2004,0,NLS200407130,PHI,NL,1,,abreu,bobby,bobby abreu,bobby abreu2004
+310,aloumo01,2004,0,NLS200407130,CHN,NL,1,,alou,moises,moises alou,moises alou2004
+311,beltrca01,2004,0,NLS200407130,HOU,NL,1,,beltran,carlos,carlos beltran,carlos beltran2004
+313,cabremi01,2004,0,NLS200407130,FLO,NL,1,,cabrera,miguel,miguel cabrera,miguel cabrera2004
+314,caseyse01,2004,0,NLS200407130,CIN,NL,0,,casey,sean,sean casey,sean casey2004
+315,estrajo01,2004,0,NLS200407130,ATL,NL,1,,estrada,johnny,johnny estrada,johnny estrada2004
+319,griffke02,2004,0,NLS200407130,CIN,NL,0,,griffey,ken,ken griffey,ken griffey2004
+320,heltoto01,2004,0,NLS200407130,COL,NL,1,,helton,todd,todd helton,todd helton2004
+323,kolbda01,2004,0,NLS200407130,MIL,NL,1,,kolb,danny,danny kolb,danny kolb2004
+324,larkiba01,2004,0,NLS200407130,CIN,NL,1,,larkin,barry,barry larkin,barry larkin2004
+325,loducpa01,2004,0,NLS200407130,LAN,NL,1,,lo duca,paul,paul lo duca,paul lo duca2004
+326,loretma01,2004,0,NLS200407130,SDN,NL,1,,loretta,mark,mark loretta,mark loretta2004
+327,lowelmi01,2004,0,NLS200407130,FLO,NL,1,,lowell,mike,mike lowell,mike lowell2004
+331,thomeji01,2004,0,NLS200407130,PHI,NL,1,,thome,jim,jim thome,jim thome2004
+332,wilsoja02,2004,0,NLS200407130,PIT,NL,1,,wilson,jack,jack wilson,jack wilson2004
+335,varitja01,2005,0,ALS200507120,BOS,AL,1,2,varitek,jason,jason varitek,jason varitek2005
+336,teixema01,2005,0,ALS200507120,TEX,AL,1,3,teixeira,mark,mark teixeira,mark teixeira2005
+337,roberbr01,2005,0,ALS200507120,BAL,AL,1,4,roberts,brian,brian roberts,brian roberts2005
+338,rodrial01,2005,0,ALS200507120,NYA,AL,1,5,rodriguez,alex,alex rodriguez,alex rodriguez2005
+339,tejadmi01,2005,0,ALS200507120,BAL,AL,1,6,tejada,miguel,miguel tejada,miguel tejada2005
+340,ramirma02,2005,0,ALS200507120,BOS,AL,1,7,ramirez,manny,manny ramirez,manny ramirez2005
+341,damonjo01,2005,0,ALS200507120,BOS,AL,1,8,damon,johnny,johnny damon,johnny damon2005
+342,guerrvl01,2005,0,ALS200507120,LAA,AL,1,9,guerrero,vladimir,vladimir guerrero,vladimir guerrero2005
+343,ortizda01,2005,0,ALS200507120,BOS,AL,1,10,ortiz,david,david ortiz,david ortiz2005
+344,anderga01,2005,0,ALS200507120,LAA,AL,1,,anderson,garret,garret anderson,garret anderson2005
+351,hillesh02,2005,0,ALS200507120,TOR,AL,1,,hillenbrand,shea,shea hillenbrand,shea hillenbrand2005
+352,konerpa01,2005,0,ALS200507120,CHA,AL,1,,konerko,paul,paul konerko,paul konerko2005
+353,morame01,2005,0,ALS200507120,BAL,AL,1,,mora,melvin,melvin mora,melvin mora2005
+355,podsesc01,2005,0,ALS200507120,CHA,AL,1,,podsednik,scott,scott podsednik,scott podsednik2005
+357,rodriiv01,2005,0,ALS200507120,DET,AL,1,,rodriguez,ivan,ivan rodriguez,ivan rodriguez2005
+359,ryanbj01,2005,0,ALS200507120,BAL,AL,1,,,,,2005
+360,santajo01,2005,0,ALS200507120,MIN,AL,1,,,,,2005
+361,sheffga01,2005,0,ALS200507120,NYA,AL,1,,sheffield,gary,gary sheffield,gary sheffield2005
+362,soriaal01,2005,0,ALS200507120,TEX,AL,1,,soriano,alfonso,alfonso soriano,alfonso soriano2005
+363,suzukic01,2005,0,ALS200507120,SEA,AL,1,,suzuki,ichiro,ichiro suzuki,ichiro suzuki2005
+364,sweenmi01,2005,0,ALS200507120,KCA,AL,1,,sweeney,mike,mike sweeney,mike sweeney2005
+366,youngmi02,2005,0,ALS200507120,TEX,AL,1,,young,michael,michael young,michael young2005
+368,piazzmi01,2005,0,ALS200507120,NYN,NL,1,2,piazza,mike,mike piazza,mike piazza2005
+369,leede02,2005,0,ALS200507120,CHN,NL,1,3,lee,derrek,derrek lee,derrek lee2005
+370,kentje01,2005,0,ALS200507120,LAN,NL,1,4,kent,jeff,jeff kent,jeff kent2005
+371,ramirar01,2005,0,ALS200507120,CHN,NL,1,5,ramirez,aramis,aramis ramirez,aramis ramirez2005
+372,eckstda01,2005,0,ALS200507120,SLN,NL,1,6,eckstein,david,david eckstein,david eckstein2005
+373,beltrca01,2005,0,ALS200507120,NYN,NL,1,7,beltran,carlos,carlos beltran,carlos beltran2005
+374,edmonji01,2005,0,ALS200507120,SLN,NL,1,8,edmonds,jim,jim edmonds,jim edmonds2005
+375,abreubo01,2005,0,ALS200507120,PHI,NL,1,9,abreu,bobby,bobby abreu,bobby abreu2005
+376,pujolal01,2005,0,ALS200507120,SLN,NL,1,10,pujols,albert,albert pujols,albert pujols2005
+377,aloumo01,2005,0,ALS200507120,SFN,NL,1,,alou,moises,moises alou,moises alou2005
+378,bayja01,2005,0,ALS200507120,PIT,NL,0,,bay,jason,jason bay,jason bay2005
+379,cabremi01,2005,0,ALS200507120,FLO,NL,1,,cabrera,miguel,miguel cabrera,miguel cabrera2005
+380,castilu01,2005,0,ALS200507120,FLO,NL,1,,castillo,luis,luis castillo,luis castillo2005
+383,ensbemo01,2005,0,ALS200507120,HOU,NL,1,,ensberg,morgan,morgan ensberg,morgan ensberg2005
+385,gonzalu01,2005,0,ALS200507120,ARI,NL,1,,gonzalez,luis,luis gonzalez,luis gonzalez2005
+388,izturce01,2005,0,ALS200507120,LAN,NL,0,,izturis,cesar,cesar izturis,cesar izturis2005
+389,jonesan01,2005,0,ALS200507120,ATL,NL,1,,jones,andruw,andruw jones,andruw jones2005
+390,leeca01,2005,0,ALS200507120,MIL,NL,1,,lee,carlos,carlos lee,carlos lee2005
+392,loducpa01,2005,0,ALS200507120,FLO,NL,1,,lo duca,paul,paul lo duca,paul lo duca2005
+393,lopezfe01,2005,0,ALS200507120,CIN,NL,1,,lopez,felipe,felipe lopez,felipe lopez2005
+397,rolensc01,2005,0,ALS200507120,SLN,NL,0,,rolen,scott,scott rolen,scott rolen2005
+398,rolliji01,2005,0,ALS200507120,PHI,NL,1,,rollins,jimmy,jimmy rollins,jimmy rollins2005
+403,rodriiv01,2006,0,NLS200607110,DET,AL,1,2,rodriguez,ivan,ivan rodriguez,ivan rodriguez2006
+404,ortizda01,2006,0,NLS200607110,BOS,AL,1,3,ortiz,david,david ortiz,david ortiz2006
+405,loretma01,2006,0,NLS200607110,BOS,AL,1,4,loretta,mark,mark loretta,mark loretta2006
+406,rodrial01,2006,0,NLS200607110,NYA,AL,1,5,rodriguez,alex,alex rodriguez,alex rodriguez2006
+407,jeterde01,2006,0,NLS200607110,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2006
+408,guerrvl01,2006,0,NLS200607110,LAA,AL,1,7,guerrero,vladimir,vladimir guerrero,vladimir guerrero2006
+409,wellsve01,2006,0,NLS200607110,TOR,AL,1,8,wells,vernon,vernon wells,vernon wells2006
+410,suzukic01,2006,0,NLS200607110,SEA,AL,1,9,suzuki,ichiro,ichiro suzuki,ichiro suzuki2006
+412,canoro01,2006,0,NLS200607110,NYA,AL,0,,cano,robinson,robinson cano,robinson cano2006
+414,dyeje01,2006,0,NLS200607110,CHA,AL,1,,dye,jermaine,jermaine dye,jermaine dye2006
+415,glaustr01,2006,0,NLS200607110,TOR,AL,1,,glaus,troy,troy glaus,troy glaus2006
+419,konerpa01,2006,0,NLS200607110,CHA,AL,1,,konerko,paul,paul konerko,paul konerko2006
+421,lopezjo01,2006,0,NLS200607110,SEA,AL,1,,lopez,jose,jose lopez,jose lopez2006
+422,matthga02,2006,0,NLS200607110,TEX,AL,1,,matthews,gary,gary matthews,gary matthews2006
+423,mauerjo01,2006,0,NLS200607110,MIN,AL,1,,mauer,joe,joe mauer,joe mauer2006
+424,ordonma01,2006,0,NLS200607110,DET,AL,1,,ordonez,magglio,magglio ordonez,magglio ordonez2006
+426,pierzaj01,2006,0,NLS200607110,CHA,AL,0,,,,,2006
+427,ramirma02,2006,0,NLS200607110,BOS,AL,0,,ramirez,manny,manny ramirez,manny ramirez2006
+429,riosal01,2006,0,NLS200607110,TOR,AL,0,,rios,alex,alex rios,alex rios2006
+431,ryanbj01,2006,0,NLS200607110,TOR,AL,1,,,,,2006
+432,santajo01,2006,0,NLS200607110,MIN,AL,1,,,,,2006
+433,sizemgr01,2006,0,NLS200607110,CLE,AL,1,,sizemore,grady,grady sizemore,grady sizemore2006
+434,tejadmi01,2006,0,NLS200607110,BAL,AL,1,,tejada,miguel,miguel tejada,miguel tejada2006
+435,thomeji01,2006,0,NLS200607110,CHA,AL,1,,thome,jim,jim thome,jim thome2006
+436,youngmi02,2006,0,NLS200607110,TEX,AL,1,,young,michael,michael young,michael young2006
+439,loducpa01,2006,0,NLS200607110,NYN,NL,1,2,lo duca,paul,paul lo duca,paul lo duca2006
+440,pujolal01,2006,0,NLS200607110,SLN,NL,1,3,pujols,albert,albert pujols,albert pujols2006
+441,utleych01,2006,0,NLS200607110,PHI,NL,1,4,utley,chase,chase utley,chase utley2006
+442,wrighda03,2006,0,NLS200607110,NYN,NL,1,5,wright,david,david wright,david wright2006
+443,renteed01,2006,0,NLS200607110,ATL,NL,1,6,renteria,edgar,edgar renteria,edgar renteria2006
+444,soriaal01,2006,0,NLS200607110,WAS,NL,1,7,soriano,alfonso,alfonso soriano,alfonso soriano2006
+445,beltrca01,2006,0,NLS200607110,NYN,NL,1,8,beltran,carlos,carlos beltran,carlos beltran2006
+446,bayja01,2006,0,NLS200607110,PIT,NL,1,9,bay,jason,jason bay,jason bay2006
+448,berkmla01,2006,0,NLS200607110,HOU,NL,1,,berkman,lance,lance berkman,lance berkman2006
+449,cabremi01,2006,0,NLS200607110,FLO,NL,1,,cabrera,miguel,miguel cabrera,miguel cabrera2006
+452,eckstda01,2006,0,NLS200607110,SLN,NL,1,,eckstein,david,david eckstein,david eckstein2006
+454,garcino01,2006,0,NLS200607110,LAN,NL,0,,garciaparra,nomar,nomar garciaparra,nomar garciaparra2006
+458,hollima01,2006,0,NLS200607110,COL,NL,1,,holliday,matt,matt holliday,matt holliday2006
+459,howarry01,2006,0,NLS200607110,PHI,NL,1,,howard,ryan,ryan howard,ryan howard2006
+460,jonesan01,2006,0,NLS200607110,ATL,NL,0,,jones,andruw,andruw jones,andruw jones2006
+461,leeca01,2006,0,NLS200607110,MIL,NL,1,,lee,carlos,carlos lee,carlos lee2006
+463,mccanbr01,2006,0,NLS200607110,ATL,NL,1,,mccann,brian,brian mccann,brian mccann2006
+465,reyesjo01,2006,0,NLS200607110,NYN,NL,0,,reyes,jose,jose reyes,jose reyes2006
+466,rolensc01,2006,0,NLS200607110,SLN,NL,0,,rolen,scott,scott rolen,scott rolen2006
+467,sanchfr01,2006,0,NLS200607110,PIT,NL,1,,sanchez,freddy,freddy sanchez,freddy sanchez2006
+470,ugglada01,2006,0,NLS200607110,FLO,NL,0,,uggla,dan,dan uggla,dan uggla2006
+474,rodriiv01,2007,0,NLS200707100,DET,AL,1,2,rodriguez,ivan,ivan rodriguez,ivan rodriguez2007
+475,ortizda01,2007,0,NLS200707100,BOS,AL,1,3,ortiz,david,david ortiz,david ortiz2007
+476,polanpl01,2007,0,NLS200707100,DET,AL,1,4,polanco,placido,placido polanco,placido polanco2007
+477,rodrial01,2007,0,NLS200707100,NYA,AL,1,5,rodriguez,alex,alex rodriguez,alex rodriguez2007
+478,jeterde01,2007,0,NLS200707100,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2007
+479,ordonma01,2007,0,NLS200707100,DET,AL,1,7,ordonez,magglio,magglio ordonez,magglio ordonez2007
+480,suzukic01,2007,0,NLS200707100,SEA,AL,1,8,suzuki,ichiro,ichiro suzuki,ichiro suzuki2007
+481,guerrvl01,2007,0,NLS200707100,LAA,AL,1,9,guerrero,vladimir,vladimir guerrero,vladimir guerrero2007
+483,crawfca02,2007,0,NLS200707100,TBA,AL,1,,crawford,carl,carl crawford,carl crawford2007
+484,guillca01,2007,0,NLS200707100,DET,AL,1,,guillen,carlos,carlos guillen,carlos guillen2007
+485,hunteto01,2007,0,NLS200707100,MIN,AL,1,,hunter,torii,torii hunter,torii hunter2007
+488,lowelmi01,2007,0,NLS200707100,BOS,AL,1,,lowell,mike,mike lowell,mike lowell2007
+489,martivi01,2007,0,NLS200707100,CLE,AL,1,,martinez,victor,victor martinez,victor martinez2007
+491,morneju01,2007,0,NLS200707100,MIN,AL,1,,morneau,justin,justin morneau,justin morneau2007
+494,posadjo01,2007,0,NLS200707100,NYA,AL,1,,posada,jorge,jorge posada,jorge posada2007
+495,putzjj01,2007,0,NLS200707100,SEA,AL,1,,putz,j. j.,j. j. putz,j. j. putz2007
+496,ramirma02,2007,0,NLS200707100,BOS,AL,1,,ramirez,manny,manny ramirez,manny ramirez2007
+497,riosal01,2007,0,NLS200707100,TOR,AL,1,,rios,alex,alex rios,alex rios2007
+498,roberbr01,2007,0,NLS200707100,BAL,AL,1,,roberts,brian,brian roberts,brian roberts2007
+500,sabatcc01,2007,0,NLS200707100,CLE,AL,1,,,,,2007
+501,santajo01,2007,0,NLS200707100,MIN,AL,1,,,,,2007
+502,sizemgr01,2007,0,NLS200707100,CLE,AL,1,,sizemore,grady,grady sizemore,grady sizemore2007
+504,youngmi02,2007,0,NLS200707100,TEX,AL,0,,young,michael,michael young,michael young2007
+506,martiru01,2007,0,NLS200707100,LAN,NL,1,2,martin,russell,russell martin,russell martin2007
+507,fieldpr01,2007,0,NLS200707100,MIL,NL,1,3,fielder,prince,prince fielder,prince fielder2007
+508,utleych01,2007,0,NLS200707100,PHI,NL,1,4,utley,chase,chase utley,chase utley2007
+509,wrighda03,2007,0,NLS200707100,NYN,NL,1,5,wright,david,david wright,david wright2007
+510,reyesjo01,2007,0,NLS200707100,NYN,NL,1,6,reyes,jose,jose reyes,jose reyes2007
+511,bondsba01,2007,0,NLS200707100,SFN,NL,1,7,bonds,barry,barry bonds,barry bonds2007
+512,beltrca01,2007,0,NLS200707100,NYN,NL,1,8,beltran,carlos,carlos beltran,carlos beltran2007
+513,griffke02,2007,0,NLS200707100,CIN,NL,1,9,griffey,ken,ken griffey,ken griffey2007
+514,cabremi01,2007,0,NLS200707100,FLO,NL,1,,cabrera,miguel,miguel cabrera,miguel cabrera2007
+518,hardyjj01,2007,0,NLS200707100,MIL,NL,1,,hardy,j. j.,j. j. hardy,j. j. hardy2007
+520,hollima01,2007,0,NLS200707100,COL,NL,1,,holliday,matt,matt holliday,matt holliday2007
+521,hudsoor01,2007,0,NLS200707100,ARI,NL,1,,hudson,orlando,orlando hudson,orlando hudson2007
+522,leeca01,2007,0,NLS200707100,HOU,NL,1,,lee,carlos,carlos lee,carlos lee2007
+523,leede02,2007,0,NLS200707100,CHN,NL,1,,lee,derrek,derrek lee,derrek lee2007
+524,mccanbr01,2007,0,NLS200707100,ATL,NL,1,,mccann,brian,brian mccann,brian mccann2007
+527,pujolal01,2007,0,NLS200707100,SLN,NL,0,,pujols,albert,albert pujols,albert pujols2007
+528,rowanaa01,2007,0,NLS200707100,PHI,NL,1,,rowand,aaron,aaron rowand,aaron rowand2007
+530,sanchfr01,2007,0,NLS200707100,PIT,NL,1,,sanchez,freddy,freddy sanchez,freddy sanchez2007
+533,soriaal01,2007,0,NLS200707100,CHN,NL,1,,soriano,alfonso,alfonso soriano,alfonso soriano2007
+538,youngdm01,2007,0,NLS200707100,WAS,NL,1,,young,dmitri,dmitri young,dmitri young2007
+540,mauerjo01,2008,0,ALS200807150,MIN,AL,1,2,mauer,joe,joe mauer,joe mauer2008
+541,youklke01,2008,0,ALS200807150,BOS,AL,1,3,youkilis,kevin,kevin youkilis,kevin youkilis2008
+542,pedrodu01,2008,0,ALS200807150,BOS,AL,1,4,pedroia,dustin,dustin pedroia,dustin pedroia2008
+543,rodrial01,2008,0,ALS200807150,NYA,AL,1,5,rodriguez,alex,alex rodriguez,alex rodriguez2008
+544,jeterde01,2008,0,ALS200807150,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2008
+545,ramirma02,2008,0,ALS200807150,BOS,AL,1,7,ramirez,manny,manny ramirez,manny ramirez2008
+546,hamiljo03,2008,0,ALS200807150,TEX,AL,1,8,hamilton,josh,josh hamilton,josh hamilton2008
+547,suzukic01,2008,0,ALS200807150,SEA,AL,1,9,suzuki,ichiro,ichiro suzuki,ichiro suzuki2008
+548,bradlmi01,2008,0,ALS200807150,TEX,AL,1,10,bradley,milton,milton bradley,milton bradley2008
+549,credejo01,2008,0,ALS200807150,CHA,AL,1,,crede,joe,joe crede,joe crede2008
+550,drewjd01,2008,0,ALS200807150,BOS,AL,1,,,,,2008
+552,guillca01,2008,0,ALS200807150,DET,AL,1,,guillen,carlos,carlos guillen,carlos guillen2008
+555,kinslia01,2008,0,ALS200807150,TEX,AL,1,,kinsler,ian,ian kinsler,ian kinsler2008
+556,longoev01,2008,0,ALS200807150,TBA,AL,1,,longoria,evan,evan longoria,evan longoria2008
+557,morneju01,2008,0,ALS200807150,MIN,AL,1,,morneau,justin,justin morneau,justin morneau2008
+559,navardi01,2008,0,ALS200807150,TBA,AL,1,,navarro,dioner,dioner navarro,dioner navarro2008
+560,ortizda01,2008,0,ALS200807150,BOS,AL,0,,ortiz,david,david ortiz,david ortiz2008
+562,quentca01,2008,0,ALS200807150,CHA,AL,1,,quentin,carlos,carlos quentin,carlos quentin2008
+568,sizemgr01,2008,0,ALS200807150,CLE,AL,1,,sizemore,grady,grady sizemore,grady sizemore2008
+570,varitja01,2008,0,ALS200807150,BOS,AL,1,,varitek,jason,jason varitek,jason varitek2008
+571,youngmi02,2008,0,ALS200807150,TEX,AL,1,,young,michael,michael young,michael young2008
+573,sotoge01,2008,0,ALS200807150,CHN,NL,1,2,soto,geovany,geovany soto,geovany soto2008
+574,berkmla01,2008,0,ALS200807150,HOU,NL,1,3,berkman,lance,lance berkman,lance berkman2008
+575,utleych01,2008,0,ALS200807150,PHI,NL,1,4,utley,chase,chase utley,chase utley2008
+576,jonesch06,2008,0,ALS200807150,ATL,NL,1,5,jones,chipper,chipper jones,chipper jones2008
+577,ramirha01,2008,0,ALS200807150,FLO,NL,1,6,ramirez,hanley,hanley ramirez,hanley ramirez2008
+578,braunry02,2008,0,ALS200807150,MIL,NL,1,7,braun,ryan,ryan braun,ryan braun2008
+579,fukudko01,2008,0,ALS200807150,CHN,NL,1,8,fukudome,kosuke,kosuke fukudome,kosuke fukudome2008
+580,hollima01,2008,0,ALS200807150,COL,NL,1,9,holliday,matt,matt holliday,matt holliday2008
+581,pujolal01,2008,0,ALS200807150,SLN,NL,1,10,pujols,albert,albert pujols,albert pujols2008
+584,gonzaad01,2008,0,ALS200807150,SDN,NL,1,,gonzalez,adrian,adrian gonzalez,adrian gonzalez2008
+585,guzmacr01,2008,0,ALS200807150,WAS,NL,1,,guzman,cristian,cristian guzman,cristian guzman2008
+587,hartco01,2008,0,ALS200807150,MIL,NL,1,,hart,corey,corey hart,corey hart2008
+590,ludwiry01,2008,0,ALS200807150,SLN,NL,1,,ludwick,ryan,ryan ludwick,ryan ludwick2008
+592,martiru01,2008,0,ALS200807150,LAN,NL,1,,martin,russell,russell martin,russell martin2008
+593,mccanbr01,2008,0,ALS200807150,ATL,NL,1,,mccann,brian,brian mccann,brian mccann2008
+594,mclouna01,2008,0,ALS200807150,PIT,NL,1,,mclouth,nate,nate mclouth,nate mclouth2008
+595,ramirar01,2008,0,ALS200807150,CHN,NL,1,,ramirez,aramis,aramis ramirez,aramis ramirez2008
+596,soriaal01,2008,0,ALS200807150,CHN,NL,0,,soriano,alfonso,alfonso soriano,alfonso soriano2008
+597,tejadmi01,2008,0,ALS200807150,HOU,NL,1,,tejada,miguel,miguel tejada,miguel tejada2008
+598,ugglada01,2008,0,ALS200807150,FLO,NL,1,,uggla,dan,dan uggla,dan uggla2008
+604,wrighda03,2008,0,ALS200807150,NYN,NL,1,,wright,david,david wright,david wright2008
+607,mauerjo01,2009,0,NLS200907140,MIN,AL,1,2,mauer,joe,joe mauer,joe mauer2009
+608,teixema01,2009,0,NLS200907140,NYA,AL,1,3,teixeira,mark,mark teixeira,mark teixeira2009
+609,hillaa01,2009,0,NLS200907140,TOR,AL,1,4,hill,aaron,aaron hill,aaron hill2009
+610,youngmi02,2009,0,NLS200907140,TEX,AL,1,5,young,michael,michael young,michael young2009
+611,jeterde01,2009,0,NLS200907140,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2009
+612,bayja01,2009,0,NLS200907140,BOS,AL,1,7,bay,jason,jason bay,jason bay2009
+613,hamiljo03,2009,0,NLS200907140,TEX,AL,1,8,hamilton,josh,josh hamilton,josh hamilton2009
+614,suzukic01,2009,0,NLS200907140,SEA,AL,1,9,suzuki,ichiro,ichiro suzuki,ichiro suzuki2009
+616,bartlja01,2009,0,NLS200907140,TBA,AL,1,,bartlett,jason,jason bartlett,jason bartlett2009
+619,crawfca02,2009,0,NLS200907140,TBA,AL,1,,crawford,carl,carl crawford,carl crawford2009
+620,cruzne02,2009,0,NLS200907140,TEX,AL,0,,cruz,nelson,nelson cruz,nelson cruz2009
+622,grandcu01,2009,0,NLS200907140,DET,AL,1,,granderson,curtis,curtis granderson,curtis granderson2009
+625,hunteto01,2009,0,NLS200907140,LAA,AL,0,,hunter,torii,torii hunter,torii hunter2009
+626,ingebr01,2009,0,NLS200907140,DET,AL,1,,inge,brandon,brandon inge,brandon inge2009
+628,jonesad01,2009,0,NLS200907140,BAL,AL,1,,jones,adam,adam jones,adam jones2009
+629,longoev01,2009,0,NLS200907140,TBA,AL,0,,longoria,evan,evan longoria,evan longoria2009
+630,martivi01,2009,0,NLS200907140,CLE,AL,1,,martinez,victor,victor martinez,victor martinez2009
+631,morneju01,2009,0,NLS200907140,MIN,AL,1,,morneau,justin,justin morneau,justin morneau2009
+634,pedrodu01,2009,0,NLS200907140,BOS,AL,0,,pedroia,dustin,dustin pedroia,dustin pedroia2009
+635,penaca01,2009,0,NLS200907140,TBA,AL,0,,pena,carlos,carlos pena,carlos pena2009
+639,youklke01,2009,0,NLS200907140,BOS,AL,1,,youkilis,kevin,kevin youkilis,kevin youkilis2009
+640,zobribe01,2009,0,NLS200907140,TBA,AL,1,,zobrist,ben,ben zobrist,ben zobrist2009
+642,molinya01,2009,0,NLS200907140,SLN,NL,1,2,molina,yadier,yadier molina,yadier molina2009
+643,pujolal01,2009,0,NLS200907140,SLN,NL,1,3,pujols,albert,albert pujols,albert pujols2009
+644,utleych01,2009,0,NLS200907140,PHI,NL,1,4,utley,chase,chase utley,chase utley2009
+645,wrighda03,2009,0,NLS200907140,NYN,NL,1,5,wright,david,david wright,david wright2009
+646,ramirha01,2009,0,NLS200907140,FLO,NL,1,6,ramirez,hanley,hanley ramirez,hanley ramirez2009
+647,ibanera01,2009,0,NLS200907140,PHI,NL,1,7,ibanez,raul,raul ibanez,raul ibanez2009
+648,victosh01,2009,0,NLS200907140,PHI,NL,1,8,victorino,shane,shane victorino,shane victorino2009
+649,braunry02,2009,0,NLS200907140,MIL,NL,1,9,braun,ryan,ryan braun,ryan braun2009
+651,beltrca01,2009,0,NLS200907140,NYN,NL,0,,beltran,carlos,carlos beltran,carlos beltran2009
+657,fieldpr01,2009,0,NLS200907140,MIL,NL,1,,fielder,prince,prince fielder,prince fielder2009
+659,gonzaad01,2009,0,NLS200907140,SDN,NL,1,,gonzalez,adrian,adrian gonzalez,adrian gonzalez2009
+661,hawpebr01,2009,0,NLS200907140,COL,NL,1,,hawpe,brad,brad hawpe,brad hawpe2009
+663,howarry01,2009,0,NLS200907140,PHI,NL,1,,howard,ryan,ryan howard,ryan howard2009
+664,hudsoor01,2009,0,NLS200907140,LAN,NL,1,,hudson,orlando,orlando hudson,orlando hudson2009
+668,mccanbr01,2009,0,NLS200907140,ATL,NL,1,,mccann,brian,brian mccann,brian mccann2009
+669,pencehu01,2009,0,NLS200907140,HOU,NL,0,,pence,hunter,hunter pence,hunter pence2009
+671,sanchfr01,2009,0,NLS200907140,PIT,NL,0,,sanchez,freddy,freddy sanchez,freddy sanchez2009
+672,santajo01,2009,0,NLS200907140,NYN,NL,0,,,,,2009
+673,tejadmi01,2009,0,NLS200907140,HOU,NL,1,,tejada,miguel,miguel tejada,miguel tejada2009
+674,uptonju01,2009,0,NLS200907140,ARI,NL,1,,upton,justin,justin upton,justin upton2009
+675,werthja01,2009,0,NLS200907140,PHI,NL,1,,werth,jayson,jayson werth,jayson werth2009
+676,zimmery01,2009,0,NLS200907140,WAS,NL,1,,zimmerman,ryan,ryan zimmerman,ryan zimmerman2009
+678,mauerjo01,2010,0,ALS201007130,MIN,AL,1,2,mauer,joe,joe mauer,joe mauer2010
+679,cabremi01,2010,0,ALS201007130,DET,AL,1,3,cabrera,miguel,miguel cabrera,miguel cabrera2010
+680,canoro01,2010,0,ALS201007130,NYA,AL,1,4,cano,robinson,robinson cano,robinson cano2010
+681,longoev01,2010,0,ALS201007130,TBA,AL,1,5,longoria,evan,evan longoria,evan longoria2010
+682,jeterde01,2010,0,ALS201007130,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2010
+683,crawfca02,2010,0,ALS201007130,TBA,AL,1,7,crawford,carl,carl crawford,carl crawford2010
+684,hamiljo03,2010,0,ALS201007130,TEX,AL,1,8,hamilton,josh,josh hamilton,josh hamilton2010
+685,suzukic01,2010,0,ALS201007130,SEA,AL,1,9,suzuki,ichiro,ichiro suzuki,ichiro suzuki2010
+686,guerrvl01,2010,0,ALS201007130,TEX,AL,1,10,guerrero,vladimir,vladimir guerrero,vladimir guerrero2010
+687,andruel01,2010,0,ALS201007130,TEX,AL,1,,andrus,elvis,elvis andrus,elvis andrus2010
+689,bautijo02,2010,0,ALS201007130,TOR,AL,1,,bautista,jose,jose bautista,jose bautista2010
+690,beltrad01,2010,0,ALS201007130,BOS,AL,1,,beltre,adrian,adrian beltre,adrian beltre2010
+692,buckjo01,2010,0,ALS201007130,TOR,AL,1,,buck,john,john buck,john buck2010
+697,hunteto01,2010,0,ALS201007130,LAA,AL,1,,hunter,torii,torii hunter,torii hunter2010
+698,kinslia01,2010,0,ALS201007130,TEX,AL,1,,kinsler,ian,ian kinsler,ian kinsler2010
+699,konerpa01,2010,0,ALS201007130,CHA,AL,1,,konerko,paul,paul konerko,paul konerko2010
+702,martivi01,2010,0,ALS201007130,BOS,AL,0,,martinez,victor,victor martinez,victor martinez2010
+703,morneju01,2010,0,ALS201007130,MIN,AL,0,,morneau,justin,justin morneau,justin morneau2010
+704,ortizda01,2010,0,ALS201007130,BOS,AL,1,,ortiz,david,david ortiz,david ortiz2010
+705,pedrodu01,2010,0,ALS201007130,BOS,AL,0,,pedroia,dustin,dustin pedroia,dustin pedroia2010
+708,rodrial01,2010,0,ALS201007130,NYA,AL,0,,rodriguez,alex,alex rodriguez,alex rodriguez2010
+709,sabatcc01,2010,0,ALS201007130,NYA,AL,0,,,,,2010
+712,swishni01,2010,0,ALS201007130,NYA,AL,1,,swisher,nick,nick swisher,nick swisher2010
+717,wellsve01,2010,0,ALS201007130,TOR,AL,1,,wells,vernon,vernon wells,vernon wells2010
+718,wiggity01,2010,0,ALS201007130,BAL,AL,1,,wigginton,ty,ty wigginton,ty wigginton2010
+720,molinya01,2010,0,ALS201007130,SLN,NL,1,2,molina,yadier,yadier molina,yadier molina2010
+721,pujolal01,2010,0,ALS201007130,SLN,NL,1,3,pujols,albert,albert pujols,albert pujols2010
+722,pradoma01,2010,0,ALS201007130,ATL,NL,1,4,prado,martin,martin prado,martin prado2010
+723,wrighda03,2010,0,ALS201007130,NYN,NL,1,5,wright,david,david wright,david wright2010
+724,ramirha01,2010,0,ALS201007130,FLO,NL,1,6,ramirez,hanley,hanley ramirez,hanley ramirez2010
+725,braunry02,2010,0,ALS201007130,MIL,NL,1,7,braun,ryan,ryan braun,ryan braun2010
+726,ethiean01,2010,0,ALS201007130,LAN,NL,1,8,ethier,andre,andre ethier,andre ethier2010
+727,hartco01,2010,0,ALS201007130,MIL,NL,1,9,hart,corey,corey hart,corey hart2010
+728,howarry01,2010,0,ALS201007130,PHI,NL,1,10,howard,ryan,ryan howard,ryan howard2010
+730,bournmi01,2010,0,ALS201007130,HOU,NL,1,,bourn,michael,michael bourn,michael bourn2010
+732,byrdma01,2010,0,ALS201007130,CHN,NL,1,,byrd,marlon,marlon byrd,marlon byrd2010
+735,furcara01,2010,0,ALS201007130,LAN,NL,1,,,,,2010
+737,gonzaad01,2010,0,ALS201007130,SDN,NL,1,,gonzalez,adrian,adrian gonzalez,adrian gonzalez2010
+739,heywaja01,2010,0,ALS201007130,ATL,NL,0,,heyward,jason,jason heyward,jason heyward2010
+740,hollima01,2010,0,ALS201007130,SLN,NL,1,,holliday,matt,matt holliday,matt holliday2010
+742,infanom01,2010,0,ALS201007130,ATL,NL,0,,infante,omar,omar infante,omar infante2010
+744,kuoho01,2010,0,ALS201007130,LAN,NL,1,,kuo,hung-chih,hung-chih kuo,hung-chih kuo2010
+746,mccanbr01,2010,0,ALS201007130,ATL,NL,1,,mccann,brian,brian mccann,brian mccann2010
+748,phillbr01,2010,0,ALS201007130,CIN,NL,1,,phillips,brandon,brandon phillips,brandon phillips2010
+749,reyesjo01,2010,0,ALS201007130,NYN,NL,0,,reyes,jose,jose reyes,jose reyes2010
+751,rolensc01,2010,0,ALS201007130,CIN,NL,1,,rolen,scott,scott rolen,scott rolen2010
+752,tulowtr01,2010,0,ALS201007130,COL,NL,0,,tulowitzki,troy,troy tulowitzki,troy tulowitzki2010
+753,utleych01,2010,0,ALS201007130,PHI,NL,0,,utley,chase,chase utley,chase utley2010
+754,vottojo01,2010,0,ALS201007130,CIN,NL,1,,votto,joey,joey votto,joey votto2010
+759,avilaal01,2011,0,NLS201107120,DET,AL,1,2,avila,alex,alex avila,alex avila2011
+760,gonzaad01,2011,0,NLS201107120,BOS,AL,1,3,gonzalez,adrian,adrian gonzalez,adrian gonzalez2011
+761,canoro01,2011,0,NLS201107120,NYA,AL,1,4,cano,robinson,robinson cano,robinson cano2011
+762,beltrad01,2011,0,NLS201107120,TEX,AL,1,5,beltre,adrian,adrian beltre,adrian beltre2011
+763,cabreas01,2011,0,NLS201107120,CLE,AL,1,6,cabrera,asdrubal,asdrubal cabrera,asdrubal cabrera2011
+764,hamiljo03,2011,0,NLS201107120,TEX,AL,1,7,hamilton,josh,josh hamilton,josh hamilton2011
+765,grandcu01,2011,0,NLS201107120,NYA,AL,1,8,granderson,curtis,curtis granderson,curtis granderson2011
+766,bautijo02,2011,0,NLS201107120,TOR,AL,1,9,bautista,jose,jose bautista,jose bautista2011
+767,ortizda01,2011,0,NLS201107120,BOS,AL,1,10,ortiz,david,david ortiz,david ortiz2011
+769,cabremi01,2011,0,NLS201107120,DET,AL,1,,cabrera,miguel,miguel cabrera,miguel cabrera2011
+771,cuddymi01,2011,0,NLS201107120,MIN,AL,1,,cuddyer,michael,michael cuddyer,michael cuddyer2011
+772,ellsbja01,2011,0,NLS201107120,BOS,AL,1,,ellsbury,jacoby,jacoby ellsbury,jacoby ellsbury2011
+775,jeterde01,2011,0,NLS201107120,NYA,AL,0,,jeter,derek,derek jeter,derek jeter2011
+776,joycema01,2011,0,NLS201107120,TBA,AL,1,,joyce,matt,matt joyce,matt joyce2011
+777,kendrho01,2011,0,NLS201107120,LAA,AL,1,,kendrick,howie,howie kendrick,howie kendrick2011
+778,konerpa01,2011,0,NLS201107120,CHA,AL,1,,konerko,paul,paul konerko,paul konerko2011
+781,martiru01,2011,0,NLS201107120,NYA,AL,0,,martin,russell,russell martin,russell martin2011
+783,peraljh01,2011,0,NLS201107120,DET,AL,1,,peralta,jhonny,jhonny peralta,jhonny peralta2011
+787,quentca01,2011,0,NLS201107120,CHA,AL,1,,quentin,carlos,carlos quentin,carlos quentin2011
+790,rodrial01,2011,0,NLS201107120,NYA,AL,0,,rodriguez,alex,alex rodriguez,alex rodriguez2011
+792,sabatcc01,2011,0,NLS201107120,NYA,AL,0,,,,,2011
+797,wietema01,2011,0,NLS201107120,BAL,AL,1,,wieters,matt,matt wieters,matt wieters2011
+798,wilsocj01,2011,0,NLS201107120,TEX,AL,1,,wilson,c. j.,c. j. wilson,c. j. wilson2011
+799,youklke01,2011,0,NLS201107120,BOS,AL,1,,youkilis,kevin,kevin youkilis,kevin youkilis2011
+800,youngmi02,2011,0,NLS201107120,TEX,AL,1,,young,michael,michael young,michael young2011
+802,mccanbr01,2011,0,NLS201107120,ATL,NL,1,2,mccann,brian,brian mccann,brian mccann2011
+803,fieldpr01,2011,0,NLS201107120,MIL,NL,1,3,fielder,prince,prince fielder,prince fielder2011
+804,weeksri01,2011,0,NLS201107120,MIL,NL,1,4,weeks,rickie,rickie weeks,rickie weeks2011
+805,rolensc01,2011,0,NLS201107120,CIN,NL,1,5,rolen,scott,scott rolen,scott rolen2011
+806,tulowtr01,2011,0,NLS201107120,COL,NL,1,6,tulowitzki,troy,troy tulowitzki,troy tulowitzki2011
+807,hollima01,2011,0,NLS201107120,SLN,NL,1,7,holliday,matt,matt holliday,matt holliday2011
+808,kempma01,2011,0,NLS201107120,LAN,NL,1,8,kemp,matt,matt kemp,matt kemp2011
+809,berkmla01,2011,0,NLS201107120,SLN,NL,1,9,berkman,lance,lance berkman,lance berkman2011
+810,beltrca01,2011,0,NLS201107120,NYN,NL,1,10,beltran,carlos,carlos beltran,carlos beltran2011
+812,bruceja01,2011,0,NLS201107120,CIN,NL,1,,bruce,jay,jay bruce,jay bruce2011
+814,castrst01,2011,0,NLS201107120,CHN,NL,1,,castro,starlin,starlin castro,starlin castro2011
+817,ethiean01,2011,0,NLS201107120,LAN,NL,1,,ethier,andre,andre ethier,andre ethier2011
+820,jonesch06,2011,0,NLS201107120,ATL,NL,0,,jones,chipper,chipper jones,chipper jones2011
+826,mccutan01,2011,0,NLS201107120,PIT,NL,1,,mccutchen,andrew,andrew mccutchen,andrew mccutchen2011
+827,molinya01,2011,0,NLS201107120,SLN,NL,1,,molina,yadier,yadier molina,yadier molina2011
+828,montemi01,2011,0,NLS201107120,ARI,NL,1,,montero,miguel,miguel montero,miguel montero2011
+829,pencehu01,2011,0,NLS201107120,HOU,NL,1,,pence,hunter,hunter pence,hunter pence2011
+830,phillbr01,2011,0,NLS201107120,CIN,NL,1,,phillips,brandon,brandon phillips,brandon phillips2011
+831,polanpl01,2011,0,NLS201107120,PHI,NL,0,,polanco,placido,placido polanco,placido polanco2011
+832,reyesjo01,2011,0,NLS201107120,NYN,NL,0,,reyes,jose,jose reyes,jose reyes2011
+833,sanchga01,2011,0,NLS201107120,FLO,NL,1,,sanchez,gaby,gaby sanchez,gaby sanchez2011
+834,sandopa01,2011,0,NLS201107120,SFN,NL,1,,sandoval,pablo,pablo sandoval,pablo sandoval2011
+835,uptonju01,2011,0,NLS201107120,ARI,NL,1,,upton,justin,justin upton,justin upton2011
+837,victosh01,2011,0,NLS201107120,PHI,NL,0,,victorino,shane,shane victorino,shane victorino2011
+839,vottojo01,2011,0,NLS201107120,CIN,NL,1,,votto,joey,joey votto,joey votto2011
+842,napolmi01,2012,0,ALS201207100,TEX,AL,1,2,napoli,mike,mike napoli,mike napoli2012
+843,fieldpr01,2012,0,ALS201207100,DET,AL,1,3,fielder,prince,prince fielder,prince fielder2012
+844,canoro01,2012,0,ALS201207100,NYA,AL,1,4,cano,robinson,robinson cano,robinson cano2012
+845,beltrad01,2012,0,ALS201207100,TEX,AL,1,5,beltre,adrian,adrian beltre,adrian beltre2012
+846,jeterde01,2012,0,ALS201207100,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2012
+847,hamiljo03,2012,0,ALS201207100,TEX,AL,1,7,hamilton,josh,josh hamilton,josh hamilton2012
+848,grandcu01,2012,0,ALS201207100,NYA,AL,1,8,granderson,curtis,curtis granderson,curtis granderson2012
+849,bautijo02,2012,0,ALS201207100,TOR,AL,1,9,bautista,jose,jose bautista,jose bautista2012
+850,ortizda01,2012,0,ALS201207100,BOS,AL,1,10,ortiz,david,david ortiz,david ortiz2012
+851,andruel01,2012,0,ALS201207100,TEX,AL,1,,andrus,elvis,elvis andrus,elvis andrus2012
+852,butlebi03,2012,0,ALS201207100,KCA,AL,1,,butler,billy,billy butler,billy butler2012
+853,cabreas01,2012,0,ALS201207100,CLE,AL,1,,cabrera,asdrubal,asdrubal cabrera,asdrubal cabrera2012
+854,cabremi01,2012,0,ALS201207100,DET,AL,1,,cabrera,miguel,miguel cabrera,miguel cabrera2012
+857,dunnad01,2012,0,ALS201207100,CHA,AL,0,,dunn,adam,adam dunn,adam dunn2012
+858,freesda01,2012,0,ALS201207100,SLN,AL,1,,freese,david,david freese,david freese2012
+862,jonesad01,2012,0,ALS201207100,BAL,AL,1,,jones,adam,adam jones,adam jones2012
+863,kinslia01,2012,0,ALS201207100,TEX,AL,1,,kinsler,ian,ian kinsler,ian kinsler2012
+864,konerpa01,2012,0,ALS201207100,CHA,AL,1,,konerko,paul,paul konerko,paul konerko2012
+865,mauerjo01,2012,0,ALS201207100,MIN,AL,1,,mauer,joe,joe mauer,joe mauer2012
+871,sabatcc01,2012,0,ALS201207100,NYA,AL,0,,,,,2012
+873,troutmi01,2012,0,ALS201207100,LAA,AL,1,,trout,mike,mike trout,mike trout2012
+874,trumbma01,2012,0,ALS201207100,LAA,AL,1,,trumbo,mark,mark trumbo,mark trumbo2012
+876,wietema01,2012,0,ALS201207100,BAL,AL,1,,wieters,matt,matt wieters,matt wieters2012
+877,wilsocj01,2012,0,ALS201207100,LAA,AL,0,,wilson,c. j.,c. j. wilson,c. j. wilson2012
+879,poseybu01,2012,0,ALS201207100,SFN,NL,1,2,posey,buster,buster posey,buster posey2012
+880,vottojo01,2012,0,ALS201207100,CIN,NL,1,3,votto,joey,joey votto,joey votto2012
+881,ugglada01,2012,0,ALS201207100,ATL,NL,1,4,uggla,dan,dan uggla,dan uggla2012
+882,sandopa01,2012,0,ALS201207100,SFN,NL,1,5,sandoval,pablo,pablo sandoval,pablo sandoval2012
+883,furcara01,2012,0,ALS201207100,SLN,NL,1,6,,,,2012
+884,braunry02,2012,0,ALS201207100,MIL,NL,1,7,braun,ryan,ryan braun,ryan braun2012
+885,cabreme01,2012,0,ALS201207100,SFN,NL,1,8,cabrera,melky,melky cabrera,melky cabrera2012
+886,beltrca01,2012,0,ALS201207100,SLN,NL,1,9,beltran,carlos,carlos beltran,carlos beltran2012
+887,gonzaca01,2012,0,ALS201207100,COL,NL,1,10,gonzalez,carlos,carlos gonzalez,carlos gonzalez2012
+888,altuvjo01,2012,0,ALS201207100,HOU,NL,1,,altuve,jose,jose altuve,jose altuve2012
+889,bournmi01,2012,0,ALS201207100,ATL,NL,1,,bourn,michael,michael bourn,michael bourn2012
+890,bruceja01,2012,0,ALS201207100,CIN,NL,1,,bruce,jay,jay bruce,jay bruce2012
+891,castrst01,2012,0,ALS201207100,CHN,NL,1,,castro,starlin,starlin castro,starlin castro2012
+893,desmoia01,2012,0,ALS201207100,WAS,NL,0,,desmond,ian,ian desmond,ian desmond2012
+894,dickera01,2012,0,ALS201207100,NYN,NL,1,,,,,2012
+895,freesda01,2012,0,ALS201207100,SLN,NL,1,,freese,david,david freese,david freese2012
+899,harpebr03,2012,0,ALS201207100,WAS,NL,1,,harper,bryce,bryce harper,bryce harper2012
+900,hollima01,2012,0,ALS201207100,SLN,NL,1,,holliday,matt,matt holliday,matt holliday2012
+901,jonesch06,2012,0,ALS201207100,ATL,NL,1,,jones,chipper,chipper jones,chipper jones2012
+902,kempma01,2012,0,ALS201207100,LAN,NL,0,,kemp,matt,matt kemp,matt kemp2012
+905,lahaibr01,2012,0,ALS201207100,CHN,NL,1,,lahair,bryan,bryan lahair,bryan lahair2012
+907,mccutan01,2012,0,ALS201207100,PIT,NL,1,,mccutchen,andrew,andrew mccutchen,andrew mccutchen2012
+909,molinya01,2012,0,ALS201207100,SLN,NL,0,,molina,yadier,yadier molina,yadier molina2012
+911,ruizca01,2012,0,ALS201207100,PHI,NL,1,,ruiz,carlos,carlos ruiz,carlos ruiz2012
+912,stantmi03,2012,0,ALS201207100,MIA,NL,0,,stanton,giancarlo,giancarlo stanton,giancarlo stanton2012
+915,wrighda03,2012,0,ALS201207100,NYN,NL,1,,wright,david,david wright,david wright2012
+917,mauerjo01,2013,0,NLS201307160,MIN,AL,1,2,mauer,joe,joe mauer,joe mauer2013
+918,davisch02,2013,0,NLS201307160,BAL,AL,1,3,davis,chris,chris davis,chris davis2013
+919,canoro01,2013,0,NLS201307160,NYA,AL,1,4,cano,robinson,robinson cano,robinson cano2013
+920,cabremi01,2013,0,NLS201307160,DET,AL,1,5,cabrera,miguel,miguel cabrera,miguel cabrera2013
+921,hardyjj01,2013,0,NLS201307160,BAL,AL,1,6,hardy,j. j.,j. j. hardy,j. j. hardy2013
+922,troutmi01,2013,0,NLS201307160,LAA,AL,1,7,trout,mike,mike trout,mike trout2013
+923,jonesad01,2013,0,NLS201307160,BAL,AL,1,8,jones,adam,adam jones,adam jones2013
+924,bautijo02,2013,0,NLS201307160,TOR,AL,1,9,bautista,jose,jose bautista,jose bautista2013
+925,ortizda01,2013,0,NLS201307160,BOS,AL,1,10,ortiz,david,david ortiz,david ortiz2013
+928,castrja01,2013,0,NLS201307160,HOU,AL,0,,castro,jason,jason castro,jason castro2013
+932,cruzne02,2013,0,NLS201307160,TEX,AL,1,,cruz,nelson,nelson cruz,nelson cruz2013
+935,encared01,2013,0,NLS201307160,TOR,AL,1,,encarnacion,edwin,edwin encarnacion,edwin encarnacion2013
+936,fieldpr01,2013,0,NLS201307160,DET,AL,1,,fielder,prince,prince fielder,prince fielder2013
+937,gordoal01,2013,0,NLS201307160,KCA,AL,1,,gordon,alex,alex gordon,alex gordon2013
+940,hunteto01,2013,0,NLS201307160,DET,AL,1,,hunter,torii,torii hunter,torii hunter2013
+942,kipnija01,2013,0,NLS201307160,CLE,AL,1,,kipnis,jason,jason kipnis,jason kipnis2013
+943,machama01,2013,0,NLS201307160,BAL,AL,1,,machado,manny,manny machado,manny machado2013
+947,pedrodu01,2013,0,NLS201307160,BOS,AL,1,,pedroia,dustin,dustin pedroia,dustin pedroia2013
+948,peraljh01,2013,0,NLS201307160,DET,AL,1,,peralta,jhonny,jhonny peralta,jhonny peralta2013
+949,perezsa02,2013,0,NLS201307160,KCA,AL,1,,perez,salvador,salvador perez,salvador perez2013
+955,zobribe01,2013,0,NLS201307160,TBA,AL,0,,zobrist,ben,ben zobrist,ben zobrist2013
+957,molinya01,2013,0,NLS201307160,SLN,NL,1,2,molina,yadier,yadier molina,yadier molina2013
+958,vottojo01,2013,0,NLS201307160,CIN,NL,1,3,votto,joey,joey votto,joey votto2013
+959,phillbr01,2013,0,NLS201307160,CIN,NL,1,4,phillips,brandon,brandon phillips,brandon phillips2013
+960,wrighda03,2013,0,NLS201307160,NYN,NL,1,5,wright,david,david wright,david wright2013
+961,tulowtr01,2013,0,NLS201307160,COL,NL,1,6,tulowitzki,troy,troy tulowitzki,troy tulowitzki2013
+962,gonzaca01,2013,0,NLS201307160,COL,NL,1,7,gonzalez,carlos,carlos gonzalez,carlos gonzalez2013
+963,harpebr03,2013,0,NLS201307160,WAS,NL,1,8,harper,bryce,bryce harper,bryce harper2013
+964,beltrca01,2013,0,NLS201307160,SLN,NL,1,9,beltran,carlos,carlos beltran,carlos beltran2013
+965,cuddymi01,2013,0,NLS201307160,COL,NL,1,10,cuddyer,michael,michael cuddyer,michael cuddyer2013
+966,alvarpe01,2013,0,NLS201307160,PIT,NL,1,,alvarez,pedro,pedro alvarez,pedro alvarez2013
+967,browndo01,2013,0,NLS201307160,PHI,NL,1,,brown,domonic,domonic brown,domonic brown2013
+969,cabreev01,2013,0,NLS201307160,SDN,NL,0,,cabrera,everth,everth cabrera,everth cabrera2013
+970,carpema01,2013,0,NLS201307160,SLN,NL,1,,carpenter,matt,matt carpenter,matt carpenter2013
+973,craigal01,2013,0,NLS201307160,SLN,NL,1,,craig,allen,allen craig,allen craig2013
+975,freemfr01,2013,0,NLS201307160,ATL,NL,0,,freeman,freddie,freddie freeman,freddie freeman2013
+976,goldspa01,2013,0,NLS201307160,ARI,NL,1,,goldschmidt,paul,paul goldschmidt,paul goldschmidt2013
+977,gomezca01,2013,0,NLS201307160,MIL,NL,1,,gomez,carlos,carlos gomez,carlos gomez2013
+983,mccanbr01,2013,0,NLS201307160,ATL,NL,0,,mccann,brian,brian mccann,brian mccann2013
+984,mccutan01,2013,0,NLS201307160,PIT,NL,1,,mccutchen,andrew,andrew mccutchen,andrew mccutchen2013
+986,poseybu01,2013,0,NLS201307160,SFN,NL,1,,posey,buster,buster posey,buster posey2013
+988,scutama01,2013,0,NLS201307160,SFN,NL,0,,scutaro,marco,marco scutaro,marco scutaro2013
+989,segurje01,2013,0,NLS201307160,MIL,NL,1,,segura,jean,jean segura,jean segura2013
+994,perezsa02,2014,0,ALS201407150,KCA,AL,1,2,perez,salvador,salvador perez,salvador perez2014
+995,cabremi01,2014,0,ALS201407150,DET,AL,1,3,cabrera,miguel,miguel cabrera,miguel cabrera2014
+996,canoro01,2014,0,ALS201407150,SEA,AL,1,4,cano,robinson,robinson cano,robinson cano2014
+997,donaljo02,2014,0,ALS201407150,OAK,AL,1,5,donaldson,josh,josh donaldson,josh donaldson2014
+998,jeterde01,2014,0,ALS201407150,NYA,AL,1,6,jeter,derek,derek jeter,derek jeter2014
+999,troutmi01,2014,0,ALS201407150,LAA,AL,1,7,trout,mike,mike trout,mike trout2014
+1000,jonesad01,2014,0,ALS201407150,BAL,AL,1,8,jones,adam,adam jones,adam jones2014
+1001,bautijo02,2014,0,ALS201407150,TOR,AL,1,9,bautista,jose,jose bautista,jose bautista2014
+1002,cruzne02,2014,0,ALS201407150,BAL,AL,1,10,cruz,nelson,nelson cruz,nelson cruz2014
+1003,abreujo02,2014,0,ALS201407150,CHA,AL,1,,abreu,jose,jose abreu,jose abreu2014
+1004,altuvjo01,2014,0,ALS201407150,HOU,AL,1,,altuve,jose,jose altuve,jose altuve2014
+1005,aybarer01,2014,0,ALS201407150,LAA,AL,1,,aybar,erick,erick aybar,erick aybar2014
+1006,beltrad01,2014,0,ALS201407150,TEX,AL,1,,beltre,adrian,adrian beltre,adrian beltre2014
+1008,brantmi02,2014,0,ALS201407150,CLE,AL,1,,brantley,michael,michael brantley,michael brantley2014
+1010,cespeyo01,2014,0,ALS201407150,OAK,AL,1,,cespedes,yoenis,yoenis cespedes,yoenis cespedes2014
+1013,encared01,2014,0,ALS201407150,TOR,AL,0,,encarnacion,edwin,edwin encarnacion,edwin encarnacion2014
+1014,gordoal01,2014,0,ALS201407150,KCA,AL,0,,gordon,alex,alex gordon,alex gordon2014
+1017,kinslia01,2014,0,ALS201407150,DET,AL,1,,kinsler,ian,ian kinsler,ian kinsler2014
+1019,martivi01,2014,0,ALS201407150,DET,AL,0,,martinez,victor,victor martinez,victor martinez2014
+1020,mossbr01,2014,0,ALS201407150,OAK,AL,1,,moss,brandon,brandon moss,brandon moss2014
+1021,norride01,2014,0,ALS201407150,OAK,AL,1,,norris,derek,derek norris,derek norris2014
+1024,ramiral03,2014,0,ALS201407150,CHA,AL,1,,ramirez,alexei,alexei ramirez,alexei ramirez2014
+1028,seageky01,2014,0,ALS201407150,SEA,AL,1,,seager,kyle,kyle seager,kyle seager2014
+1029,suzukku01,2014,0,ALS201407150,MIN,AL,1,,suzuki,kurt,kurt suzuki,kurt suzuki2014
+1032,wietema01,2014,0,ALS201407150,BAL,AL,0,,wieters,matt,matt wieters,matt wieters2014
+1034,lucrojo01,2014,0,ALS201407150,MIL,NL,1,2,lucroy,jonathan,jonathan lucroy,jonathan lucroy2014
+1035,goldspa01,2014,0,ALS201407150,ARI,NL,1,3,goldschmidt,paul,paul goldschmidt,paul goldschmidt2014
+1036,utleych01,2014,0,ALS201407150,PHI,NL,1,4,utley,chase,chase utley,chase utley2014
+1037,ramirar01,2014,0,ALS201407150,MIL,NL,1,5,ramirez,aramis,aramis ramirez,aramis ramirez2014
+1038,tulowtr01,2014,0,ALS201407150,COL,NL,1,6,tulowitzki,troy,troy tulowitzki,troy tulowitzki2014
+1039,gomezca01,2014,0,ALS201407150,MIL,NL,1,7,gomez,carlos,carlos gomez,carlos gomez2014
+1040,mccutan01,2014,0,ALS201407150,PIT,NL,1,8,mccutchen,andrew,andrew mccutchen,andrew mccutchen2014
+1041,puigya01,2014,0,ALS201407150,LAN,NL,1,9,puig,yasiel,yasiel puig,yasiel puig2014
+1042,stantmi03,2014,0,ALS201407150,MIA,NL,1,10,stanton,giancarlo,giancarlo stanton,giancarlo stanton2014
+1044,blackch02,2014,0,ALS201407150,COL,NL,1,,blackmon,charlie,charlie blackmon,charlie blackmon2014
+1046,carpema01,2014,0,ALS201407150,SLN,NL,0,,carpenter,matt,matt carpenter,matt carpenter2014
+1047,castrst01,2014,0,ALS201407150,CHN,NL,1,,castro,starlin,starlin castro,starlin castro2014
+1051,frazito01,2014,0,ALS201407150,CIN,NL,1,,frazier,todd,todd frazier,todd frazier2014
+1052,freemfr01,2014,0,ALS201407150,ATL,NL,1,,freeman,freddie,freddie freeman,freddie freeman2014
+1053,gordode01,2014,0,ALS201407150,LAN,NL,1,,strange-gordon,dee,dee strange-gordon,dee strange-gordon2014
+1055,harrijo05,2014,0,ALS201407150,PIT,NL,1,,harrison,josh,josh harrison,josh harrison2014
+1059,mesorde01,2014,0,ALS201407150,CIN,NL,1,,mesoraco,devin,devin mesoraco,devin mesoraco2014
+1060,molinya01,2014,0,ALS201407150,SLN,NL,0,,molina,yadier,yadier molina,yadier molina2014
+1061,montemi01,2014,0,ALS201407150,ARI,NL,1,,montero,miguel,miguel montero,miguel montero2014
+1062,murphda08,2014,0,ALS201407150,NYN,NL,1,,murphy,daniel,daniel murphy,daniel murphy2014
+1064,pencehu01,2014,0,ALS201407150,SFN,NL,1,,pence,hunter,hunter pence,hunter pence2014
+1065,rizzoan01,2014,0,ALS201407150,CHN,NL,1,,rizzo,anthony,anthony rizzo,anthony rizzo2014
+1075,perezsa02,2015,0,NLS201507140,KCA,AL,1,2,perez,salvador,salvador perez,salvador perez2015
+1076,pujolal01,2015,0,NLS201507140,LAA,AL,1,3,pujols,albert,albert pujols,albert pujols2015
+1077,altuvjo01,2015,0,NLS201507140,HOU,AL,1,4,altuve,jose,jose altuve,jose altuve2015
+1078,donaljo02,2015,0,NLS201507140,TOR,AL,1,5,donaldson,josh,josh donaldson,josh donaldson2015
+1079,escobal02,2015,0,NLS201507140,KCA,AL,1,6,escobar,alcides,alcides escobar,alcides escobar2015
+1080,jonesad01,2015,0,NLS201507140,BAL,AL,1,7,jones,adam,adam jones,adam jones2015
+1081,troutmi01,2015,0,NLS201507140,LAA,AL,1,8,trout,mike,mike trout,mike trout2015
+1082,cainlo01,2015,0,NLS201507140,KCA,AL,1,9,cain,lorenzo,lorenzo cain,lorenzo cain2015
+1083,cruzne02,2015,0,NLS201507140,SEA,AL,1,10,cruz,nelson,nelson cruz,nelson cruz2015
+1085,bautijo02,2015,0,NLS201507140,TOR,AL,0,,bautista,jose,jose bautista,jose bautista2015
+1089,cabremi01,2015,0,NLS201507140,DET,AL,0,,cabrera,miguel,miguel cabrera,miguel cabrera2015
+1091,doziebr01,2015,0,NLS201507140,MIN,AL,1,,dozier,brian,brian dozier,brian dozier2015
+1092,fieldpr01,2015,0,NLS201507140,TEX,AL,1,,fielder,prince,prince fielder,prince fielder2015
+1093,gardnbr01,2015,0,NLS201507140,NYA,AL,1,,gardner,brett,brett gardner,brett gardner2015
+1094,gordoal01,2015,0,NLS201507140,KCA,AL,0,,gordon,alex,alex gordon,alex gordon2015
+1098,holtbr01,2015,0,NLS201507140,BOS,AL,1,,holt,brock,brock holt,brock holt2015
+1099,iglesjo01,2015,0,NLS201507140,DET,AL,1,,iglesias,jose,jose iglesias,jose iglesias2015
+1100,kipnija01,2015,0,NLS201507140,CLE,AL,1,,kipnis,jason,jason kipnis,jason kipnis2015
+1101,machama01,2015,0,NLS201507140,BAL,AL,1,,machado,manny,manny machado,manny machado2015
+1102,martijd02,2015,0,NLS201507140,DET,AL,1,,martinez,j. d.,j. d. martinez,j. d. martinez2015
+1103,martiru01,2015,0,NLS201507140,TOR,AL,1,,martin,russell,russell martin,russell martin2015
+1104,moustmi01,2015,0,NLS201507140,KCA,AL,1,,moustakas,mike,mike moustakas,mike moustakas2015
+1110,teixema01,2015,0,NLS201507140,NYA,AL,1,,teixeira,mark,mark teixeira,mark teixeira2015
+1111,vogtst01,2015,0,NLS201507140,OAK,AL,1,,vogt,stephen,stephen vogt,stephen vogt2015
+1113,poseybu01,2015,0,NLS201507140,SFN,NL,1,2,posey,buster,buster posey,buster posey2015
+1114,goldspa01,2015,0,NLS201507140,ARI,NL,1,3,goldschmidt,paul,paul goldschmidt,paul goldschmidt2015
+1115,lemahdj01,2015,0,NLS201507140,COL,NL,1,4,lemahieu,dj,dj lemahieu,dj lemahieu2015
+1116,frazito01,2015,0,NLS201507140,CIN,NL,1,5,frazier,todd,todd frazier,todd frazier2015
+1117,peraljh01,2015,0,NLS201507140,SLN,NL,1,6,peralta,jhonny,jhonny peralta,jhonny peralta2015
+1118,pederjo01,2015,0,NLS201507140,LAN,NL,1,7,pederson,joc,joc pederson,joc pederson2015
+1119,mccutan01,2015,0,NLS201507140,PIT,NL,1,8,mccutchen,andrew,andrew mccutchen,andrew mccutchen2015
+1120,harpebr03,2015,0,NLS201507140,WAS,NL,1,9,harper,bryce,bryce harper,bryce harper2015
+1121,rizzoan01,2015,0,NLS201507140,CHN,NL,1,10,rizzo,anthony,anthony rizzo,anthony rizzo2015
+1122,arenano01,2015,0,NLS201507140,COL,NL,1,,arenado,nolan,nolan arenado,nolan arenado2015
+1123,braunry02,2015,0,NLS201507140,MIL,NL,1,,braun,ryan,ryan braun,ryan braun2015
+1124,bryankr01,2015,0,NLS201507140,CHN,NL,1,,bryant,kris,kris bryant,kris bryant2015
+1126,burneaj01,2015,0,NLS201507140,PIT,NL,0,,,,,2015
+1129,crawfbr01,2015,0,NLS201507140,SFN,NL,1,,crawford,brandon,brandon crawford,brandon crawford2015
+1131,gonzaad01,2015,0,NLS201507140,LAN,NL,1,,gonzalez,adrian,adrian gonzalez,adrian gonzalez2015
+1132,gordode01,2015,0,NLS201507140,MIA,NL,0,,strange-gordon,dee,dee strange-gordon,dee strange-gordon2015
+1133,grandya01,2015,0,NLS201507140,LAN,NL,1,,grandal,yasmani,yasmani grandal,yasmani grandal2015
+1134,hollima01,2015,0,NLS201507140,SLN,NL,0,,holliday,matt,matt holliday,matt holliday2015
+1139,molinya01,2015,0,NLS201507140,SLN,NL,1,,molina,yadier,yadier molina,yadier molina2015
+1140,panikjo01,2015,0,NLS201507140,SFN,NL,1,,panik,joe,joe panik,joe panik2015
+1142,polloaj01,2015,0,NLS201507140,ARI,NL,1,,pollock,aj,aj pollock,aj pollock2015
+1146,stantmi03,2015,0,NLS201507140,MIA,NL,0,,stanton,giancarlo,giancarlo stanton,giancarlo stanton2015
+1147,tulowtr01,2015,0,NLS201507140,COL,NL,1,,tulowitzki,troy,troy tulowitzki,troy tulowitzki2015
+1148,uptonju01,2015,0,NLS201507140,SDN,NL,1,,upton,justin,justin upton,justin upton2015
+1151,perezsa02,2016,0,ALS201607120,KCA,AL,1,2,perez,salvador,salvador perez,salvador perez2016
+1152,hosmeer01,2016,0,ALS201607120,KCA,AL,1,3,hosmer,eric,eric hosmer,eric hosmer2016
+1153,altuvjo01,2016,0,ALS201607120,HOU,AL,1,4,altuve,jose,jose altuve,jose altuve2016
+1154,machama01,2016,0,ALS201607120,BAL,AL,1,5,machado,manny,manny machado,manny machado2016
+1155,bogaexa01,2016,0,ALS201607120,BOS,AL,1,6,bogaerts,xander,xander bogaerts,xander bogaerts2016
+1156,bradlja02,2016,0,ALS201607120,BOS,AL,1,7,bradley,jackie,jackie bradley,jackie bradley2016
+1157,troutmi01,2016,0,ALS201607120,LAA,AL,1,8,trout,mike,mike trout,mike trout2016
+1158,bettsmo01,2016,0,ALS201607120,BOS,AL,1,9,betts,mookie,mookie betts,mookie betts2016
+1159,ortizda01,2016,0,ALS201607120,BOS,AL,1,10,ortiz,david,david ortiz,david ortiz2016
+1160,beltrca01,2016,0,ALS201607120,NYA,AL,1,,beltran,carlos,carlos beltran,carlos beltran2016
+1164,cabremi01,2016,0,ALS201607120,DET,AL,1,,cabrera,miguel,miguel cabrera,miguel cabrera2016
+1165,canoro01,2016,0,ALS201607120,SEA,AL,1,,cano,robinson,robinson cano,robinson cano2016
+1168,desmoia01,2016,0,ALS201607120,TEX,AL,1,,desmond,ian,ian desmond,ian desmond2016
+1169,donaljo02,2016,0,ALS201607120,TOR,AL,1,,donaldson,josh,josh donaldson,josh donaldson2016
+1170,encared01,2016,0,ALS201607120,TOR,AL,1,,encarnacion,edwin,edwin encarnacion,edwin encarnacion2016
+1173,harriwi02,2016,0,ALS201607120,HOU,AL,1,,harris,willie,willie harris,willie harris2016
+1177,lindofr01,2016,0,ALS201607120,CLE,AL,1,,lindor,francisco,francisco lindor,francisco lindor2016
+1179,nunezed02,2016,0,ALS201607120,MIN,AL,1,,nunez,eduardo,eduardo nunez,eduardo nunez2016
+1183,saundmi01,2016,0,ALS201607120,TOR,AL,1,,saunders,michael,michael saunders,michael saunders2016
+1184,trumbma01,2016,0,ALS201607120,BAL,AL,1,,trumbo,mark,mark trumbo,mark trumbo2016
+1185,vogtst01,2016,0,ALS201607120,OAK,AL,0,,vogt,stephen,stephen vogt,stephen vogt2016
+1186,wietema01,2016,0,ALS201607120,BAL,AL,1,,wieters,matt,matt wieters,matt wieters2016
+1189,poseybu01,2016,0,ALS201607120,SFN,NL,1,2,posey,buster,buster posey,buster posey2016
+1190,rizzoan01,2016,0,ALS201607120,CHN,NL,1,3,rizzo,anthony,anthony rizzo,anthony rizzo2016
+1191,zobribe01,2016,0,ALS201607120,CHN,NL,1,4,zobrist,ben,ben zobrist,ben zobrist2016
+1192,bryankr01,2016,0,ALS201607120,CHN,NL,1,5,bryant,kris,kris bryant,kris bryant2016
+1193,russead02,2016,0,ALS201607120,CHN,NL,1,6,russell,addison,addison russell,addison russell2016
+1194,gonzaca01,2016,0,ALS201607120,COL,NL,1,7,gonzalez,carlos,carlos gonzalez,carlos gonzalez2016
+1195,ozunama01,2016,0,ALS201607120,MIA,NL,1,8,ozuna,marcell,marcell ozuna,marcell ozuna2016
+1196,harpebr03,2016,0,ALS201607120,WAS,NL,1,9,harper,bryce,bryce harper,bryce harper2016
+1197,myerswi01,2016,0,ALS201607120,SDN,NL,1,10,myers,wil,wil myers,wil myers2016
+1198,arenano01,2016,0,ALS201607120,COL,NL,1,,arenado,nolan,nolan arenado,nolan arenado2016
+1200,beltbr01,2016,0,ALS201607120,SFN,NL,1,,belt,brandon,brandon belt,brandon belt2016
+1201,bruceja01,2016,0,ALS201607120,CIN,NL,1,,bruce,jay,jay bruce,jay bruce2016
+1203,carpema01,2016,0,ALS201607120,SLN,NL,0,,carpenter,matt,matt carpenter,matt carpenter2016
+1204,cespeyo01,2016,0,ALS201607120,NYN,NL,0,,cespedes,yoenis,yoenis cespedes,yoenis cespedes2016
+1206,diazal02,2016,0,ALS201607120,SLN,NL,1,,diaz,aledmys,aledmys diaz,aledmys diaz2016
+1207,duvalad01,2016,0,ALS201607120,CIN,NL,1,,duvall,adam,adam duvall,adam duvall2016
+1210,fowlede01,2016,0,ALS201607120,CHN,NL,0,,fowler,dexter,dexter fowler,dexter fowler2016
+1211,goldspa01,2016,0,ALS201607120,ARI,NL,1,,goldschmidt,paul,paul goldschmidt,paul goldschmidt2016
+1212,herreod01,2016,0,ALS201607120,PHI,NL,1,,herrera,odubel,odubel herrera,odubel herrera2016
+1216,lucrojo01,2016,0,ALS201607120,MIL,NL,1,,lucroy,jonathan,jonathan lucroy,jonathan lucroy2016
+1217,martest01,2016,0,ALS201607120,PIT,NL,1,,marte,starling,starling marte,starling marte2016
+1219,murphda08,2016,0,ALS201607120,WAS,NL,1,,murphy,daniel,daniel murphy,daniel murphy2016
+1222,ramoswi01,2016,0,ALS201607120,WAS,NL,1,,ramos,wilson,wilson ramos,wilson ramos2016
+1225,seageco01,2016,0,ALS201607120,LAN,NL,1,,seager,corey,corey seager,corey seager2016
+1230,perezsa02,2017,0,NLS201707110,KCA,AL,1,2,perez,salvador,salvador perez,salvador perez2017
+1231,smoakju01,2017,0,NLS201707110,TOR,AL,1,3,smoak,justin,justin smoak,justin smoak2017
+1232,altuvjo01,2017,0,NLS201707110,HOU,AL,1,4,altuve,jose,jose altuve,jose altuve2017
+1234,correca01,2017,0,NLS201707110,HOU,AL,1,6,correa,carlos,carlos correa,carlos correa2017
+1235,springe01,2017,0,NLS201707110,HOU,AL,1,7,springer,george,george springer,george springer2017
+1236,bettsmo01,2017,0,NLS201707110,BOS,AL,1,8,betts,mookie,mookie betts,mookie betts2017
+1237,judgeaa01,2017,0,NLS201707110,NYA,AL,1,9,judge,aaron,aaron judge,aaron judge2017
+1238,dickeco01,2017,0,NLS201707110,TBA,AL,1,10,dickerson,corey,corey dickerson,corey dickerson2017
+1239,alonsyo01,2017,0,NLS201707110,OAK,AL,1,,alonso,yonder,yonder alonso,yonder alonso2017
+1242,brantmi02,2017,0,NLS201707110,CLE,AL,1,,brantley,michael,michael brantley,michael brantley2017
+1243,canoro01,2017,0,NLS201707110,SEA,AL,1,,cano,robinson,robinson cano,robinson cano2017
+1244,castrst01,2017,0,NLS201707110,NYA,AL,0,,castro,starlin,starlin castro,starlin castro2017
+1245,cruzne02,2017,0,NLS201707110,SEA,AL,1,,cruz,nelson,nelson cruz,nelson cruz2017
+1249,garciav01,2017,0,NLS201707110,CHA,AL,1,,garcia,avisail,avisail garcia,avisail garcia2017
+1254,lindofr01,2017,0,NLS201707110,CLE,AL,1,,lindor,francisco,francisco lindor,francisco lindor2017
+1255,mcculla02,2017,0,NLS201707110,HOU,AL,0,,mccullers,lance,lance mccullers,lance mccullers2017
+1257,moustmi01,2017,0,NLS201707110,KCA,AL,1,,moustakas,mike,mike moustakas,mike moustakas2017
+1259,sanchga02,2017,0,NLS201707110,NYA,AL,1,,sanchez,gary,gary sanchez,gary sanchez2017
+1260,sanomi01,2017,0,NLS201707110,MIN,AL,1,,sano,miguel,miguel sano,miguel sano2017
+1262,schoojo01,2017,0,NLS201707110,BAL,AL,1,,schoop,jonathan,jonathan schoop,jonathan schoop2017
+1264,troutmi01,2017,0,NLS201707110,LAA,AL,0,,trout,mike,mike trout,mike trout2017
+1265,uptonju01,2017,0,NLS201707110,DET,AL,1,,upton,justin,justin upton,justin upton2017
+1268,poseybu01,2017,0,NLS201707110,SFN,NL,1,2,posey,buster,buster posey,buster posey2017
+1269,zimmery01,2017,0,NLS201707110,WAS,NL,1,3,zimmerman,ryan,ryan zimmerman,ryan zimmerman2017
+1270,murphda08,2017,0,NLS201707110,WAS,NL,1,4,murphy,daniel,daniel murphy,daniel murphy2017
+1271,arenano01,2017,0,NLS201707110,COL,NL,1,5,arenado,nolan,nolan arenado,nolan arenado2017
+1272,cozarza01,2017,0,NLS201707110,CIN,NL,1,6,cozart,zack,zack cozart,zack cozart2017
+1273,ozunama01,2017,0,NLS201707110,MIA,NL,1,7,ozuna,marcell,marcell ozuna,marcell ozuna2017
+1274,blackch02,2017,0,NLS201707110,COL,NL,1,8,blackmon,charlie,charlie blackmon,charlie blackmon2017
+1275,harpebr03,2017,0,NLS201707110,WAS,NL,1,9,harper,bryce,bryce harper,bryce harper2017
+1276,stantmi03,2017,0,NLS201707110,MIA,NL,1,10,stanton,giancarlo,giancarlo stanton,giancarlo stanton2017
+1277,bellico01,2017,0,NLS201707110,LAN,NL,1,,bellinger,cody,cody bellinger,cody bellinger2017
+1278,confomi01,2017,0,NLS201707110,NYN,NL,1,,conforto,michael,michael conforto,michael conforto2017
+1280,goldspa01,2017,0,NLS201707110,ARI,NL,1,,goldschmidt,paul,paul goldschmidt,paul goldschmidt2017
+1283,harrijo05,2017,0,NLS201707110,PIT,NL,1,,harrison,josh,josh harrison,josh harrison2017
+1285,inciaen01,2017,0,NLS201707110,ATL,NL,1,,inciarte,ender,ender inciarte,ender inciarte2017
+1289,lambja01,2017,0,NLS201707110,ARI,NL,1,,lamb,jake,jake lamb,jake lamb2017
+1290,lemahdj01,2017,0,NLS201707110,COL,NL,0,,lemahieu,dj,dj lemahieu,dj lemahieu2017
+1292,molinya01,2017,0,NLS201707110,SLN,NL,1,,molina,yadier,yadier molina,yadier molina2017
+1295,seageco01,2017,0,NLS201707110,LAN,NL,1,,seager,corey,corey seager,corey seager2017
+1297,turneju01,2017,0,NLS201707110,LAN,NL,1,,turner,justin,justin turner,justin turner2017
+1298,vottojo01,2017,0,NLS201707110,CIN,NL,1,,votto,joey,joey votto,joey votto2017
+1301,perezsa02,2018,0,NLS201807170,KCA,AL,1,2,perez,salvador,salvador perez,salvador perez2018
+1302,abreujo02,2018,0,NLS201807170,CHA,AL,1,3,abreu,jose,jose abreu,jose abreu2018
+1303,altuvjo01,2018,0,NLS201807170,HOU,AL,1,4,altuve,jose,jose altuve,jose altuve2018
+1304,ramirjo01,2018,0,NLS201807170,CLE,AL,1,5,ramirez,jose,jose ramirez,jose ramirez2018
+1305,machama01,2018,0,NLS201807170,BAL,AL,1,6,machado,manny,manny machado,manny machado2018
+1306,judgeaa01,2018,0,NLS201807170,NYA,AL,1,7,judge,aaron,aaron judge,aaron judge2018
+1307,troutmi01,2018,0,NLS201807170,LAA,AL,1,8,trout,mike,mike trout,mike trout2018
+1308,bettsmo01,2018,0,NLS201807170,BOS,AL,1,9,betts,mookie,mookie betts,mookie betts2018
+1309,martijd02,2018,0,NLS201807170,BOS,AL,1,10,martinez,j. d.,j. d. martinez,j. d. martinez2018
+1312,brantmi02,2018,0,NLS201807170,CLE,AL,1,,brantley,michael,michael brantley,michael brantley2018
+1313,bregmal01,2018,0,NLS201807170,HOU,AL,1,,bregman,alex,alex bregman,alex bregman2018
+1315,choosh01,2018,0,NLS201807170,TEX,AL,1,,choo,shin-soo,shin-soo choo,shin-soo choo2018
+1317,cruzne02,2018,0,NLS201807170,SEA,AL,1,,cruz,nelson,nelson cruz,nelson cruz2018
+1319,gomesya01,2018,0,NLS201807170,CLE,AL,1,,gomes,yan,yan gomes,yan gomes2018
+1320,hanigmi01,2018,0,NLS201807170,SEA,AL,1,,haniger,mitch,mitch haniger,mitch haniger2018
+1321,happja01,2018,0,NLS201807170,TOR,AL,1,,happ,j. a.,j. a. happ,j. a. happ2018
+1325,lindofr01,2018,0,NLS201807170,CLE,AL,1,,lindor,francisco,francisco lindor,francisco lindor2018
+1326,lowrije01,2018,0,NLS201807170,OAK,AL,1,,lowrie,jed,jed lowrie,jed lowrie2018
+1327,morelmi01,2018,0,NLS201807170,BOS,AL,1,,moreland,mitch,mitch moreland,mitch moreland2018
+1329,ramoswi01,2018,0,NLS201807170,TBA,AL,0,,ramos,wilson,wilson ramos,wilson ramos2018
+1330,segurje01,2018,0,NLS201807170,SEA,AL,1,,segura,jean,jean segura,jean segura2018
+1333,springe01,2018,0,NLS201807170,HOU,AL,1,,springer,george,george springer,george springer2018
+1334,torregl01,2018,0,NLS201807170,NYA,AL,0,,torres,gleyber,gleyber torres,gleyber torres2018
+1338,contrwi01,2018,0,NLS201807170,CHN,NL,1,2,contreras,willson,willson contreras,willson contreras2018
+1339,freemfr01,2018,0,NLS201807170,ATL,NL,1,3,freeman,freddie,freddie freeman,freddie freeman2018
+1340,baezja01,2018,0,NLS201807170,CHN,NL,1,4,baez,javier,javier baez,javier baez2018
+1341,arenano01,2018,0,NLS201807170,COL,NL,1,5,arenado,nolan,nolan arenado,nolan arenado2018
+1342,crawfbr01,2018,0,NLS201807170,SFN,NL,1,6,crawford,brandon,brandon crawford,brandon crawford2018
+1343,kempma01,2018,0,NLS201807170,LAN,NL,1,7,kemp,matt,matt kemp,matt kemp2018
+1344,harpebr03,2018,0,NLS201807170,WAS,NL,1,8,harper,bryce,bryce harper,bryce harper2018
+1345,markani01,2018,0,NLS201807170,ATL,NL,1,9,markakis,nick,nick markakis,nick markakis2018
+1346,goldspa01,2018,0,NLS201807170,ARI,NL,1,10,goldschmidt,paul,paul goldschmidt,paul goldschmidt2018
+1347,aguilje01,2018,0,NLS201807170,MIL,NL,1,,aguilar,jesus,jesus aguilar,jesus aguilar2018
+1348,albieoz01,2018,0,NLS201807170,ATL,NL,1,,albies,ozzie,ozzie albies,ozzie albies2018
+1349,blackch02,2018,0,NLS201807170,COL,NL,1,,blackmon,charlie,charlie blackmon,charlie blackmon2018
+1350,cainlo01,2018,0,NLS201807170,MIL,NL,1,,cain,lorenzo,lorenzo cain,lorenzo cain2018
+1355,gennesc01,2018,0,NLS201807170,CIN,NL,1,,gennett,scooter,scooter gennett,scooter gennett2018
+1362,molinya01,2018,0,NLS201807170,SLN,NL,1,,molina,yadier,yadier molina,yadier molina2018
+1364,poseybu01,2018,0,NLS201807170,SFN,NL,0,,posey,buster,buster posey,buster posey2018
+1365,realmjt01,2018,0,NLS201807170,MIA,NL,1,,realmuto,j. t.,j. t. realmuto,j. t. realmuto2018
+1367,storytr01,2018,0,NLS201807170,COL,NL,1,,story,trevor,trevor story,trevor story2018
+1369,suareeu01,2018,0,NLS201807170,CIN,NL,1,,suarez,eugenio,eugenio suarez,eugenio suarez2018
+1370,vottojo01,2018,0,NLS201807170,CIN,NL,1,,votto,joey,joey votto,joey votto2018
+1371,yelicch01,2018,0,NLS201807170,MIL,NL,1,,yelich,christian,christian yelich,christian yelich2018
+1373,sanchga02,2019,0,ALS201907090,NYA,AL,1,2,sanchez,gary,gary sanchez,gary sanchez2019
+1374,santaca01,2019,0,ALS201907090,CLE,AL,1,3,santana,carlos,carlos santana,carlos santana2019
+1375,lemahdj01,2019,0,ALS201907090,NYA,AL,1,4,lemahieu,dj,dj lemahieu,dj lemahieu2019
+1376,bregmal01,2019,0,ALS201907090,HOU,AL,1,5,bregman,alex,alex bregman,alex bregman2019
+1377,polanjo01,2019,0,ALS201907090,MIN,AL,1,6,polanco,jorge,jorge polanco,jorge polanco2019
+1378,brantmi02,2019,0,ALS201907090,HOU,AL,1,7,brantley,michael,michael brantley,michael brantley2019
+1379,troutmi01,2019,0,ALS201907090,LAA,AL,1,8,trout,mike,mike trout,mike trout2019
+1380,springe01,2019,0,ALS201907090,HOU,AL,1,9,springer,george,george springer,george springer2019
+1381,martijd02,2019,0,ALS201907090,BOS,AL,1,10,martinez,j. d.,j. d. martinez,j. d. martinez2019
+1382,abreujo02,2019,0,ALS201907090,CHA,AL,1,,abreu,jose,jose abreu,jose abreu2019
+1384,bettsmo01,2019,0,ALS201907090,BOS,AL,1,,betts,mookie,mookie betts,mookie betts2019
+1386,bogaexa01,2019,0,ALS201907090,BOS,AL,1,,bogaerts,xander,xander bogaerts,xander bogaerts2019
+1388,chapmma01,2019,0,ALS201907090,OAK,AL,1,,chapman,matt,matt chapman,matt chapman2019
+1390,gallojo01,2019,0,ALS201907090,TEX,AL,1,,gallo,joey,joey gallo,joey gallo2019
+1395,lasteto01,2019,0,ALS201907090,LAA,AL,0,,la stella,tommy,tommy la stella,tommy la stella2019
+1396,lindofr01,2019,0,ALS201907090,CLE,AL,1,,lindor,francisco,francisco lindor,francisco lindor2019
+1397,lowebr01,2019,0,ALS201907090,TBA,AL,0,,lowe,brandon,brandon lowe,brandon lowe2019
+1398,mccanja02,2019,0,ALS201907090,CHA,AL,1,,mccann,james,james mccann,james mccann2019
+1399,meadoau01,2019,0,ALS201907090,TBA,AL,1,,meadows,austin,austin meadows,austin meadows2019
+1401,merriwh01,2019,0,ALS201907090,KCA,AL,1,,merrifield,whit,whit merrifield,whit merrifield2019
+1404,pencehu01,2019,0,ALS201907090,TEX,AL,0,,pence,hunter,hunter pence,hunter pence2019
+1407,torregl01,2019,0,ALS201907090,NYA,AL,1,,torres,gleyber,gleyber torres,gleyber torres2019
+1408,vogelda01,2019,0,ALS201907090,SEA,AL,1,,vogelbach,dan,dan vogelbach,dan vogelbach2019
+1409,ryuhy01,2019,0,ALS201907090,LAN,NL,1,1,ryu,hyun jin,hyun jin ryu,hyun jin ryu2019
+1410,contrwi01,2019,0,ALS201907090,CHN,NL,1,2,contreras,willson,willson contreras,willson contreras2019
+1411,freemfr01,2019,0,ALS201907090,ATL,NL,1,3,freeman,freddie,freddie freeman,freddie freeman2019
+1412,marteke01,2019,0,ALS201907090,ARI,NL,1,4,marte,ketel,ketel marte,ketel marte2019
+1413,arenano01,2019,0,ALS201907090,COL,NL,1,5,arenado,nolan,nolan arenado,nolan arenado2019
+1414,baezja01,2019,0,ALS201907090,CHN,NL,1,6,baez,javier,javier baez,javier baez2019
+1415,yelicch01,2019,0,ALS201907090,MIL,NL,1,7,yelich,christian,christian yelich,christian yelich2019
+1416,acunaro01,2019,0,ALS201907090,ATL,NL,1,8,acuna,ronald,ronald acuna,ronald acuna2019
+1417,bellico01,2019,0,ALS201907090,LAN,NL,1,9,bellinger,cody,cody bellinger,cody bellinger2019
+1418,belljo02,2019,0,ALS201907090,PIT,NL,1,10,bell,josh,josh bell,josh bell2019
+1420,alonspe01,2019,0,ALS201907090,NYN,NL,1,,alonso,pete,pete alonso,pete alonso2019
+1421,blackch02,2019,0,ALS201907090,COL,NL,1,,blackmon,charlie,charlie blackmon,charlie blackmon2019
+1422,bryankr01,2019,0,ALS201907090,CHN,NL,1,,bryant,kris,kris bryant,kris bryant2019
+1425,dahlda01,2019,0,ALS201907090,COL,NL,1,,dahl,david,david dahl,david dahl2019
+1427,dejonpa01,2019,0,ALS201907090,SLN,NL,1,,dejong,paul,paul dejong,paul dejong2019
+1428,grandya01,2019,0,ALS201907090,MIL,NL,1,,grandal,yasmani,yasmani grandal,yasmani grandal2019
+1432,mcneije01,2019,0,ALS201907090,NYN,NL,1,,mcneil,jeff,jeff mcneil,jeff mcneil2019
+1433,moustmi01,2019,0,ALS201907090,MIL,NL,1,,moustakas,mike,mike moustakas,mike moustakas2019
+1434,muncyma01,2019,0,ALS201907090,LAN,NL,1,,muncy,max,max muncy,max muncy2019
+1435,realmjt01,2019,0,ALS201907090,PHI,NL,1,,realmuto,j. t.,j. t. realmuto,j. t. realmuto2019
+1436,rendoan01,2019,0,ALS201907090,WAS,NL,0,,rendon,anthony,anthony rendon,anthony rendon2019
+1440,sorokmi01,2019,0,ALS201907090,ATL,NL,1,,soroka,michael,michael soroka,michael soroka2019
+1441,storytr01,2019,0,ALS201907090,COL,NL,1,,story,trevor,trevor story,trevor story2019

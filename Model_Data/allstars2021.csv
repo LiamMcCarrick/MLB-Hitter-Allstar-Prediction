@@ -1,83 +1,51 @@
-,key_bbref,yearID,gameNum,gameID,teamID,lgID,GP,startingPos,name_last,name_first
-0,ohtansh01,2021,0,NLS202107130,LAA,AL,1,1.0,ohtani,shohei
-1,perezsa02,2021,0,NLS202107130,KCA,AL,1,2.0,perez,salvador
-2,guerrvl02,2021,0,NLS202107130,TOR,AL,1,3.0,guerrero,vladimir
-3,semiema01,2021,0,NLS202107130,TOR,AL,1,4.0,semien,marcus
-4,deverra01,2021,0,NLS202107130,BOS,AL,1,5.0,devers,rafael
-5,bogaexa01,2021,0,NLS202107130,BOS,AL,1,6.0,bogaerts,xander
-6,hernate01,2021,0,NLS202107130,TOR,AL,1,7.0,hernández,teoscar
-7,mullice01,2021,0,NLS202107130,BAL,AL,1,8.0,mullins,cedric
-8,judgeaa01,2021,0,NLS202107130,NYA,AL,1,9.0,judge,aaron
-9,ohtansh01,2021,0,NLS202107130,LAA,AL,1,10.0,ohtani,shohei
-10,altuvjo01,2021,0,NLS202107130,HOU,AL,0,,altuve,jose
-11,anderti01,2021,0,NLS202107130,CHA,AL,0,,anderson,tim
-12,barnema01,2021,0,NLS202107130,BOS,AL,1,,barnes,matt
-13,bassich01,2021,0,NLS202107130,OAK,AL,1,,bassitt,chris
-14,bichebo01,2021,0,NLS202107130,TOR,AL,1,,bichette,bo
-15,biebesh01,2021,0,NLS202107130,CLE,AL,0,,bieber,shane
-16,brantmi02,2021,0,NLS202107130,HOU,AL,0,,brantley,michael
-17,chapmar01,2021,0,NLS202107130,NYA,AL,0,,chapman,aroldis
-18,colege01,2021,0,NLS202107130,NYA,AL,0,,cole,gerrit
-19,correca01,2021,0,NLS202107130,HOU,AL,0,,correa,carlos
-20,cruzne02,2021,0,NLS202107130,MIN,AL,1,,cruz,nelson
-21,eovalna01,2021,0,NLS202107130,BOS,AL,1,,eovaldi,nathan
-22,gallojo01,2021,0,NLS202107130,TEX,AL,1,,gallo,joey
-23,garciad02,2021,0,NLS202107130,TEX,AL,1,,garcía,adolis
-24,gibsoky01,2021,0,NLS202107130,TEX,AL,1,,gibson,kyle
-25,hendrli01,2021,0,NLS202107130,CHA,AL,1,,hendriks,liam
-26,kikucyu01,2021,0,NLS202107130,SEA,AL,0,,kikuchi,yusei
-27,kittran01,2021,0,NLS202107130,TBA,AL,1,,kittredge,andrew
-28,lynnla01,2021,0,NLS202107130,CHA,AL,1,,lynn,lance
-29,martijd02,2021,0,NLS202107130,BOS,AL,1,,martinez,j. d.
-30,merriwh01,2021,0,NLS202107130,KCA,AL,1,,merrifield,whit
-31,olsonma02,2021,0,NLS202107130,OAK,AL,1,,olson,matt
-32,pressry01,2021,0,NLS202107130,HOU,AL,0,,pressly,ryan
-33,ramirjo01,2021,0,NLS202107130,CLE,AL,1,,ramírez,josé
-34,rodonca01,2021,0,NLS202107130,CHA,AL,0,,rodón,carlos
-35,rogerta01,2021,0,NLS202107130,MIN,AL,0,,rogers,taylor
-36,sotogr01,2021,0,NLS202107130,DET,AL,1,,soto,gregory
-37,troutmi01,2021,0,NLS202107130,LAA,AL,0,,trout,mike
-38,walshja01,2021,0,NLS202107130,LAA,AL,1,,walsh,jared
-39,wendljo01,2021,0,NLS202107130,TBA,AL,1,,wendle,joey
-40,zuninmi01,2021,0,NLS202107130,TBA,AL,1,,zunino,mike
-41,scherma01,2021,0,NLS202107130,WAS,NL,1,1.0,scherzer,max
-42,realmjt01,2021,0,NLS202107130,PHI,NL,1,2.0,realmuto,j. t.
-43,freemfr01,2021,0,NLS202107130,ATL,NL,1,3.0,freeman,freddie
-44,fraziad01,2021,0,NLS202107130,PIT,NL,1,4.0,frazier,adam
-45,arenano01,2021,0,NLS202107130,SLN,NL,1,5.0,arenado,nolan
-46,tatisfe02,2021,0,NLS202107130,SDN,NL,1,6.0,tatís,fernando
-47,winkeje01,2021,0,NLS202107130,CIN,NL,1,7.0,winker,jesse
-48,reynobr01,2021,0,NLS202107130,PIT,NL,1,8.0,reynolds,bryan
-49,casteni01,2021,0,NLS202107130,CIN,NL,1,9.0,castellanos,nick
-50,muncyma01,2021,0,NLS202107130,LAN,NL,1,10.0,muncy,max
-51,acunaro01,2021,0,NLS202107130,ATL,NL,0,,acuña,ronald
-52,albieoz01,2021,0,NLS202107130,ATL,NL,1,,albies,ozzie
-53,bettsmo01,2021,0,NLS202107130,LAN,NL,0,,betts,mookie
-54,bryankr01,2021,0,NLS202107130,CHN,NL,1,,bryant,kris
-55,buehlwa01,2021,0,NLS202107130,LAN,NL,0,,buehler,walker
-56,burneco01,2021,0,NLS202107130,MIL,NL,1,,burnes,corbin
-57,crawfbr01,2021,0,NLS202107130,SFN,NL,1,,crawford,brandon
-58,croneja01,2021,0,NLS202107130,SDN,NL,1,,cronenworth,jake
-59,darviyu01,2021,0,NLS202107130,SDN,NL,0,,darvish,yu
-60,degroja01,2021,0,NLS202107130,NYN,NL,0,,degrom,jacob
-61,escobed01,2021,0,NLS202107130,ARI,NL,1,,escobar,eduardo
-62,gausmke01,2021,0,NLS202107130,SFN,NL,0,,gausman,kevin
-63,haderjo01,2021,0,NLS202107130,MIL,NL,0,,hader,josh
-64,kimbrcr01,2021,0,NLS202107130,CHN,NL,1,,kimbrel,craig
-65,machama01,2021,0,NLS202107130,SDN,NL,1,,machado,manny
-66,marquge01,2021,0,NLS202107130,COL,NL,1,,márquez,germán
-67,melanma01,2021,0,NLS202107130,SDN,NL,1,,melancon,mark
-68,molinya01,2021,0,NLS202107130,SLN,NL,0,,molina,yadier
-69,narvaom01,2021,0,NLS202107130,MIL,NL,1,,narváez,omar
-70,peralfr01,2021,0,NLS202107130,MIL,NL,1,,peralta,freddy
-71,poseybu01,2021,0,NLS202107130,SFN,NL,0,,posey,buster
-72,reyesal02,2021,0,NLS202107130,SLN,NL,0,,reyes,alex
-73,rogertr01,2021,0,NLS202107130,MIA,NL,1,,rogers,trevor
-74,schwaky01,2021,0,NLS202107130,WAS,NL,0,,schwarber,kyle
-75,sotoju01,2021,0,NLS202107130,WAS,NL,1,,soto,juan
-76,tayloch03,2021,0,NLS202107130,LAN,NL,1,,taylor,chris
-77,turneju01,2021,0,NLS202107130,LAN,NL,1,,turner,justin
-78,turnetr01,2021,0,NLS202107130,WAS,NL,1,,turner,trea
-79,walketa01,2021,0,NLS202107130,NYN,NL,1,,walker,taijuan
-80,wheelza01,2021,0,NLS202107130,PHI,NL,0,,wheeler,zack
-81,woodrbr01,2021,0,NLS202107130,MIL,NL,0,,woodruff,brandon
+,key_bbref,yearID,gameNum,gameID,teamID,lgID,GP,startingPos,name_last,name_first,Name,keyname
+1,perezsa02,2021,0,NLS202107130,KCA,AL,1,2,perez,salvador,Salvador Perez,Salvador Perez2021
+2,guerrvl02,2021,0,NLS202107130,TOR,AL,1,3,guerrero,vladimir,Vladimir Guerrero,Vladimir Guerrero2021
+3,semiema01,2021,0,NLS202107130,TOR,AL,1,4,semien,marcus,Marcus Semien,Marcus Semien2021
+4,deverra01,2021,0,NLS202107130,BOS,AL,1,5,devers,rafael,Rafael Devers,Rafael Devers2021
+5,bogaexa01,2021,0,NLS202107130,BOS,AL,1,6,bogaerts,xander,Xander Bogaerts,Xander Bogaerts2021
+6,hernate01,2021,0,NLS202107130,TOR,AL,1,7,hernandez,teoscar,Teoscar Hernandez,Teoscar Hernandez2021
+7,mullice01,2021,0,NLS202107130,BAL,AL,1,8,mullins,cedric,Cedric Mullins,Cedric Mullins2021
+8,judgeaa01,2021,0,NLS202107130,NYA,AL,1,9,judge,aaron,Aaron Judge,Aaron Judge2021
+9,ohtansh01,2021,0,NLS202107130,LAA,AL,1,10,ohtani,shohei,Shohei Ohtani,Shohei Ohtani2021
+10,altuvjo01,2021,0,NLS202107130,HOU,AL,0,,altuve,jose,Jose Altuve,Jose Altuve2021
+11,anderti01,2021,0,NLS202107130,CHA,AL,0,,anderson,tim,Tim Anderson,Tim Anderson2021
+14,bichebo01,2021,0,NLS202107130,TOR,AL,1,,bichette,bo,Bo Bichette,Bo Bichette2021
+16,brantmi02,2021,0,NLS202107130,HOU,AL,0,,brantley,michael,Michael Brantley,Michael Brantley2021
+19,correca01,2021,0,NLS202107130,HOU,AL,0,,correa,carlos,Carlos Correa,Carlos Correa2021
+20,cruzne02,2021,0,NLS202107130,MIN,AL,1,,cruz,nelson,Nelson Cruz,Nelson Cruz2021
+22,gallojo01,2021,0,NLS202107130,TEX,AL,1,,gallo,joey,Joey Gallo,Joey Gallo2021
+23,garciad02,2021,0,NLS202107130,TEX,AL,1,,garcia,adolis,Adolis Garcia,Adolis Garcia2021
+29,martijd02,2021,0,NLS202107130,BOS,AL,1,,martinez,j. d.,J. D. Martinez,J. D. Martinez2021
+30,merriwh01,2021,0,NLS202107130,KCA,AL,1,,merrifield,whit,Whit Merrifield,Whit Merrifield2021
+31,olsonma02,2021,0,NLS202107130,OAK,AL,1,,olson,matt,Matt Olson,Matt Olson2021
+33,ramirjo01,2021,0,NLS202107130,CLE,AL,1,,ramirez,jose,Jose Ramirez,Jose Ramirez2021
+37,troutmi01,2021,0,NLS202107130,LAA,AL,0,,trout,mike,Mike Trout,Mike Trout2021
+38,walshja01,2021,0,NLS202107130,LAA,AL,1,,walsh,jared,Jared Walsh,Jared Walsh2021
+39,wendljo01,2021,0,NLS202107130,TBA,AL,1,,wendle,joey,Joey Wendle,Joey Wendle2021
+40,zuninmi01,2021,0,NLS202107130,TBA,AL,1,,zunino,mike,Mike Zunino,Mike Zunino2021
+42,realmjt01,2021,0,NLS202107130,PHI,NL,1,2,realmuto,j. t.,J. T. Realmuto,J. T. Realmuto2021
+43,freemfr01,2021,0,NLS202107130,ATL,NL,1,3,freeman,freddie,Freddie Freeman,Freddie Freeman2021
+44,fraziad01,2021,0,NLS202107130,PIT,NL,1,4,frazier,adam,Adam Frazier,Adam Frazier2021
+45,arenano01,2021,0,NLS202107130,SLN,NL,1,5,arenado,nolan,Nolan Arenado,Nolan Arenado2021
+46,tatisfe02,2021,0,NLS202107130,SDN,NL,1,6,tatis,fernando,Fernando Tatis,Fernando Tatis2021
+47,winkeje01,2021,0,NLS202107130,CIN,NL,1,7,winker,jesse,Jesse Winker,Jesse Winker2021
+48,reynobr01,2021,0,NLS202107130,PIT,NL,1,8,reynolds,bryan,Bryan Reynolds,Bryan Reynolds2021
+49,casteni01,2021,0,NLS202107130,CIN,NL,1,9,castellanos,nick,Nick Castellanos,Nick Castellanos2021
+50,muncyma01,2021,0,NLS202107130,LAN,NL,1,10,muncy,max,Max Muncy,Max Muncy2021
+51,acunaro01,2021,0,NLS202107130,ATL,NL,0,,acuna,ronald,Ronald Acuna,Ronald Acuna2021
+52,albieoz01,2021,0,NLS202107130,ATL,NL,1,,albies,ozzie,Ozzie Albies,Ozzie Albies2021
+53,bettsmo01,2021,0,NLS202107130,LAN,NL,0,,betts,mookie,Mookie Betts,Mookie Betts2021
+54,bryankr01,2021,0,NLS202107130,CHN,NL,1,,bryant,kris,Kris Bryant,Kris Bryant2021
+57,crawfbr01,2021,0,NLS202107130,SFN,NL,1,,crawford,brandon,Brandon Crawford,Brandon Crawford2021
+58,croneja01,2021,0,NLS202107130,SDN,NL,1,,cronenworth,jake,Jake Cronenworth,Jake Cronenworth2021
+61,escobed01,2021,0,NLS202107130,ARI,NL,1,,escobar,eduardo,Eduardo Escobar,Eduardo Escobar2021
+65,machama01,2021,0,NLS202107130,SDN,NL,1,,machado,manny,Manny Machado,Manny Machado2021
+68,molinya01,2021,0,NLS202107130,SLN,NL,0,,molina,yadier,Yadier Molina,Yadier Molina2021
+69,narvaom01,2021,0,NLS202107130,MIL,NL,1,,narvaez,omar,Omar Narvaez,Omar Narvaez2021
+71,poseybu01,2021,0,NLS202107130,SFN,NL,0,,posey,buster,Buster Posey,Buster Posey2021
+74,schwaky01,2021,0,NLS202107130,WAS,NL,0,,schwarber,kyle,Kyle Schwarber,Kyle Schwarber2021
+75,sotoju01,2021,0,NLS202107130,WAS,NL,1,,soto,juan,Juan Soto,Juan Soto2021
+76,tayloch03,2021,0,NLS202107130,LAN,NL,1,,taylor,chris,Chris Taylor,Chris Taylor2021
+77,turneju01,2021,0,NLS202107130,LAN,NL,1,,turner,justin,Justin Turner,Justin Turner2021
+78,turnetr01,2021,0,NLS202107130,WAS,NL,1,,turner,trea,Trea Turner,Trea Turner2021
