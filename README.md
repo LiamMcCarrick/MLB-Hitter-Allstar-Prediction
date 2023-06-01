@@ -8,4 +8,6 @@ Predicting MLB position player all stars
 Data Mining for Business Analytics: Concepts, Techniques and Applications in Python
 Book by Galit Shmueli, Nitin R. Patel, and Peter C. Bruce           
 **Inspiration:**            
-https://towardsdatascience.com/using-machine-learning-to-predict-nba-all-stars-part-1-data-collection-9fb94d386530
+https://towardsdatascience.com/using-machine-learning-to-predict-nba-all-stars-part-1-data-collection-9fb94d386530          
+**Documentation**           
+https://github.com/jldbc/pybaseball
